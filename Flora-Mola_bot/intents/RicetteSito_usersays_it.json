@@ -1,0 +1,726 @@
+[
+  {
+    "id": "0b5395af-22de-49d9-8755-6a0eca84d004",
+    "data": [
+      {
+        "text": "Specialità ",
+        "userDefined": false
+      },
+      {
+        "text": "culinarie",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "26aecc5c-0e53-4e5c-b232-ceef347977c3",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare qualcosa di tradizionale",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0213d157-b534-49d4-9a6c-3a19ad32b080",
+    "data": [
+      {
+        "text": "Si un altra ricetta diversa",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "88145ffc-beb9-4e15-89f6-7e5af5a1780d",
+    "data": [
+      {
+        "text": "Ricetta zuppa di pesce",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3bff0b71-4233-4914-a542-dd11b63641aa",
+    "data": [
+      {
+        "text": "Ricetta zuppa di pesce?",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "00179372-19af-4b9c-aa65-5ef590a7b52d",
+    "data": [
+      {
+        "text": "Ricetta",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c148d81f-bc82-4768-8486-e66cc0759758",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "assaggiare qualcosa di tipico",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dbc11d6b-b5fe-4f51-8b82-aa9bcdb02514",
+    "data": [
+      {
+        "text": "Conosci la ricetta della zuppa di pesce?",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3601e6fc-05d1-4538-b8b7-a4265efaa053",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "assaggiare qualcosa di tradizionale",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ba24381d-4630-46f6-a8de-5042157859fb",
+    "data": [
+      {
+        "text": "Vorrei mangiare qualcosa di tuo ",
+        "userDefined": false
+      },
+      {
+        "text": "tipico",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ee8e5cc7-d0bb-4ac6-8689-99188b23891a",
+    "data": [
+      {
+        "text": "Specialità culinarie di Mola",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31ee3997-6e47-473e-9821-5de48cae5149",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "provare qualcosa di tipico",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "82a59eeb-db0f-4a6a-91f2-1c27c50744f7",
+    "data": [
+      {
+        "text": "Che mi dici della zuppa di pesce?",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "852fef15-f708-4582-a8e4-1451a95fb654",
+    "data": [
+      {
+        "text": "Ricette",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fe1868f8-9de4-4315-a760-82ce5efdf72c",
+    "data": [
+      {
+        "text": "Piatti tipici di Mola",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "428df1df-7b80-489b-a8ac-8817d6d7367e",
+    "data": [
+      {
+        "text": "Ricette tipiche molesi",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "349b6f58-e48d-445b-896a-0f897fe137c8",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "preparare qualcosa di tipico",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b732cd26-8d23-455f-bde4-241bc7f6ee77",
+    "data": [
+      {
+        "text": "Conosci delle ",
+        "userDefined": false
+      },
+      {
+        "text": "ricette di cucina tipica",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      },
+      {
+        "text": " di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "23059fdd-67e0-4534-99df-6e6b74b79521",
+    "data": [
+      {
+        "text": "Ricette di cucina",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "58fdc532-f0e4-4f9c-937c-7c2e6b8328b2",
+    "data": [
+      {
+        "text": "Mi troveresti la ricetta della zuppa di pesce?",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a2119010-1766-46f5-b023-af6c65ff8f88",
+    "data": [
+      {
+        "text": "Dimmi qualcosa sulla ",
+        "userDefined": false
+      },
+      {
+        "text": "cucina tipica",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fadcede2-c950-4c18-ae86-16f7e4d4afec",
+    "data": [
+      {
+        "text": "Specialità",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5dc368dc-d1d0-450a-9375-6b6fb74bb073",
+    "data": [
+      {
+        "text": "Vorrei cucinare qualcosa ispirandomi alla ",
+        "userDefined": false
+      },
+      {
+        "text": "cucina",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      },
+      {
+        "text": " tipica di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "02a04704-ec43-4c11-84bf-ec6bd8754827",
+    "data": [
+      {
+        "text": "Vorrei delle ",
+        "userDefined": false
+      },
+      {
+        "text": "ricette tipiche",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4bbb4d5a-94a0-4e96-8e7c-44551af99d6a",
+    "data": [
+      {
+        "text": "Ricette tipiche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "889022a2-652e-4c27-99f2-b8660a6c184c",
+    "data": [
+      {
+        "text": "La ricetta per la zuppa di pesce",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fec7e0c9-0302-44fb-8bd2-b71d05e52458",
+    "data": [
+      {
+        "text": "Come si fa la zuppa di pesce?",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "00c218d4-e494-4571-994f-475abe6c38ce",
+    "data": [
+      {
+        "text": "Da cosa è comporta la zuppa di pesce?",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31b35c2c-b81d-4f1d-935d-587aaa4c971a",
+    "data": [
+      {
+        "text": "Vorrei mangiare qualcosa di tipico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7abc28d5-1b5d-46d4-afa7-6a0a504248c9",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "provare qualcosa di tradizionale",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2909b212-4f28-40d6-b440-e89ddb10f6ed",
+    "data": [
+      {
+        "text": "Ricette tipiche di Mola",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c6b70483-7c29-4099-a51f-2ae2eaaf3fbf",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "preparare qualcosa di tradizionale",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cdb07bc1-43d1-4a69-a07d-b04cf7d8bf91",
+    "data": [
+      {
+        "text": "Specialità",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      },
+      {
+        "text": " del posto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "202f22b9-103e-4715-b159-837b4858443f",
+    "data": [
+      {
+        "text": "Ricette di cucina tipiche di Mola",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ff221b85-f6ca-4c18-9b50-e97a26db0550",
+    "data": [
+      {
+        "text": "La ricetta della zuppa di pesce",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4cab765d-2044-4e0d-b5aa-283a22287300",
+    "data": [
+      {
+        "text": "Dove posso mangiare una zuppa di pesce",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "841eb9c0-7d08-4ee6-8f76-e5f39357da30",
+    "data": [
+      {
+        "text": "Ricetta della zuppa di pesce di Mola",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eb16d869-fb09-4915-a0e2-a6ef1fbf4e2d",
+    "data": [
+      {
+        "text": "Piatti tipici",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "484881c8-0234-46f5-af3e-0503bfed1821",
+    "data": [
+      {
+        "text": "Ricettw",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6078c32d-ac01-4ad6-85bb-841b93f45a12",
+    "data": [
+      {
+        "text": "Culinarie",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c0041e93-3a76-42e8-bcdd-8b1e0e55c39e",
+    "data": [
+      {
+        "text": "Ricette di cucina tipiche",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0c4da81e-b7a9-49c2-be9e-4daa5baba51f",
+    "data": [
+      {
+        "text": "Piatto zuppa di pesce",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "be38a83e-0eaa-46a9-84d6-51ba9199b72f",
+    "data": [
+      {
+        "text": "Zuppa di pesce",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "625e5992-4ce6-4ef0-a317-cbd4072655af",
+    "data": [
+      {
+        "text": "Vorrei conoscere qualcosa in piu sulla zuppa di pesce",
+        "meta": "@Ricetta",
+        "alias": "Ricetta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

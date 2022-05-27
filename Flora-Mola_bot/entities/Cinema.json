@@ -1,0 +1,9 @@
+{
+  "id": "a89d6b45-34f1-4531-a541-fc055dcb7ee9",
+  "name": "Cinema",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,250 @@
+{
+  "id": "614be040-51fd-4662-9963-5659467a62aa",
+  "name": "Pizzeria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "Pizzeria-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d76ebe36-696e-45d5-8a6d-7bf0bbe11c37",
+          "name": "Pizzeria",
+          "required": true,
+          "dataType": "@Pizzeria",
+          "value": "$Pizzeria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d13684d1-6d4c-48a2-9579-74c6b17c138e",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f7bf41a6-91c5-43f9-b479-349e64e1cb8f",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://s3-media1.fl.yelpcdn.com/bphoto/FlFfechCxUSv8Cy53U1Mhw/o.jpg",
+          "subtitle": "Rappresenta il luogo ideale per trascorrere una piacevole serata che appaghi anche il palato!",
+          "title": "PIZZERIA DA ANGELO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/SkSxWTwFgwS2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d2640562-Reviews-Da_Angelo-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/4e/8d/2d/ristorante-taverna-angioina.jpg",
+          "subtitle": "Ambiente tranquillo e informale. Adatto a gruppi di persone e famiglie anche con bambini. Personale esperto e cordiale.",
+          "title": "PIZZERIA LA ROTONDA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Nmqmjz1dmnJ2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3436086-Reviews-La_Rotonda-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.valentinolibro.it/wp-content/uploads/2017/02/pizza-doppio-panello-1024x640.jpg",
+          "subtitle": "A Mola di Bari il \"tempio\" della pizza è Pizzeria Altri Tempi. Accoglienza, simpatia, qualità, bontà: ecco le parole chiave che hanno fatto di Altri Tempi un brand riconosciuto e affidabile nel tempo.",
+          "title": "PIZZERIA ALTRI TEMPI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/bL62EdJfh772",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d4173323-Reviews-Pizzeria_Altri_Tempi-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Premi il pulsante sotto per vedere altre pizzerie 🍕 o per darmi un feedback 😘.",
+          "replies": [
+            "Altre pizzerie 🍕",
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.18169-9/199310_102174029868656_4194877_n.jpg?_nc_cat\u003d108\u0026ccb\u003d1-5\u0026_nc_sid\u003d9267fe\u0026_nc_ohc\u003d0GsbnDRWjUgAX_24nQ2\u0026_nc_ht\u003dscontent-mxp1-1.xx\u0026oh\u003d00_AT9f750tmEKpF46P4KkEl81N1hwMpEhENhdir7I4vjvW1A\u0026oe\u003d6288DF64",
+          "subtitle": "Se sei un amante della cucina italiana devi venire qui. Potrai avere dei deliziosi pizza e panzerotti.",
+          "title": "IL GROTTINO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/PE8J8DSj5xvf54rJ9",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g187874-d2561784-Reviews-Il_Grottino-Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://s3-media1.fl.yelpcdn.com/bphoto/FlFfechCxUSv8Cy53U1Mhw/o.jpg",
+          "subtitle": "Rappresenta il luogo ideale per trascorrere una piacevole serata che appaghi anche il palato!",
+          "title": "PIZZERIA DA ANGELO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/SkSxWTwFgwS2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d2640562-Reviews-Da_Angelo-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/4e/8d/2d/ristorante-taverna-angioina.jpg",
+          "subtitle": "Ambiente tranquillo e informale. Adatto a gruppi di persone e famiglie anche con bambini. Personale esperto e cordiale.",
+          "title": "PIZZERIA LA ROTONDA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Nmqmjz1dmnJ2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3436086-Reviews-La_Rotonda-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/db/f1/d6/pizza-al-pesto.jpg",
+          "subtitle": "A Mola di Bari il \"tempio\" della pizza è Pizzeria Altri Tempi. Accoglienza, simpatia, qualità, bontà: ecco le parole chiave che hanno fatto di Altri Tempi un brand riconosciuto e affidabile nel tempo.",
+          "title": "PIZZERIA ALTRI TEMPI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/bL62EdJfh772",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d4173323-Reviews-Pizzeria_Altri_Tempi-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Premi il pulsante sotto per vedere altre pizzerie.",
+          "replies": [
+            "Altre pizzerie"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Ecco le pizzerie di Mola di Bari\nhttps://www.google.com/maps/search/pizzerie+vicino+a+Mola+Di+Bari,+Mola+di+Bari,+BA/@41.0584248,17.0763571,15z/data\u003d!3m1!4b1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

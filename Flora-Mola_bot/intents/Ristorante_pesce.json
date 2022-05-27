@@ -1,0 +1,245 @@
+{
+  "id": "b35bab0a-936a-490e-9091-1e9a7f43d6ec",
+  "name": "Ristorante_pesce",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riesguo",
+          "lifespan": 1
+        },
+        {
+          "name": "Ristorante_pesce-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b864e8e9-7931-4381-b1ee-2a0d544da4a7",
+          "name": "Pesce",
+          "required": false,
+          "dataType": "@Pesce",
+          "value": "$Pesce",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "27575288-672b-4868-a79a-396822c67c11",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "13551640-17e2-48fd-b3ce-442d9b447df5",
+          "name": "time-period",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "value": "$time-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7a2e9805-76d5-4897-91a5-f5dce56410da",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/04/93/fb/13/al-bel-paese.jpg",
+          "subtitle": "Locale vicino al lungomare di Mola dotato anche di piccola zona esterna con tavoli all\u0027aperto.Il menù è prevalentemente a base di pesce e propone piatti classici con un pizzico di innovazione che merita un plauso per esecuzione e materie prime di qualità.Carta dei vini sapiente e completa, servizio inappuntabile",
+          "title": "Al Bel Paese",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Al+Bel+Paese/@41.06398,17.087083,15z/data\u003d!4m2!3m1!1s0x0:0xe97c797064efe80c?sa\u003dX\u0026ved\u003d0ahUKEwjagPr07YrcAhWQ-6QKHQoIBQMQ_BIIjQEwCg",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d4814898-Reviews-AL_Bel_Paese-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0b/73/94/01/osteria-al-gambero-rozzo.jpg",
+          "subtitle": "Un trionfo di profumi in questa osteria, con pochi coperti ed un servizio spartano. Pesce freschissimo, crudo di mare, ostriche e cozze pelose, polipi e primi favolosi. Il vino della casa è gradevolissimo",
+          "title": "Osteria Al Gambero Rozzo",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Osteria+al+Gambero+Rozzo/@41.0608741,17.0903854,15z/data\u003d!4m2!3m1!1s0x0:0xb8f752824184829a?sa\u003dX\u0026ved\u003d0ahUKEwiv-rra7orcAhWRGuwKHVUkDJwQ_BIIpgEwDA",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d6643510-Reviews-or30-Osteria_Al_Gambero_Rozzo-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.amioparere.com/images/locali/e6e4-dscf2788.jpg",
+          "subtitle": "Tutto ottimo dal cibo al personale. Pesce di ottima qualità, molto fresco e di giornata. Le pietanze tutte saporite e cotte benissimo. Ottima scelta dei vini,.",
+          "title": "IL Rifugio Del Pescatore",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Ristorante+Il+Rifugio+del+Pescatore/@41.0628948,17.0922228,15z/data\u003d!4m2!3m1!1s0x0:0xce03e706062ce4f1?sa\u003dX\u0026ved\u003d0ahUKEwi1ucjd74rcAhUCDewKHQbZATMQ_BIIuwEwCg",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d5860493-Reviews-or10-Il_Rifugio_del_Pescatore-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Se hai voglio di vedere altri ristoranti di pesce puoi premere il pulsante sotto. Se già ti ho accontentato, ringraziami.",
+          "replies": [
+            "Altri ristoranti pes",
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/04/93/fb/13/al-bel-paese.jpg",
+          "subtitle": "Locale vicino al lungomare di Mola dotato anche di piccola zona esterna con tavoli all\u0027aperto.Il menù è prevalentemente a base di pesce e propone piatti classici con un pizzico di innovazione che merita un plauso per esecuzione e materie prime di qualità.Carta dei vini sapiente e completa, servizio inappuntabile",
+          "title": "Al Bel Paese",
+          "buttons": [
+            {
+              "postback": "https://g.page/ristoranti-mola?share",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d4814898-Reviews-AL_Bel_Paese-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0b/73/94/01/osteria-al-gambero-rozzo.jpg",
+          "subtitle": "Un trionfo di profumi in questa osteria, con pochi coperti ed un servizio spartano. Pesce freschissimo, crudo di mare, ostriche e cozze pelose, polipi e primi favolosi. Il vino della casa è gradevolissimo",
+          "title": "Osteria Al Gambero Rozzo",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/7V5Psj9ohrMp1q4y6",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d6643510-Reviews-or30-Osteria_Al_Gambero_Rozzo-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.amioparere.com/images/locali/e6e4-dscf2788.jpg",
+          "subtitle": "Tutto ottimo dal cibo al personale. Pesce di ottima qualità, molto fresco e di giornata. Le pietanze tutte saporite e cotte benissimo. Ottima scelta dei vini,.",
+          "title": "Il Rifugio Del Pescatore",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/YeGTRGTAQM8T22xr7",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d5860493-Reviews-or10-Il_Rifugio_del_Pescatore-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Se hai voglia di vedere altri ristoranti di pesce puoi premere il pulsante sotto.",
+          "replies": [
+            "Altri ristoranti 🐟"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

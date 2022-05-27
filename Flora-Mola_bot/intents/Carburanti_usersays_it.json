@@ -1,0 +1,431 @@
+[
+  {
+    "id": "9d3f6adf-2189-48c2-8651-ed6593bc9c9a",
+    "data": [
+      {
+        "text": "benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "25700c7d-c2c5-43a9-ab3c-83158878b5b8",
+    "data": [
+      {
+        "text": "Vorrei far ",
+        "userDefined": false
+      },
+      {
+        "text": "rifornimento",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "41cd8178-bd59-4559-a2d6-c6cd4cf35b62",
+    "data": [
+      {
+        "text": "Sto cercando un ",
+        "userDefined": false
+      },
+      {
+        "text": "benzinaio",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "92be6b71-d877-457c-aeb9-f5ae32e7076c",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare metano",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      },
+      {
+        "text": " alla macchina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6e9c0b2c-3021-4941-ad4a-0bb493dcfe8a",
+    "data": [
+      {
+        "text": "Dovrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "rifornimento",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c50e895a-d37d-4aea-af7a-8a2d9c7de395",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "fare il pieno",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c89dedca-2777-49a6-8d47-8c02e6f751bf",
+    "data": [
+      {
+        "text": "Fare il pieno",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9f18f8f0-d6c2-4f76-b711-96d1401d56c9",
+    "data": [
+      {
+        "text": "sono in riserva",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "885d4135-dbe7-4ea8-8d12-7099c6dc15c2",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "fare benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e15df82a-f45f-4fa6-a8ba-d4d31da5df22",
+    "data": [
+      {
+        "text": "Voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "rifornimento",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "981381e7-548a-475c-8839-71936bc361fd",
+    "data": [
+      {
+        "text": "Devo mettere ",
+        "userDefined": false
+      },
+      {
+        "text": "del GPL alla macchina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9a14b7db-c215-4095-a0cb-1eb0419cb2e7",
+    "data": [
+      {
+        "text": "stazione di benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f53e512e-0c58-4b98-ba7d-24a833350028",
+    "data": [
+      {
+        "text": "Necessito ti un ",
+        "userDefined": false
+      },
+      {
+        "text": "benzinaio",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f54be668-d498-4ddd-9541-134496781286",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare il pieno",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "892ee4e7-8ab4-4c11-94f2-bce0c6fc5ebf",
+    "data": [
+      {
+        "text": "Devo fare ",
+        "userDefined": false
+      },
+      {
+        "text": "gpl",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9f02589d-c78a-434e-852d-5266bda1a6d2",
+    "data": [
+      {
+        "text": "Pompa di ",
+        "userDefined": false
+      },
+      {
+        "text": "benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3f4f0e01-fb61-411b-a15a-7ca8bf7d40b1",
+    "data": [
+      {
+        "text": "Sono a rosso",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0ed81eb0-5072-44f2-bf70-41d8cd435002",
+    "data": [
+      {
+        "text": "Devo mettere ",
+        "userDefined": false
+      },
+      {
+        "text": "diesel",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "63a086ca-0ffe-4c12-a2ad-25b120f3fb45",
+    "data": [
+      {
+        "text": "Devo mettere ",
+        "userDefined": false
+      },
+      {
+        "text": "benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b00f835b-7ded-42aa-a1e0-f977879a1e19",
+    "data": [
+      {
+        "text": "Ho bisogno di una pompa di ",
+        "userDefined": false
+      },
+      {
+        "text": "benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fd08487d-ab62-4bb9-af28-2893fe205e0e",
+    "data": [
+      {
+        "text": "sono senza ",
+        "userDefined": false
+      },
+      {
+        "text": "benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46350257-85c0-4a7e-a2a6-73b590821585",
+    "data": [
+      {
+        "text": "Devo fare ",
+        "userDefined": false
+      },
+      {
+        "text": "rifornimento",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "74019bb8-4b34-418a-aff9-7a9f73275dda",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare benzina",
+        "meta": "@Carburanti",
+        "alias": "Carburanti",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

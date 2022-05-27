@@ -1,0 +1,375 @@
+[
+  {
+    "id": "71265edc-ee15-410f-9182-9fe9e760041c",
+    "data": [
+      {
+        "text": "Vorrei giocare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027a ",
+        "userDefined": false
+      },
+      {
+        "text": "calcio",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f10bcd6f-e153-4c3f-974d-42cea20f6c69",
+    "data": [
+      {
+        "text": "Centro ",
+        "userDefined": false
+      },
+      {
+        "text": "sportivo",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2c3c7980-3d00-4529-b0ab-0f720801ef45",
+    "data": [
+      {
+        "text": "vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nuotata",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "52a01b74-4417-4758-9229-e384074ff7aa",
+    "data": [
+      {
+        "text": "piscina",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7dbfe2ef-a269-494b-94e2-c3cdfa340441",
+    "data": [
+      {
+        "text": "partite di ",
+        "userDefined": false
+      },
+      {
+        "text": "calcio",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "955440e1-4f2a-453e-89d3-6d7595b412be",
+    "data": [
+      {
+        "text": "Centri",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sportivi",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c8e8cc5a-e839-40b9-95ab-ae3457d58be0",
+    "data": [
+      {
+        "text": "partite di ",
+        "userDefined": false
+      },
+      {
+        "text": "tennis",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5b41583-b14a-4bed-90f7-df78f28bfa6d",
+    "data": [
+      {
+        "text": "Siamo 5, dove posso giocare a ",
+        "userDefined": false
+      },
+      {
+        "text": "calcio",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      },
+      {
+        "text": " qui a mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2796ada1-29c5-4941-880c-afe5a8351d0a",
+    "data": [
+      {
+        "text": "Dove posso fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "partita a calcetto",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3731333e-c4db-4eaa-93ee-a3fd040f030e",
+    "data": [
+      {
+        "text": "impianto",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      },
+      {
+        "text": " sportivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "baaf590a-cef8-4e3a-aa8d-7ac5889968cb",
+    "data": [
+      {
+        "text": "Calcetto",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3fb85ce1-0618-4c5f-890a-88463d62ffd0",
+    "data": [
+      {
+        "text": "impianti",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      },
+      {
+        "text": " sportivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "49b144f8-2620-42bd-8216-0ab9583749d3",
+    "data": [
+      {
+        "text": "Ho bisogno di un ",
+        "userDefined": false
+      },
+      {
+        "text": "campo",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "calcio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6098d2d8-9410-40dd-93a5-e0221fc414f3",
+    "data": [
+      {
+        "text": "Campi da ",
+        "userDefined": false
+      },
+      {
+        "text": "calcio",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "18a9f2a5-3e9b-4c18-b235-95d1b5b6b9d1",
+    "data": [
+      {
+        "text": "Voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "sport",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2414bd1d-dfae-49ae-a2a2-e14d39a9c1c6",
+    "data": [
+      {
+        "text": "C\u0027è un campo da ",
+        "userDefined": false
+      },
+      {
+        "text": "calcio",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "772c7e80-cf01-4b8f-a440-95fce1fbd8c3",
+    "data": [
+      {
+        "text": "vorrei fare una ",
+        "userDefined": false
+      },
+      {
+        "text": "partita",
+        "meta": "@Impianti_Sportivi",
+        "alias": "Impianti_Sportivi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

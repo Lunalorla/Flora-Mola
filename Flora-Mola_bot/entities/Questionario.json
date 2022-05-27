@@ -1,0 +1,9 @@
+{
+  "id": "5a429bbb-f73b-469a-bde0-4be139730a6b",
+  "name": "Questionario",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

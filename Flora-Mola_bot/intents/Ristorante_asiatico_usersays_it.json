@@ -1,0 +1,574 @@
+[
+  {
+    "id": "ca733fe6-e1b6-484b-9514-deffece56110",
+    "data": [
+      {
+        "text": "Asiatico",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6a38384e-7a7d-4b4b-a2ad-775ea39c410c",
+    "data": [
+      {
+        "text": "Ristorante asiatico",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8922fae5-d17d-4bb7-925c-197b978d801f",
+    "data": [
+      {
+        "text": "locali ",
+        "userDefined": false
+      },
+      {
+        "text": "cinesi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f72eeddf-919a-4615-89a5-97f96b697b22",
+    "data": [
+      {
+        "text": "ristorante ",
+        "userDefined": false
+      },
+      {
+        "text": "giapponese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eef570c7-0d6c-4b52-bb79-3b733ded267f",
+    "data": [
+      {
+        "text": "il miglior ristorante ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      },
+      {
+        "text": " a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "407f8061-a2bb-4c62-9bfe-d1510bf2e665",
+    "data": [
+      {
+        "text": "conosci dei ristoranti ",
+        "userDefined": false
+      },
+      {
+        "text": "cinesi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e6c3ae2e-37fa-43a0-811d-0f8c9c2a13e3",
+    "data": [
+      {
+        "text": "Ci sono dei ristoranti ",
+        "userDefined": false
+      },
+      {
+        "text": "cinesi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "552da916-9caf-48d5-be22-0fdbd83f9cd9",
+    "data": [
+      {
+        "text": "Vorrei mangiare della cucina ",
+        "userDefined": false
+      },
+      {
+        "text": "orientale",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "29eb11d2-b43e-44fa-9a05-a3a00299a9f3",
+    "data": [
+      {
+        "text": "consigliami un ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f5811b2d-79a6-4409-8b42-9466f0fc03a1",
+    "data": [
+      {
+        "text": "vorrei del cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c3864216-233e-417a-891d-0d08516f4863",
+    "data": [
+      {
+        "text": "ci sono dei ristoranti ",
+        "userDefined": false
+      },
+      {
+        "text": "giapponesi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7ff0b843-25c1-4482-92ed-171421cb1d84",
+    "data": [
+      {
+        "text": "sushi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "23763d98-6d4d-4b65-a5d9-0095235a7acb",
+    "data": [
+      {
+        "text": "Desidero del ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b0b886cd-75cf-401f-a83c-5dc27b4d1849",
+    "data": [
+      {
+        "text": "un buon locale ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "32730869-0b79-462b-9cf6-d9ea47f0c50f",
+    "data": [
+      {
+        "text": "conosci dei ristoranti ",
+        "userDefined": false
+      },
+      {
+        "text": "giapponesi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3f691892-97e6-4c94-a009-28fc0d6fe1f8",
+    "data": [
+      {
+        "text": "Voglio mangiare del ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "695661bb-be5d-459b-9951-d98cac47aff6",
+    "data": [
+      {
+        "text": "Vorrei mangiare del ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "07446891-7517-4e61-a3d5-8d83ee5a90c8",
+    "data": [
+      {
+        "text": "vorrei del cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "giapponese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0890f22b-aeea-4d3d-a0b3-464bc6bdbc5a",
+    "data": [
+      {
+        "text": "conosci un ristorante ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4022b0b7-1ae8-4f00-9d42-08303f39f0c3",
+    "data": [
+      {
+        "text": "ravioli al vapore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "423faed8-3056-4988-a6c2-0fecaf63fec6",
+    "data": [
+      {
+        "text": "dove posso trovare un ristorante ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1296c121-907f-4c27-a498-82c1e920ecc4",
+    "data": [
+      {
+        "text": "Sono ",
+        "userDefined": false
+      },
+      {
+        "text": "giapponese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e8dcd5b8-d81c-4844-b96c-3fd0759ebe20",
+    "data": [
+      {
+        "text": "ravioli ",
+        "userDefined": false
+      },
+      {
+        "text": "cinesi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b7f3dfa8-5280-4e2c-a003-fe54291ed474",
+    "data": [
+      {
+        "text": "locale ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fc6fe4bf-b27c-4948-a7c3-1c98de33b073",
+    "data": [
+      {
+        "text": "ristorante ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f26ca575-ab88-4c08-8500-a18be5419f72",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3f2171ef-492f-44b9-a416-bdd78b4f251a",
+    "data": [
+      {
+        "text": "Vorrei del ",
+        "userDefined": false
+      },
+      {
+        "text": "giapponese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1ffa7a27-72c4-4c3a-9c89-4b1c2a8caf91",
+    "data": [
+      {
+        "text": "cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "cinese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a3f572a8-ed78-411a-a99d-82cf7e1eb1f8",
+    "data": [
+      {
+        "text": "cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "giapponese",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "da073393-1c5f-467c-91fa-72683b4659f5",
+    "data": [
+      {
+        "text": "ristoranti ",
+        "userDefined": false
+      },
+      {
+        "text": "cinesi",
+        "meta": "@Orientale",
+        "alias": "Orientale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

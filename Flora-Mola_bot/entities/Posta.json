@@ -1,0 +1,9 @@
+{
+  "id": "8c26ef73-d270-4917-b97f-8887ae3aa710",
+  "name": "Posta",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

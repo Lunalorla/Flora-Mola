@@ -1,0 +1,115 @@
+[
+  {
+    "value": "Amaro",
+    "synonyms": [
+      "Amaro",
+      "Grappa"
+    ]
+  },
+  {
+    "value": "Bar",
+    "synonyms": [
+      "Bar"
+    ]
+  },
+  {
+    "value": "Caffè",
+    "synonyms": [
+      "Caffè",
+      "Cappuccino",
+      "Espressino freddo",
+      "Leccese",
+      "caffè corretto",
+      "espressino",
+      "espresso",
+      "gin",
+      "ginseng",
+      "mousse al caffè"
+    ]
+  },
+  {
+    "value": "Colazione",
+    "synonyms": [
+      "Colazione"
+    ]
+  },
+  {
+    "value": "Cornetto",
+    "synonyms": [
+      "Cornetto",
+      "cornetti",
+      "cornetto"
+    ]
+  },
+  {
+    "value": "Dolci",
+    "synonyms": [
+      "Dolci",
+      "cheesecake",
+      "ciambella",
+      "ciambelle",
+      "crepes",
+      "muffin"
+    ]
+  },
+  {
+    "value": "Gelato",
+    "synonyms": [
+      "Cono gelato",
+      "Gelato",
+      "cono",
+      "coppetta gelato"
+    ]
+  },
+  {
+    "value": "Panzerotto",
+    "synonyms": [
+      "Panzerotto",
+      "biscotti",
+      "bombolone",
+      "focaccia",
+      "pasticcini",
+      "taralli",
+      "tarallini"
+    ]
+  },
+  {
+    "value": "Succo di frutta",
+    "synonyms": [
+      "Succo",
+      "Succo di frutta",
+      "succo"
+    ]
+  },
+  {
+    "value": "bevanda",
+    "synonyms": [
+      "acqua",
+      "acqua frizzante",
+      "acqua gassata",
+      "acqua naturale",
+      "aranciata",
+      "bevanda",
+      "chino",
+      "chinotto",
+      "coca cola",
+      "limonata"
+    ]
+  },
+  {
+    "value": "the",
+    "synonyms": [
+      "camomilla",
+      "esta the",
+      "estathe",
+      "fuze thea",
+      "te",
+      "te caldo",
+      "te freddo",
+      "the",
+      "the caldo",
+      "the freddo",
+      "tisana"
+    ]
+  }
+]

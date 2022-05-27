@@ -1,0 +1,77 @@
+{
+  "id": "06999168-3708-4618-8e9f-10cd73b4ca83",
+  "name": "Selezione direzione soldi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Selezionedirezionesoldi-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c45ac48f-7770-423f-8cbe-ff4f85023f4c",
+          "name": "Soldi",
+          "required": true,
+          "dataType": "@Soldi",
+          "value": "$Soldi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Hai bisogno di una banca o una posta?",
+          "replies": [
+            "Banca🏦",
+            "Posta✉️",
+            "Annulla"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Hai bisogno di una banca o delle poste?",
+          "replies": [
+            "Banca",
+            "Poste"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

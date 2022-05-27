@@ -1,0 +1,145 @@
+[
+  {
+    "id": "7c83c942-959c-4d5d-aeee-7b121eb682e3",
+    "data": [
+      {
+        "text": "vai al seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5897156b-9809-4799-a585-a0f9d65e5a81",
+    "data": [
+      {
+        "text": "continua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5a859b54-89c7-4665-9fd6-9dcd3103ea84",
+    "data": [
+      {
+        "text": "vai alla pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d18116e9-0cfd-4681-8ffa-79f028ee905a",
+    "data": [
+      {
+        "text": "mostrami la pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e0f0d8f-107e-48d5-995b-8967560d5b10",
+    "data": [
+      {
+        "text": "risultato seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "98fec42b-391e-4ee9-a5fd-cac9edcdbf85",
+    "data": [
+      {
+        "text": "mostra seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "390cfbb9-711a-45f1-b939-9d2dfd6f8bfc",
+    "data": [
+      {
+        "text": "avanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e694603f-8178-46c3-ad37-a479cfc1b470",
+    "data": [
+      {
+        "text": "leggi i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2172df0d-522f-4b8f-83cf-70ce950270d0",
+    "data": [
+      {
+        "text": "pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d1a2df4a-7817-40d9-9314-cd766971a013",
+    "data": [
+      {
+        "text": "Altre pizzerie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "da41b450-919e-469a-9757-ff27fb909f2f",
+    "data": [
+      {
+        "text": "mostrami i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "64beb77a-00d1-411a-92c7-2cb8b4b7102b",
+    "data": [
+      {
+        "text": "risultato seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "24baecb3-96c0-4653-8f38-d19060f0fd08",
+    "data": [
+      {
+        "text": "Altre Farmacie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ff6e7a57-d56a-4146-9ba8-fbe0e6dfeaed",
+    "data": [
+      {
+        "text": "Altre farmacie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "57a8eec2-b96f-4303-aa46-1ea607d02e85",
+    "data": [
+      {
+        "text": "vai alla pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1e3a30d7-59f8-44fa-bca7-5c9f65385d38",
+    "data": [
+      {
+        "text": "avanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f84e3e33-fac1-4104-bfa0-b6d21bc133f7",
+    "data": [
+      {
+        "text": "pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3928fed6-5fb4-42ec-a933-25e1b47541d5",
+    "data": [
+      {
+        "text": "mostrami i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e2f8f30-f5ff-4a69-b9f7-09b8e5b07f26",
+    "data": [
+      {
+        "text": "mostra seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d75945ba-6f8a-4b42-9309-6709528f7c00",
+    "data": [
+      {
+        "text": "mostrami la pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6aa71001-606a-4827-8c40-9de9ac6b6dcb",
+    "data": [
+      {
+        "text": "vai al seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ad81bdbe-7ab5-4875-8dca-f978f2668720",
+    "data": [
+      {
+        "text": "continua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4c61efb8-b4fc-4d56-831a-814df438782a",
+    "data": [
+      {
+        "text": "leggi i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

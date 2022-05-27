@@ -1,0 +1,76 @@
+{
+  "id": "3ef1e5ce-0cd5-4e76-ab3d-d8deee96a3f3",
+  "name": "riuso",
+  "auto": true,
+  "contexts": [
+    "riuso"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "no_riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ff6b6ab8-6f4f-42a9-99f7-a36d4e0479aa",
+          "name": "Riuso",
+          "required": true,
+          "dataType": "@Riuso",
+          "value": "$Riuso",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Figurati, son qui per darti una mano. Posso fare altro per te?",
+          "replies": [
+            "Dove mangiare",
+            "Dove dormire",
+            "Cosa visitare",
+            "Itinerari"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Posso fare altro per te?",
+          "replies": [
+            "Dove mangiare",
+            "Dove dormire",
+            "Cosa visitare",
+            "Servizi"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

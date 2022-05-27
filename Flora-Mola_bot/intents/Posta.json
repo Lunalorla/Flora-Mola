@@ -1,0 +1,138 @@
+{
+  "id": "8ca9dd68-8ce9-436c-8a7d-f47eaa8172a2",
+  "name": "Posta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8f9f9b96-75e2-4a9f-8515-ff87bce91b8c",
+          "name": "Posta",
+          "required": false,
+          "dataType": "@Posta",
+          "value": "$Posta",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Abbiamo solo due poste a Mola:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://centrotorresina.it/wp-content/uploads/2016/08/PosteItaliane-300x150.png",
+          "subtitle": "sabato\t08:20–12:35 domenica\tChiuso lunedì\t08:20–19:05 martedì\t08:20–19:05 mercoledì\t08:20–19:05 giovedì\t08:20–19:05 venerdì\t08:20–19:05",
+          "title": "Ufficio Postale Poste Italiane",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/tc3i9s1qeHr",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://vignette.wikia.nocookie.net/enciclopediadelleconomia/images/7/7a/Finanziamento_poste_italiane.jpg/revision/latest?cb\u003d20121201095854\u0026path-prefix\u003dit",
+          "subtitle": "sabato\t08:20–12:35 domenica\tChiuso lunedì\t08:20–19:05 martedì\t08:20–19:05 mercoledì\t08:20–19:05 giovedì\t08:20–19:05 venerdì\t08:20–19:05",
+          "title": "Ufficio Postale Poste Italiane",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/d7xEnUmCrmw",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSdmsE1iqGafTHuYgqN44QUrZpiW4icR9CGNQ\u0026usqp\u003dCAU",
+          "subtitle": "sabato\t08:20–12:35 domenica\tChiuso lunedì\t08:20–19:05 martedì\t08:20–19:05 mercoledì\t08:20–19:05 giovedì\t08:20–19:05 venerdì\t08:20–19:05",
+          "title": "Ufficio Postale Poste Italiane",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/rVCkqg4KGStnc5m56",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://vignette.wikia.nocookie.net/enciclopediadelleconomia/images/7/7a/Finanziamento_poste_italiane.jpg/revision/latest?cb\u003d20121201095854\u0026path-prefix\u003dit",
+          "subtitle": "sabato\t08:20–12:35 domenica\tChiuso lunedì\t08:20–19:05 martedì\t08:20–19:05 mercoledì\t08:20–19:05 giovedì\t08:20–19:05 venerdì\t08:20–19:05",
+          "title": "Ufficio Postale Poste Italiane",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/5pWxhbfbGQNo3Tqz9",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ecco i servizi postali di Mola! Ti serve altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

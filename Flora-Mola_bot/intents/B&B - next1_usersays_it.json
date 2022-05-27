@@ -1,0 +1,151 @@
+[
+  {
+    "id": "2868fd35-23d4-4110-96a9-802dd80d82ad",
+    "data": [
+      {
+        "text": "Altri ",
+        "userDefined": false
+      },
+      {
+        "text": "B\u0026B",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "923f612e-b0c4-4c1b-8e89-6ab4a19073ea",
+    "data": [
+      {
+        "text": "vai al seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "18405518-c7e1-4bd5-8ddc-42f47c89d2d2",
+    "data": [
+      {
+        "text": "risultato seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "237abc0c-748f-43cd-b18d-baf5ae9363a0",
+    "data": [
+      {
+        "text": "vai alla pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b0500b42-500f-40d5-98a5-640810a68918",
+    "data": [
+      {
+        "text": "mostrami la pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d44daa29-b9bb-4138-8afc-859369457a5d",
+    "data": [
+      {
+        "text": "mostrami i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2816c1ba-f899-46f2-9343-c7bd7d977cb0",
+    "data": [
+      {
+        "text": "mostra seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c56b11ca-7f69-4a1a-9d9a-eb0b3d54f849",
+    "data": [
+      {
+        "text": "continua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1ae817cc-aed1-43d8-8b01-5552370f7eba",
+    "data": [
+      {
+        "text": "leggi i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e18580b6-c9c5-4b48-b035-71d4ea5c505a",
+    "data": [
+      {
+        "text": "pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "af99ce88-8eae-4fb1-952f-77ed633eb7f5",
+    "data": [
+      {
+        "text": "avanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

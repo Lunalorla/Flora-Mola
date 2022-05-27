@@ -1,0 +1,589 @@
+[
+  {
+    "id": "6ffd4adc-c66e-4bf4-b7ee-61860c042bee",
+    "data": [
+      {
+        "text": "Mi sta venendo la ",
+        "userDefined": false
+      },
+      {
+        "text": "pipì",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1927cb7b-6ba3-4c50-8196-f8db6b10912d",
+    "data": [
+      {
+        "text": "mi potresti dire il ",
+        "userDefined": false
+      },
+      {
+        "text": "bagno pubblico",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      },
+      {
+        "text": " più vicino ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "209659d4-68ea-411e-89ee-c5d74d47a393",
+    "data": [
+      {
+        "text": "sai dirmi dove si trova ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagno pubblico",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d9386605-770f-4ad4-9d67-d8d82511cb99",
+    "data": [
+      {
+        "text": "Avrei delle ",
+        "userDefined": false
+      },
+      {
+        "text": "impellenze",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "519f06ed-d8e0-460b-adf6-45d2d5b7d5e4",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "andare in bagno",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ae3c6295-d4f3-4f79-b19f-8d9cf3e5e62e",
+    "data": [
+      {
+        "text": "bagno pubblico",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "03ab96b3-9b7b-45cd-9837-97778fa4d1b9",
+    "data": [
+      {
+        "text": "devo ",
+        "userDefined": false
+      },
+      {
+        "text": "pisciare",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "944c2393-8c01-48a6-ae44-accc2c99335a",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "defecare",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "363300a4-fa8d-4abd-b1d2-bb4ed9eea5f8",
+    "data": [
+      {
+        "text": "I Need to do ",
+        "userDefined": false
+      },
+      {
+        "text": "cagotto",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "311949e8-8fdd-4920-860d-59638e0e4037",
+    "data": [
+      {
+        "text": "mi scappa la ",
+        "userDefined": false
+      },
+      {
+        "text": "cacca",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "578c6af0-d45a-4fb5-836c-bf95da2e37de",
+    "data": [
+      {
+        "text": "devo ",
+        "userDefined": false
+      },
+      {
+        "text": "cacare",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bd916714-779d-4887-8495-4052927e67aa",
+    "data": [
+      {
+        "text": "dov\u0027è ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagno pubblico?",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bb568680-c5d7-41cb-aa16-007254e79151",
+    "data": [
+      {
+        "text": "Vorrei un bagno",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e5db2072-ad85-43f1-910a-24f5dc834c55",
+    "data": [
+      {
+        "text": "andare in bagno",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1b352ded-74af-4d57-b87c-378400782bee",
+    "data": [
+      {
+        "text": "Dove sono i ",
+        "userDefined": false
+      },
+      {
+        "text": "bagni pubblici",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e1c5950a-7198-4b2e-90c8-3a4598dbef63",
+    "data": [
+      {
+        "text": "Ho detto che voglio fare la ",
+        "userDefined": false
+      },
+      {
+        "text": "pipì",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bc7c1c75-5384-4ca4-8c91-86cab0fbaf0f",
+    "data": [
+      {
+        "text": "avrei ",
+        "userDefined": false
+      },
+      {
+        "text": "bisogno di un bagno",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4b2833fa-7b49-456b-bf58-ad89d0a0e09d",
+    "data": [
+      {
+        "text": "Ho bisogno di un ",
+        "userDefined": false
+      },
+      {
+        "text": "bagno pubblico",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4b4c971e-7ff5-45f8-bcf4-5e7ef873df37",
+    "data": [
+      {
+        "text": "Devo fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pipì",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46b14443-f687-4d96-a4b6-ac84d6d83e3d",
+    "data": [
+      {
+        "text": "Dimmi dove posso andare a fare la ",
+        "userDefined": false
+      },
+      {
+        "text": "cacca",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      },
+      {
+        "text": " senza tornare in hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e3e05641-c58b-4786-bc5e-a5754435d9da",
+    "data": [
+      {
+        "text": "bagno",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d73824aa-0b37-4147-ad06-72ec877d1a53",
+    "data": [
+      {
+        "text": "a Mola ci sono dei ",
+        "userDefined": false
+      },
+      {
+        "text": "bagni pubblici",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2936fb43-6908-491b-873f-7220cd13217a",
+    "data": [
+      {
+        "text": "Dove si trovano i ",
+        "userDefined": false
+      },
+      {
+        "text": "bagni pubblici",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "29edd278-97b9-4ffd-b04c-88f783128d67",
+    "data": [
+      {
+        "text": "bagni pubblici",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6bd644f7-f336-4341-890c-15e1f8867826",
+    "data": [
+      {
+        "text": "Mi scappa la ",
+        "userDefined": false
+      },
+      {
+        "text": "pipì",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "54389d4e-8211-44e4-948d-335dc9fe0e86",
+    "data": [
+      {
+        "text": "Devo dare la ",
+        "userDefined": false
+      },
+      {
+        "text": "pipì",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "025c8123-ce5e-448a-a0c5-ecb60d34084c",
+    "data": [
+      {
+        "text": "Ho da fare la ",
+        "userDefined": false
+      },
+      {
+        "text": "pipì",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "80268cf2-f269-4794-8675-aea26af38972",
+    "data": [
+      {
+        "text": "dovrei ",
+        "userDefined": false
+      },
+      {
+        "text": "andare in bagno",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "44d5cd18-075a-4308-b5fa-95ba877d2859",
+    "data": [
+      {
+        "text": "conosci ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagno pubblico",
+        "meta": "@BagnoPubblico",
+        "alias": "BagnoPubblico",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

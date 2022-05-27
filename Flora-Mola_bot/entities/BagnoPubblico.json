@@ -1,0 +1,9 @@
+{
+  "id": "4e0de4c5-3509-4828-9ca2-15858a25f53a",
+  "name": "BagnoPubblico",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

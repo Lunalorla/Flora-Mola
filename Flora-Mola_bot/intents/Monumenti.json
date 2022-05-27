@@ -1,0 +1,148 @@
+{
+  "id": "17bfd0fc-1643-408c-8de9-82c8a216f396",
+  "name": "Monumenti",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8c2d3b64-9657-482c-a5fd-d4f677ab4bbc",
+          "name": "Monumenti",
+          "required": true,
+          "dataType": "@Monumenti",
+          "value": "$Monumenti",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/10/f0/4c/cc/chiesa-matrice.jpg",
+          "subtitle": "Incantevole cattedrale di stile romanico e romano, costruita quasi contemporaneamente alla basilica San Nicola di Bari, un mix di stili dal Romanico originale al Barocco.",
+          "title": "CHIESA MATRICE",
+          "buttons": [
+            {
+              "postback": "https://telegra.ph/Chiesa-Matrice-09-12",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/2KMqcjWUZTT2",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://iltaccodibacco.it/img/4553.jpg",
+          "subtitle": "un ambiente spazioso ed accogliente! Due piani di Libreria, con sale di lettura, terrazza, giardino e oltre sessantamila volumi.",
+          "title": "PALAZZO ROBERTI",
+          "buttons": [
+            {
+              "postback": "http://telegra.ph/TITLE-07-20-3",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/gmQ1Pmvk6cu",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Teatro_Van_Westerhout_-_Mola_di_Bari.JPG",
+          "subtitle": "Il teatro comunale di Mola di Bari è uno dei più antichi della Puglia, essendo stato costruito nel 1888",
+          "title": "TEATRO VAN WESTERHOUT",
+          "buttons": [
+            {
+              "postback": "https://telegra.ph/TEATRO-VAN-WESTRHOUT-09-12",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/MyLaZqU28Vy",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Premi il pulsante sotto per vedere altri splendidi posti 🏛🌊 o per darmi un feedback 😘.",
+          "replies": [
+            "Altri posti  🏛🌊",
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.terrapugliamare.it/wp-content/uploads/2018/10/IMG-20181020-WA0008.jpg",
+          "subtitle": "Passeggiando nel “salotto buono” della città, nella splendida Piazza XX Settembre, si scorge nella superficie pedonale più ampia della stessa, una grande statua in bronzo raffigurante Doña Flor.",
+          "title": "Statua di Doña Flor",
+          "buttons": [
+            {
+              "postback": "https://www.visitmoladibari.it/blog/la-statua-di-dona-flor-a-mola-di-bari-storia-di-una-nobildonna-spagnola/",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/AADF2ugpELr",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questa è l\u0027unica statua presente a Mola di Bari. Ti serve altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

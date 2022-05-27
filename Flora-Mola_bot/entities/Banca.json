@@ -1,0 +1,9 @@
+{
+  "id": "439c64c0-cd64-422e-804e-9806b8c6f10c",
+  "name": "Banca",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

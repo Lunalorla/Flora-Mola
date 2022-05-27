@@ -1,0 +1,9 @@
+{
+  "id": "1968edc1-e28b-4610-b789-902934ad4831",
+  "name": "InformazioniGeneraliMola",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

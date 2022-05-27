@@ -1,0 +1,156 @@
+[
+  {
+    "id": "e7a03f66-c0e9-430c-9e0b-dfc7440a28a2",
+    "data": [
+      {
+        "text": "dove posso leggere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "libro",
+        "meta": "@Libreria",
+        "alias": "Libreria",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "63ee8933-7796-4b6e-9634-d6d4540b8977",
+    "data": [
+      {
+        "text": "dove sta la ",
+        "userDefined": false
+      },
+      {
+        "text": "libreria",
+        "meta": "@Libreria",
+        "alias": "Libreria",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "965dcd15-673c-415b-bdf5-68ecbb0556f0",
+    "data": [
+      {
+        "text": "libreria",
+        "meta": "@Libreria",
+        "alias": "Libreria",
+        "userDefined": false
+      },
+      {
+        "text": " a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "816358b0-a587-4992-a1d4-b76a215f0747",
+    "data": [
+      {
+        "text": "dove posso comprare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "libro per bambini",
+        "meta": "@Libreria",
+        "alias": "Libreria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "aece9fd2-1691-4551-b9f3-a33c31473b85",
+    "data": [
+      {
+        "text": "dove posso trovare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bel ",
+        "userDefined": false
+      },
+      {
+        "text": "libro",
+        "meta": "@Libreria",
+        "alias": "Libreria",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "402638b7-552d-436b-ae62-49cf7cf4a224",
+    "data": [
+      {
+        "text": "conosci ",
+        "userDefined": false
+      },
+      {
+        "text": "librerie",
+        "meta": "@Libreria",
+        "alias": "Libreria",
+        "userDefined": false
+      },
+      {
+        "text": " a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

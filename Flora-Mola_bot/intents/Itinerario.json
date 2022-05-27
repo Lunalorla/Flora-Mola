@@ -1,0 +1,152 @@
+{
+  "id": "5df43569-e317-4425-8ecf-27687150d3c1",
+  "name": "Itinerario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f15a9e4f-4f32-4866-82fc-20af344e2ea2",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "82bc634e-c829-4927-98dc-e08f8bdb6052",
+          "name": "Itinerario",
+          "required": true,
+          "dataType": "@Itinerario",
+          "value": "$Itinerario",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Chiesa_Matrice_Mola_di_Bari.jpg/800px-Chiesa_Matrice_Mola_di_Bari.jpg",
+          "subtitle": "Un modo per trascorrere felicemente del tempo per se stessi o per la propria famiglia, è sicuramente quello di addentrarsi nei sobborghi della cittadina Molese e di farsi una bella passeggiata costeggiando il nuovo lungomare. Alcune delle principali attrazioni turistiche sono ben fruibili attraverso una bella passeggiata. Itinerario disponibile premendo il bottone sottostante!",
+          "title": "Passeggiata nel cuore di Mola 🏃",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/XmcJMyL4Kd62",
+              "text": "GODITI LA PASSEGGIATA 🏃"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.fanpuglia.it/wp-content/uploads/2018/04/Case-vacanze-Mola-di-bari-Monolocale_6-696x518.jpeg",
+          "subtitle": "Un modo per passare una bella giornata è sicuramente quello di farsi una bella pedalata sul litorale molese, compresa la piccola cittadina di Cozze, godendosi così la splendida vista sulla costiera Adriatica. Itinerario disponibile premendo il bottone sottostante!",
+          "title": "Pedalata lungo il litorale Molese 🚴‍",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/DdRxNE2uG272",
+              "text": "GODITI LA PEDALATA 🚴‍"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono alcuni degli itinerari disponibili, divertiti.",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Chiesa_Matrice_Mola_di_Bari.jpg/800px-Chiesa_Matrice_Mola_di_Bari.jpg",
+          "subtitle": "Un modo per trascorrere felicemente del tempo per se stessi o per la propria famiglia, è sicuramente quello di addentrarsi nei sobborghi della cittadina Molese e di farsi una bella passeggiata costeggiando il nuovo lungomare. Alcune delle principali attrazioni turistiche sono ben fruibili attraverso una bella passeggiata. Itinerario disponibile premendo il bottone sottostante!",
+          "title": "Passeggiata nel cuore di Mola 🏃",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/XmcJMyL4Kd62",
+              "text": "GODITI LA PASSEGGIATA 🏃"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.fanpuglia.it/wp-content/uploads/2018/04/Case-vacanze-Mola-di-bari-Monolocale_6-696x518.jpeg",
+          "subtitle": "Un modo per passare una bella giornata è sicuramente quello di farsi una bella pedalata sul litorale molese, compresa la piccola cittadina di Cozze, godendosi così la splendida vista sulla costiera Adriatica. Itinerario disponibile premendo il bottone sottostante!",
+          "title": "Pedalata lungo il litorale Molese 🚴‍",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/DdRxNE2uG272",
+              "text": "GODITI LA PEDALATA 🚴‍"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono alcuni degli itinerari disponibili, divertiti.",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

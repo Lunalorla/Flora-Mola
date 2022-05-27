@@ -1,0 +1,82 @@
+[
+  {
+    "id": "d3110178-c4d5-4b83-89fc-b330ecda8dae",
+    "data": [
+      {
+        "text": "Questionario",
+        "meta": "@Questionario",
+        "alias": "Questionario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "73b3dd21-be8a-466b-b5b7-cc308c9b0487",
+    "data": [
+      {
+        "text": "Voglio dare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giudizio",
+        "meta": "@Questionario",
+        "alias": "Questionario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "146719ea-53de-4027-9f9e-714ad44627ba",
+    "data": [
+      {
+        "text": "Vorrei dare una ",
+        "userDefined": false
+      },
+      {
+        "text": "valutazione",
+        "meta": "@Questionario",
+        "alias": "Questionario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "685935df-cd55-454a-9535-ace8b6f4d118",
+    "data": [
+      {
+        "text": "Devo compilare il ",
+        "userDefined": false
+      },
+      {
+        "text": "questionario",
+        "meta": "@Questionario",
+        "alias": "Questionario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "cb08e42c-4e73-48d4-a6f9-c40df738cab0",
+  "name": "Aiuto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Posso fornirti informazioni per quanto riguarda:\n\n• ristorazione\n• dove alloggiare\n• servizi pubblici e sanitari\n• luoghi di interesse e svago\n• beni di primo interesse\n• itinerari\n\nChiedimi quello che più ti interessa, utilizzando anche i bottoni di cui sono dotata."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Posso fornirti informazioni per quanto riguarda:\n\n• ristorazione\n• dove alloggiare\n• servizi pubblici e sanitari\n• luoghi di interesse e svago\n• beni di primo interesse\n• itinerari\n\nChiedimi quello che più ti interessa, utilizzando anche i bottoni di cui sono dotata."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

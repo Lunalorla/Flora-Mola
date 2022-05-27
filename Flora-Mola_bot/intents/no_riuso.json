@@ -1,0 +1,106 @@
+{
+  "id": "be10f56c-09e6-4115-82d4-3249f889d5d9",
+  "name": "no_riuso",
+  "auto": true,
+  "contexts": [
+    "no_riuso"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "no_riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "55845352-73fb-4d69-a287-dd2cbdf8732c",
+          "name": "negazione",
+          "required": true,
+          "dataType": "@negazione",
+          "value": "$negazione",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b1eacf0b-2b66-42bd-863d-32ee198950c4",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "A presto, spero!😌",
+          "replies": [
+            "Dove mangiare",
+            "Dove dormire",
+            "Cosa visitare",
+            "Itinerari"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "A presto, spero!😌",
+          "replies": [
+            "Dove mangiare",
+            "Dove dormire",
+            "Cosa visitare",
+            "Servizi"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Okay, quando vuoi, son qui per te!",
+            "Va bene, ricordati che sono sempre qui, solo per te!",
+            "Ricordati, sono sempre a tua disposizione!",
+            "Va bene ma ricordarti, puoi disturbarmi quando vuoi!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

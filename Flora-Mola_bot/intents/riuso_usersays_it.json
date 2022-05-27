@@ -1,0 +1,659 @@
+[
+  {
+    "id": "c74735f0-4168-4896-933f-f2aef292e1bc",
+    "data": [
+      {
+        "text": "Nuova Ricerca",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "937c124d-c1f3-4d70-b471-c38828b1b125",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3ac343cc-f435-4f08-b06d-a86c022883db",
+    "data": [
+      {
+        "text": "Perfetto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e8d1d379-2032-4f03-8d26-bc021f1dcc35",
+    "data": [
+      {
+        "text": "Grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      },
+      {
+        "text": "! 😘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "12436d71-229b-4104-811f-68d5b652b44e",
+    "data": [
+      {
+        "text": "Okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e756aa74-5c4e-4ff2-90c8-1a6bc0f50d39",
+    "data": [
+      {
+        "text": "Ci credo",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "049ce2df-f672-41ba-84f6-36c50d16d515",
+    "data": [
+      {
+        "text": "Grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      },
+      {
+        "text": " 😘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ce1445c3-fb7c-41eb-a5fd-e58eb6ae5727",
+    "data": [
+      {
+        "text": "Indifferente",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3984c1a4-c312-4b55-9914-a5d7b5f95b02",
+    "data": [
+      {
+        "text": "Ci vediamo, bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ba398d1c-736d-43e9-836a-2084e920f428",
+    "data": [
+      {
+        "text": "Grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      },
+      {
+        "text": " ! 😘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b35e76dc-8db9-40f7-9911-c4658c9ecb9b",
+    "data": [
+      {
+        "text": "Grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9091a353-d826-418c-b4e0-06549b343f98",
+    "data": [
+      {
+        "text": "Ci vediamo",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      },
+      {
+        "text": ", bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5cee3e00-4103-4b59-ac4f-76f0c780808f",
+    "data": [
+      {
+        "text": "Non ti ringrazieró mai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1419b370-9eeb-4d25-b6ff-f358ce95f5d2",
+    "data": [
+      {
+        "text": "Perché dovrei, ",
+        "userDefined": false
+      },
+      {
+        "text": "è il tuo lavoro",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9622be37-49ca-42f5-a11b-1993f61636f1",
+    "data": [
+      {
+        "text": "Grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      },
+      {
+        "text": "!😘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6010052a-dd54-4d13-af64-70a808f1abdf",
+    "data": [
+      {
+        "text": "Grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      },
+      {
+        "text": " !😘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "57c010f5-da54-4f1f-b02e-433950a856f8",
+    "data": [
+      {
+        "text": "Brava Giovanna brava",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2631db69-bf84-4e01-b806-3e711091ccf5",
+    "data": [
+      {
+        "text": "Grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      },
+      {
+        "text": "!  😘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a3d2a403-7b52-4a44-8af1-9280cd9de25b",
+    "data": [
+      {
+        "text": "basta così",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "942601ce-a5d1-4c56-a7bb-9a25338ff913",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "finito",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      },
+      {
+        "text": "! ❌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "22ead691-a4ac-45f5-b481-b2060c1ab250",
+    "data": [
+      {
+        "text": "\u003c3",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fff0312d-8f48-484b-94df-2c44be631644",
+    "data": [
+      {
+        "text": "Rispondi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0e7275c2-3678-435b-8411-19820af346aa",
+    "data": [
+      {
+        "text": "okok",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f0c3e841-8c0e-4caf-8b9c-8c59ea04f663",
+    "data": [
+      {
+        "text": "brava",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "727b8034-3848-41e8-b116-59fa8ac422d9",
+    "data": [
+      {
+        "text": "grazie!",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cca35385-b7d7-49eb-8484-ba6e7863cd0b",
+    "data": [
+      {
+        "text": "basta cosi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "469a6367-993b-4fda-86b8-92ec54070754",
+    "data": [
+      {
+        "text": "basta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c7722615-48e9-4e38-8496-eee5b3aa0076",
+    "data": [
+      {
+        "text": "grazie",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ca571e1c-69be-43ef-97a2-54b27e2e9c85",
+    "data": [
+      {
+        "text": "finito",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4540156b-6dcc-4007-ae28-e978e5af2865",
+    "data": [
+      {
+        "text": "Ho finito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f2dd9f77-5ce0-46f0-9fe4-afacb2262488",
+    "data": [
+      {
+        "text": "Vabbé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "326cf3a7-eafd-4c2e-8ef9-84c9baf6176d",
+    "data": [
+      {
+        "text": "SI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "390aedbc-21b9-440c-bb1c-a6768d463e42",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ff8ae6fd-35ac-4c0b-8562-8f86f6ff3534",
+    "data": [
+      {
+        "text": "Ho finito!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b8864099-6436-42a7-8b04-7be559f1bb4a",
+    "data": [
+      {
+        "text": "Ho finito❌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f15b5988-f7e5-46f3-9944-45b7513158f9",
+    "data": [
+      {
+        "text": "Grazie! 😘",
+        "meta": "@Riuso",
+        "alias": "Riuso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b2b5319-03c9-4b30-aab2-0ab22eb6e9bf",
+    "data": [
+      {
+        "text": "Si magari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "88793d9d-4d47-4b7c-b21d-4444373e859f",
+    "data": [
+      {
+        "text": "Brava brava",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "654e6451-96ae-4913-8181-643ce17f1d37",
+    "data": [
+      {
+        "text": "Sei",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "487fb243-33d3-43cb-8462-93b4f7698520",
+    "data": [
+      {
+        "text": "Basta così grazie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "88ada0ea-0234-4a59-b933-55a57cf2089a",
+    "data": [
+      {
+        "text": "Prego.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bb4947fb-b268-43a2-a481-dd4ccdf37f3d",
+    "data": [
+      {
+        "text": "Ti ho detto che ",
+        "userDefined": false
+      },
+      {
+        "text": "sei",
+        "userDefined": false
+      },
+      {
+        "text": " brava",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d35dc3b4-dcb0-448d-8786-2fef0c4e8c45",
+    "data": [
+      {
+        "text": "ringrazia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

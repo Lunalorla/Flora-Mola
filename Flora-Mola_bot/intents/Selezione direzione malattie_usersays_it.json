@@ -1,0 +1,594 @@
+[
+  {
+    "id": "de1417ee-dac4-45ba-9c0a-af2af33706f8",
+    "data": [
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " sono fatto ",
+        "userDefined": false
+      },
+      {
+        "text": "male",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e2124c59-c577-4007-bec4-feb7234ec361",
+    "data": [
+      {
+        "text": "medico",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1f3fff2a-0647-48ab-929f-93c9da6dff8a",
+    "data": [
+      {
+        "text": "Cerco un ",
+        "userDefined": false
+      },
+      {
+        "text": "medico",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "88bacd2b-173c-4472-9aff-6b1e147319ca",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "mal di testa",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8c5f93e4-caf3-4698-8776-5a1c86478b98",
+    "data": [
+      {
+        "text": "Mi sono ",
+        "userDefined": false
+      },
+      {
+        "text": "bruciato",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d521d84f-330b-4245-add0-ee0eb23ee69c",
+    "data": [
+      {
+        "text": "Ho preso ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "insolazione",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d0a0abd4-51ba-4f79-a3da-feee176a43ec",
+    "data": [
+      {
+        "text": "Dottori",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      },
+      {
+        "text": " qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9b6fe63b-0aa6-4f8b-992a-0edeb3000e22",
+    "data": [
+      {
+        "text": "Mi sono ",
+        "userDefined": false
+      },
+      {
+        "text": "scottata",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ac734f52-a418-4314-a1d1-07dcd091e61f",
+    "data": [
+      {
+        "text": "Ospedalo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6eae363c-e2b8-4eaf-847b-6e10420a0262",
+    "data": [
+      {
+        "text": "Sto male",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "66078d66-35cb-443c-a5bd-7e3c5f0518e7",
+    "data": [
+      {
+        "text": "cerco ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dottore",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8d92ab97-8728-4928-a114-693517446c82",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "male ai piedi",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "beefbe1d-7f47-4853-9a9d-392996a59ce3",
+    "data": [
+      {
+        "text": "Mi sto ",
+        "userDefined": false
+      },
+      {
+        "text": "sentendo brutto",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d21bff0a-c12b-45b6-ba6f-c277b164794c",
+    "data": [
+      {
+        "text": "Dovrei andare in ",
+        "userDefined": false
+      },
+      {
+        "text": "ospedale",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "65eaed0f-8488-4edc-b9fb-af1358f53212",
+    "data": [
+      {
+        "text": "Non mi sento bene",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "24f33aca-a0d3-4df2-a184-d9f10b73561f",
+    "data": [
+      {
+        "text": "Non sto bene",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "63461dac-163d-4633-9113-42cdcc9c0702",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "infarto",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bad1bc1f-3d77-4685-831d-ba49d357dd0e",
+    "data": [
+      {
+        "text": "Avrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027 di ",
+        "userDefined": false
+      },
+      {
+        "text": "vomito",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b342d5eb-b3dd-422e-bef0-501a460ee41b",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "drogato",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a27478d8-3d9a-4012-afc1-00d7b8558e80",
+    "data": [
+      {
+        "text": "dottore",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bc0ec315-57a6-416c-989f-c23a589222cc",
+    "data": [
+      {
+        "text": "Penso di avere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "allergia",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9f021f1a-20dd-4970-a132-bf5a194409d6",
+    "data": [
+      {
+        "text": "Sono ubriaco",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "80d436c9-fd7a-4189-8e11-4235e92353f7",
+    "data": [
+      {
+        "text": "Dottore",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      },
+      {
+        "text": " qui a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ca03d8ad-17dd-46e0-b73f-153409984cb3",
+    "data": [
+      {
+        "text": "Ho la ",
+        "userDefined": false
+      },
+      {
+        "text": "pressione alta",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c913d55c-78cb-4752-8fae-d8f750d3ec9e",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "mal di pancia",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9957969b-ff00-4b43-92be-63655cfab6d2",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medico",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a061bc93-9c8b-4261-a861-ddd45df07610",
+    "data": [
+      {
+        "text": "Non mi sento tanto bene",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5cf7ba8-b7ff-4bba-88d2-5e63c92a28ca",
+    "data": [
+      {
+        "text": "Insolazione",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "254a9c93-aa5f-4166-afe4-751bfe6abfaa",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medico",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f91fce3a-3e27-4565-83bc-7e9f284fa22f",
+    "data": [
+      {
+        "text": "Mi sono ",
+        "userDefined": false
+      },
+      {
+        "text": "scottato",
+        "meta": "@Malattia",
+        "alias": "Malattia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

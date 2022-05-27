@@ -1,0 +1,574 @@
+[
+  {
+    "id": "c963f025-1d56-4c0b-aeea-1abe73faf762",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e77e8e98-a04d-43af-adad-77fb1f321da9",
+    "data": [
+      {
+        "text": "Sono senza soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "25d2e59e-93a3-4d53-9369-f370cb0da0ad",
+    "data": [
+      {
+        "text": "Mi sapresti dire dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "11374b97-f6be-4706-86b5-0d19d4639674",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "contante",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6ae0f56c-3416-4a3a-880a-dec2191e0fae",
+    "data": [
+      {
+        "text": "Mi ",
+        "userDefined": false
+      },
+      {
+        "text": "serve",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      },
+      {
+        "text": " il ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "588b32ce-c084-4b2a-9798-9ff6301b1c85",
+    "data": [
+      {
+        "text": "Sono rimasto ",
+        "userDefined": false
+      },
+      {
+        "text": "senza soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46eabbee-9f7c-4b08-adf1-d3ef01e031bd",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "userDefined": false
+      },
+      {
+        "text": "€",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fc04e410-4ebf-45b0-aacf-e955b114bdb6",
+    "data": [
+      {
+        "text": "Sono rimasto ",
+        "userDefined": false
+      },
+      {
+        "text": "senza una lira",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3242b164-09ba-4d7b-b941-5033cb6036fc",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "denaro",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "36235803-8419-4dd9-98f8-370c257d75bd",
+    "data": [
+      {
+        "text": "Dove posso prelevare del ",
+        "userDefined": false
+      },
+      {
+        "text": "denaro",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1b9cc03c-2dd8-4116-be9f-b88479720731",
+    "data": [
+      {
+        "text": "devo prendere ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      },
+      {
+        "text": " dal mio ",
+        "userDefined": false
+      },
+      {
+        "text": "conto corrente",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "126aa932-fd7e-4885-b7ec-42c3ab1cf417",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5a1bac44-7362-4285-bbfb-d71361084326",
+    "data": [
+      {
+        "text": "Dovrei ",
+        "userDefined": false
+      },
+      {
+        "text": "ritirare la pensione",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7f0cad6b-99b3-4995-ab3d-558fe2fed129",
+    "data": [
+      {
+        "text": "Prendere ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "610aa5b3-af29-4d2e-95a5-7716b114ba5f",
+    "data": [
+      {
+        "text": "Contanti",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4b40336f-1e3b-488e-81dd-3713a591e528",
+    "data": [
+      {
+        "text": "Sto senza ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a07b4811-1972-4c7e-a84c-ed1e372df7a5",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f3a00c85-f72d-42c2-98cd-8c49ab3ca484",
+    "data": [
+      {
+        "text": "Ho finito i ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      },
+      {
+        "text": " devo andare a ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5ed6a7fd-34f7-4b2b-9169-a1880f95eedc",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "userDefined": false
+      },
+      {
+        "text": "€",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "32e3670c-7b67-427a-a1f8-22116b36fe15",
+    "data": [
+      {
+        "text": "Prelevare la ",
+        "userDefined": false
+      },
+      {
+        "text": "pensione",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5674732d-e25e-45c4-88ee-0c648c211a7c",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      },
+      {
+        "text": " dei ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fe9edc25-464a-4ff2-85a3-217f829ea7f1",
+    "data": [
+      {
+        "text": "cerco uno ",
+        "userDefined": false
+      },
+      {
+        "text": "sportello",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "86c5e848-d39a-45d3-b478-649f3f5e98ed",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e89d100d-cf48-4d8b-88c3-a86ed818bdc4",
+    "data": [
+      {
+        "text": "Cerco dove ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b8e9653f-1b79-4337-a1f2-59e7f23d81b1",
+    "data": [
+      {
+        "text": "Avrei bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9050a5d3-c610-4843-a06e-0595dd5637fd",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "meta": "@Soldi",
+        "alias": "Soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

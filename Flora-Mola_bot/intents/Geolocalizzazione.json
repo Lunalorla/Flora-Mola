@@ -1,0 +1,93 @@
+{
+  "id": "bfe39a77-74d0-4688-a86f-c74cc30faaa2",
+  "name": "Geolocalizzazione",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Geolocalizzazione-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7d38477b-dafe-41a5-acc5-f70f3dc6dfdc",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNYe6ApMOnpons0RzeODMFF3xXNWNJk3Kp6BYfi\u003dw408-h250-k-no",
+          "subtitle": "Mola di Bari è un comune italiano di 24 567 abitanti della città metropolitana di Bari in Puglia.",
+          "title": "Mola di Bari",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/9iEbkZeLKHVZR4AA8",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ecco un modo per raggiungere Mola! Dimmi se ti serve altro :)",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "text": "Condividi posizione: ",
+              "quick_replies": [
+                {
+                  "content_type": "location"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

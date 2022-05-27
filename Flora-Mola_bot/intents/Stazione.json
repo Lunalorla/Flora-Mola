@@ -1,0 +1,104 @@
+{
+  "id": "d042ba9a-de89-4957-9af4-c4c06ea9b1b9",
+  "name": "Stazione",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51023a8e-0698-4aac-b8dc-99d0671f795a",
+          "name": "Stazione",
+          "required": false,
+          "dataType": "@Stazione",
+          "value": "$Stazione",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bf4e11a6-9688-4786-beb9-07fbe57ace99",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://bari.ilquotidianoitaliano.com/wp-content/uploads/2017/06/mola-di-bari-e1496909750496-696x401.jpg",
+          "subtitle": "La stazione di Mola di Bari è una stazione ferroviaria posta sulla linea Adriatica, a servizio dell\u0027omonimo comune. La fermata è composta da tre binari.  Solitamente il binario 1 viene utilizzato per il traffico diretto verso Brindisi/Lecce mentre i binario 2 viene utilizzato per il traffico diretto a Bari/Foggia. Il binario 1 tronco viene utilizzato come capolinea per la SFM di Bari.",
+          "title": "STAZIONE MOLA DI BARI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/BXCfyipPGMB2",
+              "text": "PORTAMI Lì! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://bari.ilquotidianoitaliano.com/wp-content/uploads/2017/06/mola-di-bari-e1496909750496-696x401.jpg",
+          "subtitle": "La stazione ferroviaria di Mola di Bari è posta sulla linea Adriatica, a servizio dell\u0027omonimo comune. La fermata è composta da tre binari. Solitamente il binario 1 viene utilizzato per il traffico diretto verso Brindisi/Lecce mentre i binario 2 viene utilizzato per il traffico diretto a Bari/Foggia. Il binario 1 tronco viene utilizzato come capolinea per la SFM di Bari.",
+          "title": "STAZIONE MOLA DI BARI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/BXCfyipPGMB2",
+              "text": "PORTAMI Lì! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ecco a te le indicazioni per la stazione ferroviaria! Puoi chiedermi quello che vuoi!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

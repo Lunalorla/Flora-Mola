@@ -1,0 +1,190 @@
+{
+  "id": "0553e4ce-3922-4af1-9fb2-f4bd877102c7",
+  "parentId": "614be040-51fd-4662-9963-5659467a62aa",
+  "rootParentId": "614be040-51fd-4662-9963-5659467a62aa",
+  "name": "Pizzeria - next",
+  "auto": true,
+  "contexts": [
+    "Pizzeria-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Pizzeria.Pizzeria-next",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.justdog.it/photo.aspx?s\u003d1\u0026w\u003d1024\u0026h\u003d768\u0026s1\u0026path\u003d/public/poi/0267/267006/523302.jpg",
+          "subtitle": "Luogo che ha dietro una storia e ha fatto la storia tre le pizzerie di Mola. Posto adatto se siete in gruppo! Qui potrete scegliese una favolosa e gustosa pizza al metro.",
+          "title": "PIZZERIA L\u0027ARCHETTO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/xDxvsQH5ogN2",
+              "text": "PORTAMI Lì! 📍"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d5821204-Reviews-Pizzeria_L_Archetto_Pizza_Al_Metro-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://img.pgol.it/img/R4/86/81/43/1/12921895.jpg",
+          "subtitle": "Ottima pizzeria con personale professionale e qualificato. Locale accogliente e pulito. Giardino moto bello e curato.",
+          "title": "PIZZERIA QUANTO BASTA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/cafGfmEGixp",
+              "text": "PORTAMI Lì! 📍"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g2369850-d2162705-Reviews-Quanto_Basta_Pizzeria-Torre_a_Mare_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/12901113_1192146717470034_157314932261861727_o.jpg?_nc_cat\u003d0\u0026oh\u003df2e7edea24cbb825bc030979fad68296\u0026oe\u003d5BDF81E4",
+          "subtitle": "Pizzeria con qualche variazione su fritture e antipasti. Piz",
+          "title": "PIZZERIA FANTASY",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/LVzYsXzXktx",
+              "text": "PORTAMI Lì! 📍"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g187874-d4308327-Reviews-Trattoria_Pizzeria_Fantasy-Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Queste sotto tutte le pizzerie che conosco. Buona serata!",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.justdog.it/photo.aspx?s\u003d1\u0026w\u003d1024\u0026h\u003d768\u0026s1\u0026path\u003d/public/poi/0267/267006/523302.jpg",
+          "subtitle": "Luogo che ha dietro una storia e ha fatto la storia tre le pizzerie di Mola. Posto adatto se siete in gruppo! Qui potrete scegliese una favolosa e gustosa pizza al metro.",
+          "title": "PIZZERIA L\u0027ARCHETTO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/xDxvsQH5ogN2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d5821204-Reviews-Pizzeria_L_Archetto_Pizza_Al_Metro-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://img.pgol.it/img/R4/86/81/43/1/12921895.jpg",
+          "subtitle": "Ottima pizzeria con personale professionale e qualificato. Locale accogliente e pulito. Giardino moto bello e curato.",
+          "title": "PIZZERIA QUANTO BASTA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/cafGfmEGixp",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g2369850-d2162705-Reviews-Quanto_Basta_Pizzeria-Torre_a_Mare_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.6435-9/50754290_2713084295376261_1583545598697537536_n.jpg?_nc_cat\u003d109\u0026ccb\u003d1-5\u0026_nc_sid\u003de3f864\u0026_nc_ohc\u003d1FrcCrV0YKcAX8-h-nf\u0026_nc_ht\u003dscontent-mxp1-1.xx\u0026oh\u003d00_AT_b5ALAhddoMuiFHD2KNY1e6GRTU0IFWs047fyNqY1qVg\u0026oe\u003d62888093",
+          "subtitle": "Pizzeria con qualche variazione su fritture e antipasti. Pizza buona. Prezzi contenuti. Buon servizio da trattoria. Personale giovane e gentile.",
+          "title": "PIZZERIA FANTASY",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/LVzYsXzXktx",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g187874-d4308327-Reviews-Trattoria_Pizzeria_Fantasy-Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Queste sotto tutte le pizzerie che conosco. Ti posso aiutare in altri modi?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

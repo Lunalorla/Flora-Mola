@@ -1,0 +1,216 @@
+[
+  {
+    "id": "7359c409-19db-417d-ac97-9ecc31928774",
+    "data": [
+      {
+        "text": "Madonna d\u0027Altomare",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "45884ac1-d79d-45cf-9e76-c4bf1cd3ffa6",
+    "data": [
+      {
+        "text": "Sagra del polpo",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "af350360-b813-4874-9b86-edaec8b6af64",
+    "data": [
+      {
+        "text": "festa ",
+        "userDefined": false
+      },
+      {
+        "text": "patronale",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "05de7fa9-e6ad-48c4-b8bf-97c57a60d2a6",
+    "data": [
+      {
+        "text": "Quali sono le ",
+        "userDefined": false
+      },
+      {
+        "text": "festività",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": false
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6d10d9b8-b09a-457a-abb8-201d5e318c5a",
+    "data": [
+      {
+        "text": "quando è la ",
+        "userDefined": false
+      },
+      {
+        "text": "festa patronale",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a574dd0c-14cc-4b2d-ae28-dc1a0047db6e",
+    "data": [
+      {
+        "text": "parlami delle ",
+        "userDefined": false
+      },
+      {
+        "text": "tradizioni",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      },
+      {
+        "text": " di questo paese",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9d74cd0a-b2cd-4e5f-a6eb-4fa98d91f3e1",
+    "data": [
+      {
+        "text": "festa del polpo",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dabdca38-26fd-43df-bdb1-3e099d08a2b8",
+    "data": [
+      {
+        "text": "Tradizioni",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": false
+      },
+      {
+        "text": " di Mola di Bari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "55ed7f5a-523e-44b7-84ac-f7c8f9c3cfcb",
+    "data": [
+      {
+        "text": "Tradizione",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b571d959-3b10-43ec-acf2-785423fff75c",
+    "data": [
+      {
+        "text": "feste patronali",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "70e17b88-a408-4209-876e-a3de8c5061aa",
+    "data": [
+      {
+        "text": "feste di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d05bf1d8-ddab-4a0a-bd5b-b77416b3595b",
+    "data": [
+      {
+        "text": "quali sono le ",
+        "userDefined": false
+      },
+      {
+        "text": "ricorrenze",
+        "meta": "@Tradizioni",
+        "alias": "Tradizioni",
+        "userDefined": true
+      },
+      {
+        "text": " di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

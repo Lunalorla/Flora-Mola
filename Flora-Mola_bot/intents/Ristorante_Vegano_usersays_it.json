@@ -1,0 +1,471 @@
+[
+  {
+    "id": "55476207-d051-49aa-9993-2b079c0a8fea",
+    "data": [
+      {
+        "text": "Vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f68cb086-6e0c-4f22-acab-85907d9b3b36",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8cbbc85e-5359-4a01-bc2a-82b9ea6bea1f",
+    "data": [
+      {
+        "text": "vorrei del cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetariano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "11c49cec-bee0-49a8-9b11-aa16bce541c8",
+    "data": [
+      {
+        "text": "mangiare cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetariano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2b350335-a6b2-4f14-add0-9c7996e2ccda",
+    "data": [
+      {
+        "text": "Ristorante per ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetariano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a3a8dd1a-3dad-4751-83ed-2549259a63c2",
+    "data": [
+      {
+        "text": "posti per ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetariani",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ceec00e5-6f90-4ddf-9c21-a7e163afcb2a",
+    "data": [
+      {
+        "text": "cibo vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f69e9545-a030-4e90-a523-d3ef4e63d47c",
+    "data": [
+      {
+        "text": "Eh sono ",
+        "userDefined": false
+      },
+      {
+        "text": "vegan",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "456e049e-6631-4316-b71a-d8f030a5aee9",
+    "data": [
+      {
+        "text": "locali per ",
+        "userDefined": false
+      },
+      {
+        "text": "vegan",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "531d78a5-8750-4985-89da-0ad98e02480f",
+    "data": [
+      {
+        "text": "Eh sono ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ad1742e0-4809-4bf2-ab15-5dcfb257496c",
+    "data": [
+      {
+        "text": "mangiare cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c865e757-6ca2-4b84-84d2-d5f3c84db120",
+    "data": [
+      {
+        "text": "Vegan",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8d349cb8-4a91-446c-8585-4f057468faa9",
+    "data": [
+      {
+        "text": "Posti per ",
+        "userDefined": false
+      },
+      {
+        "text": "vegani",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "91cedcef-d9be-4b5e-9cf7-8dfc959e5f98",
+    "data": [
+      {
+        "text": "Ristorante per ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b857e8b0-1201-4204-89fb-d24f1698faf7",
+    "data": [
+      {
+        "text": "conosci un ristorante ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "df864f14-1075-4a41-92bd-3bbb72f7dc6a",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027insalata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "382ef364-bcdc-467e-b724-5307b2992097",
+    "data": [
+      {
+        "text": "Sono ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ce7f8d1c-a084-4600-a12f-f4ddcb7a3bdf",
+    "data": [
+      {
+        "text": "vorrei del cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "590dcd9f-cb36-49e8-81c8-5fc1e1f6ac8f",
+    "data": [
+      {
+        "text": "Ristoranti ",
+        "userDefined": false
+      },
+      {
+        "text": "vegan",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "13a05fb6-e231-4e70-a756-a29a48c36242",
+    "data": [
+      {
+        "text": "Eh no sono ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9b6d9612-1ab5-4d8b-9893-4b69986eb879",
+    "data": [
+      {
+        "text": "Poi voglio mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c600b0e3-7693-4929-8bb2-e96c9db9f6b2",
+    "data": [
+      {
+        "text": "Ho anche un amico ",
+        "userDefined": false
+      },
+      {
+        "text": "vegan",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "644fa96a-ae3a-41f1-9d8a-5fdabb86bbc9",
+    "data": [
+      {
+        "text": "Vegetariano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8c1ef885-56f4-4fcd-a6ef-2487ba0be99d",
+    "data": [
+      {
+        "text": "Vorrei mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "74021101-1f53-419b-a427-5997cca5a3e2",
+    "data": [
+      {
+        "text": "dove posso mangiare cibo ",
+        "userDefined": false
+      },
+      {
+        "text": "vegano",
+        "meta": "@Vegan",
+        "alias": "Vegan",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

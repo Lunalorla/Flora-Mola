@@ -1,0 +1,244 @@
+[
+  {
+    "id": "ead2f3c8-e5f4-4527-8b16-eb6b100a6acb",
+    "data": [
+      {
+        "text": "ci sono delle ",
+        "userDefined": false
+      },
+      {
+        "text": "statue",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d933e747-41d3-46cc-b3f5-90e42b6d9632",
+    "data": [
+      {
+        "text": "Statua",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Dona",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "flor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bdd85634-bf64-48b7-b83a-3c2846573e4a",
+    "data": [
+      {
+        "text": "Dona Flor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d1c46ee6-6595-46d2-86c4-00c11de7a72d",
+    "data": [
+      {
+        "text": "Statue",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "264dcde7-bf08-4036-80b9-009de6cf9f37",
+    "data": [
+      {
+        "text": "Statua",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4b6012f9-2f64-433d-8d8a-c0758175b877",
+    "data": [
+      {
+        "text": "monumenti",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "18bc1190-c20f-477f-98c8-d5281c7644b2",
+    "data": [
+      {
+        "text": "monumenti",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": true
+      },
+      {
+        "text": " da visitare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "be057133-7b78-4d7a-adf7-f439bb73452f",
+    "data": [
+      {
+        "text": "dammi un ",
+        "userDefined": false
+      },
+      {
+        "text": "monumento",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "10c026e0-3a4a-45b4-ab59-48dc8047b478",
+    "data": [
+      {
+        "text": "trovami un ",
+        "userDefined": false
+      },
+      {
+        "text": "monumento",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "405e6334-fa43-4451-8254-04470f19a289",
+    "data": [
+      {
+        "text": "trovami un ",
+        "userDefined": false
+      },
+      {
+        "text": "monumenti",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5f580af8-f2aa-4f94-b50d-093bb67133d7",
+    "data": [
+      {
+        "text": "Voglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "foto ricordo",
+        "userDefined": true
+      },
+      {
+        "text": " con un ",
+        "userDefined": false
+      },
+      {
+        "text": "monumento",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": true
+      },
+      {
+        "text": " di mola quale mi consigli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0e1f6bc5-c6dd-41c9-b877-b55c34a2a4c0",
+    "data": [
+      {
+        "text": "Monumento",
+        "meta": "@Monumenti",
+        "alias": "Monumenti",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

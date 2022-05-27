@@ -1,0 +1,593 @@
+[
+  {
+    "id": "70bb0de9-a63d-4afd-ae4f-3a062bf2ddf8",
+    "data": [
+      {
+        "text": "Sai dove posso ricaricare la ",
+        "userDefined": false
+      },
+      {
+        "text": "paypal",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e5bebe12-bb08-4dcb-820f-d86f7a1cd23f",
+    "data": [
+      {
+        "text": "avrei voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "scommettere",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "278b6aab-42ac-40c9-916a-b04fcfc5c29c",
+    "data": [
+      {
+        "text": "gratta e vinci",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5d00c92f-e153-4828-8952-9653a411dd66",
+    "data": [
+      {
+        "text": "Sai dove posso comprare un ",
+        "userDefined": false
+      },
+      {
+        "text": "gratta e vinci",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "edf2029e-01e8-47a1-a72a-fa211d0460ba",
+    "data": [
+      {
+        "text": "Vorrei un pacco di ",
+        "userDefined": false
+      },
+      {
+        "text": "goleador",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "71c72278-379a-46f6-8259-aff3e03d4aa1",
+    "data": [
+      {
+        "text": "Dove posso trovare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tabacchino",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cae9823d-07d7-4200-a670-81ad375abd63",
+    "data": [
+      {
+        "text": "Dove posso comprare delle ",
+        "userDefined": false
+      },
+      {
+        "text": "sigarette",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "408c96b5-cf6d-47c2-94d0-cf56369325d5",
+    "data": [
+      {
+        "text": "Sai dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "ricaricare il telefono",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5da2742c-6ebd-4ab2-a34d-3ac0db14fa91",
+    "data": [
+      {
+        "text": "Ho bisogni di ",
+        "userDefined": false
+      },
+      {
+        "text": "fumare",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fceebf1f-b853-44c5-bc8d-623c0fec7cef",
+    "data": [
+      {
+        "text": "superenalotto",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e0aff2ad-1ffb-40d8-91ff-aadfe574b665",
+    "data": [
+      {
+        "text": "Sai dove posso fare una ",
+        "userDefined": false
+      },
+      {
+        "text": "ricarica",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f97a795b-f936-41fc-a1fa-8f86f7196e79",
+    "data": [
+      {
+        "text": "Esiste una ",
+        "userDefined": false
+      },
+      {
+        "text": "snai",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      },
+      {
+        "text": " qui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "57275eb4-108e-491b-b97a-8f2ce42051c0",
+    "data": [
+      {
+        "text": "tabaccaio",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "06b9c680-0d38-4574-acde-49fb444d0fea",
+    "data": [
+      {
+        "text": "voglio giocare i numeri del ",
+        "userDefined": false
+      },
+      {
+        "text": "lotto",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0963c490-5d03-43b4-92a6-03d2f1f14353",
+    "data": [
+      {
+        "text": "Conosci un centro ",
+        "userDefined": false
+      },
+      {
+        "text": "Sisal",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "edea9ce1-c936-491b-916e-d3b127d18fd1",
+    "data": [
+      {
+        "text": "Voglio fumare una sigaretta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ac9edd4a-ed40-43dd-8e1e-f41864ae9f6a",
+    "data": [
+      {
+        "text": "Sai dove posso fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ricarica",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c4e553fd-a4cc-4112-ac66-13b58a760964",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "finito le sigarette",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "deeb5d7e-2242-4c1b-8de1-a9098dc78fe0",
+    "data": [
+      {
+        "text": "dove comprare delle ",
+        "userDefined": false
+      },
+      {
+        "text": "marlboro",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b92cc21e-5b3e-42a8-9566-033eaf4fbfde",
+    "data": [
+      {
+        "text": "ho bisogno delle ",
+        "userDefined": false
+      },
+      {
+        "text": "cartine",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "382f553a-073c-4c35-94ce-df7b49afd59a",
+    "data": [
+      {
+        "text": "Devo comprare il ",
+        "userDefined": false
+      },
+      {
+        "text": "tabacco",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46ce19e0-c32e-4a22-86c1-5d23c332d4c7",
+    "data": [
+      {
+        "text": "Tabaccheria",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "84dc98fa-2834-41a1-9022-9a3f4bf3f554",
+    "data": [
+      {
+        "text": "Tabacchino",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b4f70268-4519-4126-b4d3-633c00f98479",
+    "data": [
+      {
+        "text": "Avrei bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "fumare",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9ebe793c-5873-4afc-9fcb-469e2d21d91c",
+    "data": [
+      {
+        "text": "Vorrei delle ",
+        "userDefined": false
+      },
+      {
+        "text": "sigarette",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "679f6b23-1063-4624-8c22-745e8acf1b86",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "fumare",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "94715d69-0cb7-4e4a-9bd1-9130429136d9",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "fumare",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": true
+      },
+      {
+        "text": " ma ho finito le ",
+        "userDefined": false
+      },
+      {
+        "text": "sigarette",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e2137843-796f-4038-b65e-7da77169c6ab",
+    "data": [
+      {
+        "text": "vorrei comprare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gratta e vinci",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8b4e72ba-5230-4562-891e-cf8d91855e8f",
+    "data": [
+      {
+        "text": "Sigarette",
+        "meta": "@Tabacchi",
+        "alias": "Tabacchi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

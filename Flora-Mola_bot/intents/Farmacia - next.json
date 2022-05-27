@@ -1,0 +1,161 @@
+{
+  "id": "d1a408e0-f3ab-45c3-baf2-f215da28fdb1",
+  "parentId": "a91defa9-23f6-41f8-844f-86a5773cd039",
+  "rootParentId": "a91defa9-23f6-41f8-844f-86a5773cd039",
+  "name": "Farmacia - next",
+  "auto": true,
+  "contexts": [
+    "Farmacia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Farmacia.Farmacia-next",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "sabato \t      Chiuso  \t domenica \t      Chiuso  \t domenica Chiuso lunedì \t      08:30–13     17–21  \t martedì \t      08:30–13     17–21  \t mercoledì \t      08:30–13     17–21  \t giovedì \t      08:30–13     17–21  \t venerdì \t      08:30–13     17–21",
+          "title": "Farmacia Pesce Del Dr. Roberto Carrata",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/eBoCFsTigP32",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "sabato \t      08:30–13     16:30–20:30  \t domenica \t      Chiuso  \t lunedì \t      08:30–13     16:30–20:30  \t martedì \t      08:30–13     16:30–20:30  \t mercoledì \t      08:30–13     16:30–20:30  \t giovedì \t      08:30–13     16:30–20:30  \t venerdì \t      08:30–13     16:30–20:30",
+          "title": "Farmacia Partipilo Dr.Ssa Maria Rosaria",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/kYo531FzfJ62",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "sabato \t      08:27–20  \t domenica \t      Chiuso  \t lunedì \t      08:27–20  \t martedì \t      08:27–20  \t mercoledì \t      08:27–20  \t giovedì \t      08:27–20  \t venerdì \t      08:27–20",
+          "title": "Farmacia Spiga Vittorio",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/ZfSbkWSLLFo",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Spero troverai ciò che fa al caso tuo...",
+          "replies": [
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOhv4WjmdTdA7kedF_2N8TveVNo442u405hNWA\u003dw408-h408-k-no",
+          "subtitle": "sabato \t      08:27–20  \t domenica \t      Chiuso  \t lunedì \t      08:27–20  \t martedì \t      08:27–20  \t mercoledì \t      08:27–20  \t giovedì \t      08:27–20  \t venerdì \t      08:27–20",
+          "title": "Farmacia Spiga Vittorio",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/N6MKRXPZBmmfXnCk6",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "sabato \t      Chiuso  \t domenica \t      Chiuso  \t domenica Chiuso lunedì \t      08:30–13     17–21  \t martedì \t      08:30–13     17–21  \t mercoledì \t      08:30–13     17–21  \t giovedì \t      08:30–13     17–21  \t venerdì \t      08:30–13     17–21",
+          "title": "Farmacia Pesce Del Dr. Roberto Carrata",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/JYiXZBdceVsCpf7U8",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "sabato \t      08:30–13     16:30–20:30  \t domenica \t      Chiuso  \t lunedì \t      08:30–13     16:30–20:30  \t martedì \t      08:30–13     16:30–20:30  \t mercoledì \t      08:30–13     16:30–20:30  \t giovedì \t      08:30–13     16:30–20:30  \t venerdì \t      08:30–13     16:30–20:30",
+          "title": "Farmacia Partipilo Dr.Ssa Maria Rosaria",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/wY85uSvYGW7qXdFp9",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Spero troverai ciò che fa al caso tuo!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

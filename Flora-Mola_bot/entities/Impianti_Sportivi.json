@@ -1,0 +1,9 @@
+{
+  "id": "15b67ee3-2eba-4d26-8228-972c91f68042",
+  "name": "Impianti_Sportivi",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

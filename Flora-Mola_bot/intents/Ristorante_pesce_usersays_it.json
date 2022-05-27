@@ -1,0 +1,765 @@
+[
+  {
+    "id": "9c399cae-ac4b-479e-bdb5-d80db7be91d2",
+    "data": [
+      {
+        "text": "Vorrei mangiare del ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "da3a0986-4eb1-4dec-b786-6a073ba58550",
+    "data": [
+      {
+        "text": "Dove posso comprare un ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b9f223a8-cac7-4022-b4e6-ec6a1c07e955",
+    "data": [
+      {
+        "text": "Pesce©",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "373e6a66-a73f-4cb2-accc-0d3fcb9c75c2",
+    "data": [
+      {
+        "text": "Dove posso mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      },
+      {
+        "text": " domani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bc9bf959-4cfb-410b-bfe6-866043dfb3ad",
+    "data": [
+      {
+        "text": "Panino con ",
+        "userDefined": false
+      },
+      {
+        "text": "polpo",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ddec85f1-9f98-49a0-865f-cf2dc3bcc254",
+    "data": [
+      {
+        "text": "panini con ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8b20f4c9-224a-4bb6-817f-105de4e5fdbb",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " buon piatto di ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cdeadd75-e137-42ef-8284-5144396ba81b",
+    "data": [
+      {
+        "text": "Vorrei mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      },
+      {
+        "text": " domani sera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a21304ae-235c-4466-96f9-7b26f550b5bc",
+    "data": [
+      {
+        "text": "Ristorante ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8899e5b4-b61e-4141-b759-4500a6db26dc",
+    "data": [
+      {
+        "text": "Ristorante di ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2cd5bc16-4a84-4336-baf3-dbec3713afaa",
+    "data": [
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1e6bfb4d-d17f-42fc-8c80-02ae6c415d70",
+    "data": [
+      {
+        "text": "Dove posso mangiare una buona ",
+        "userDefined": false
+      },
+      {
+        "text": "zuppa di pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      },
+      {
+        "text": " a mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d6c53996-9c1c-4ec4-bbdb-597741b1d80f",
+    "data": [
+      {
+        "text": "Cozze",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "06606cc7-90eb-40bf-8e44-a1d821b82126",
+    "data": [
+      {
+        "text": "Desidero del ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46ea731f-0330-4092-8366-241de936ece4",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce fritto",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3e1b1968-1ac2-4c84-b355-b3926eb83d21",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "20d4e13a-4e45-4b82-babc-41594c5709d1",
+    "data": [
+      {
+        "text": "Pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6c15033a-fac5-4feb-a233-b8dad6341d7e",
+    "data": [
+      {
+        "text": "Dove posso mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d26ba1b5-1903-4085-9e2a-e3db6c1d48b9",
+    "data": [
+      {
+        "text": "Vorrei mangiare un panino con il ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "77545cc7-c740-4411-a0ef-ae4ea7ae0205",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      },
+      {
+        "text": " una zuppe di pesce?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4e7ba68c-2a2e-4496-84bd-7b9d0bb97331",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " piatto di ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "db55bb9b-edbc-4c3a-8efb-105e256b9f86",
+    "data": [
+      {
+        "text": "Voglio dei ",
+        "userDefined": false
+      },
+      {
+        "text": "calamari",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6a01a535-acef-44ca-acc5-d87faa7c12f5",
+    "data": [
+      {
+        "text": "E se voglio del ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1325db14-e759-47b2-aac1-01ca17aee168",
+    "data": [
+      {
+        "text": "Dove posso mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " buona ",
+        "userDefined": false
+      },
+      {
+        "text": "zuppa",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      },
+      {
+        "text": " a mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cb51cab2-a71c-461c-af38-27faa83222d4",
+    "data": [
+      {
+        "text": "Paninazzi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f6350b14-ba90-4980-91c3-bc5167043fc8",
+    "data": [
+      {
+        "text": "Vorrei mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "acae176e-4890-4673-91e8-113889870265",
+    "data": [
+      {
+        "text": "Però poi voglio mangiare del ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "051dd9c9-ecbb-4a8d-af14-d81046e0ab3d",
+    "data": [
+      {
+        "text": "Oggi",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4e4d79bd-2f4c-44df-bc5c-ec47c19ac147",
+    "data": [
+      {
+        "text": "Ristoranti di pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8395abc9-8834-48b2-b765-372e090e8a2a",
+    "data": [
+      {
+        "text": "Vorrei mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sera",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dbec239f-fc8b-4f9e-a263-06deeb95cc48",
+    "data": [
+      {
+        "text": "Vorrei del ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9760acd1-ded6-43ae-9f17-86afe937280b",
+    "data": [
+      {
+        "text": "Vorrei mangiare del ",
+        "userDefined": false
+      },
+      {
+        "text": "polpo",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "819c9c09-0302-4577-a7b0-85c197a53e68",
+    "data": [
+      {
+        "text": "Consigliami un ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante di pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3f01b797-ab63-48ed-a333-ec6318f0aca3",
+    "data": [
+      {
+        "text": "Panino col ",
+        "userDefined": false
+      },
+      {
+        "text": "polpo",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "db634d17-bdcc-4a35-9d36-f713ef436f05",
+    "data": [
+      {
+        "text": "panino col ",
+        "userDefined": false
+      },
+      {
+        "text": "polipo",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d358694e-0196-4b75-91f9-0da982c6eacd",
+    "data": [
+      {
+        "text": "Voglio dei ",
+        "userDefined": false
+      },
+      {
+        "text": "gamberetti",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fd1124d4-1dae-4f12-8427-a4896ac9300f",
+    "data": [
+      {
+        "text": "Vorrei un panino col ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Pesce",
+        "alias": "Pesce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

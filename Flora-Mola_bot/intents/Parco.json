@@ -1,0 +1,203 @@
+{
+  "id": "95465ff7-8172-412b-800a-e692f19e4eb3",
+  "name": "Parco",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d6d92c0c-ede9-4447-b939-a17edbb0502c",
+          "name": "Parco",
+          "required": false,
+          "dataType": "@Parco",
+          "value": "$Parco",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://img.grouponcdn.com/deal/mZy6cYCaadksJD69b5HNjDFJAUm/mZ-960x576/v1/c700x420.jpg",
+          "subtitle": "Gommoland è un parco giochi con 2500 mq. di divertimento per tutti.  L’ideale per intrattenersi all’aperto con la famiglia e gli amici e gustare spensieratamente un’ottima pizza cotta con forno a legna mentre i bambini giocano in un ambiente privo di pericoli.",
+          "title": "Gommoland",
+          "buttons": [
+            {
+              "postback": "http://www.gommoland.it/contact.html",
+              "text": "PORTAMI LI\u0027!🎯"
+            },
+            {
+              "postback": "http://www.gommoland.it/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.reggiadimonza.it/sites/default/files/styles/dettaglio2x1/public/content/pagina/immagini/1449/parco_tag3415.jpg?itok\u003dsbZgR4hF",
+          "subtitle": "Questo parco, situato al centro città è ottimo per trascorrere giornate di primavera o estive in compagnia o da soli, avvolti nel verde della natura.",
+          "title": "Parco in centro",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Parco+Giochi+Mola+di+",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.geoplan.it/files/P3631/adv/87933.jpg",
+          "subtitle": "Sala Feste, allestimenti personalizzati e buffet, Baby Parking, intrattenimento e animazione, Play \u0026 Soft Ground, giochi e mascotte.",
+          "title": "PeekaBoo",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Peek+A+Boo+Di+Rotondi+Maria+Benedette/@41.0599811,17.0887262,15z/data\u003d!4m2!3m1!1s0x0:0xdb3ca8e1bece24db?sa\u003dX\u0026ved\u003d2ahUKEwiF5OPe4ZvcAhVGG5oKHQPmAnsQ_BIwF3oECAoQCw",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.laserracamp.com/components/com_eventgallery/helpers/image.php?\u0026mode\u003dfull\u0026folder\u003dpiscina_sopraelevata\u0026file\u003dDSC03837.JPG",
+          "subtitle": "Affiliata CSAIN dal 2010 si prodiga da anni nello sviluppo dello sport e dei suoi valori, partendo dalle attività riservate ai più piccoli fino a giungere ai tornei amatoriali per i più grandi, sempre cercando di esaltare i principi più nobili delle varie discipline sportive",
+          "title": "Centro Sportivo La Serra",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/WmydRWEHxo32",
+              "text": "PORTAMI LI\u0027!🎯"
+            },
+            {
+              "postback": "http://www.laserracamp.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono i parchi presenti a Mola. Divertiti anche per me :)",
+          "replies": [
+            "Grazie ! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://img.grouponcdn.com/deal/mZy6cYCaadksJD69b5HNjDFJAUm/mZ-960x576/v1/c700x420.jpg",
+          "subtitle": "Gommoland è un parco giochi con 2500 mq. di divertimento per tutti.  L’ideale per intrattenersi all’aperto con la famiglia e gli amici e gustare spensieratamente un’ottima pizza cotta con forno a legna mentre i bambini giocano in un ambiente privo di pericoli.",
+          "title": "Gommoland",
+          "buttons": [
+            {
+              "postback": "http://www.gommoland.it/contact.html",
+              "text": "PORTAMI LI\u0027!🎯"
+            },
+            {
+              "postback": "http://www.gommoland.it/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPVQ_KVNfkVmnfz6gqbqCb-Jmp_jgkRYawqLiw\u003dw408-h306-k-no",
+          "subtitle": "Questo parco, situato al centro città è ottimo per trascorrere giornate di primavera o estive in compagnia o da soli, avvolti nel verde della natura.",
+          "title": "Parco in centro",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/zsspkraghW3hCideA",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.18169-1/1016362_545867675520397_1660838280_n.jpg?stp\u003ddst-jpg_p200x200\u0026_nc_cat\u003d107\u0026ccb\u003d1-5\u0026_nc_sid\u003d1eb0c7\u0026_nc_ohc\u003d8KE0wg-OamoAX8aK-wT\u0026_nc_ht\u003dscontent-mxp1-1.xx\u0026oh\u003d00_AT9D7nP9sZIPbEvis_sVPVn7g58-Cp0RWk_tkm6qjAyQAQ\u0026oe\u003d628612A0",
+          "subtitle": "Sala Feste, allestimenti personalizzati e buffet, Baby Parking, intrattenimento e animazione, Play \u0026 Soft Ground, giochi e mascotte.",
+          "title": "PeekaBoo",
+          "buttons": [
+            {
+              "postback": "https://g.page/Peekaboo-Mola?share",
+              "text": "PORTAMI LI!🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/peekaboo.mola/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono i parchi presenti a Mola. Divertiti anche per me :)",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

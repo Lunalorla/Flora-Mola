@@ -1,0 +1,9 @@
+{
+  "id": "1455017b-a3aa-44b8-a297-e1f6174700bc",
+  "name": "Servizi_Pubblici",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

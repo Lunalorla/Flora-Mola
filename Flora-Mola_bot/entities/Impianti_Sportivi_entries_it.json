@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Impianti sportivi",
+    "synonyms": [
+      "Impianti sportivi",
+      "campo",
+      "palazzetti",
+      "palazzetto",
+      "struttura sportiva"
+    ]
+  },
+  {
+    "value": "sport",
+    "synonyms": [
+      "basket",
+      "calcetto",
+      "calcio",
+      "pallamano",
+      "pallavolo",
+      "partita",
+      "partita a calcetto",
+      "partita di calcetto",
+      "stadio",
+      "tennis"
+    ]
+  }
+]

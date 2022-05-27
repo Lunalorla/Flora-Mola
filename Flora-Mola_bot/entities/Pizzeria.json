@@ -1,0 +1,9 @@
+{
+  "id": "4da1b0ff-4342-4c86-9d90-9c98f33a4f0f",
+  "name": "Pizzeria",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

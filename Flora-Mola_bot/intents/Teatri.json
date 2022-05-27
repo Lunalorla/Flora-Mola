@@ -1,0 +1,97 @@
+{
+  "id": "32802c23-ddf8-4d8f-a68a-8b8598f39a4f",
+  "name": "Teatri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b47fb580-de2c-47ec-9195-379cad2cb4bc",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e5fda9cf-8b13-4dd7-94ec-d84dacad05cf",
+          "name": "Teatro",
+          "required": false,
+          "dataType": "@Teatro",
+          "value": "$Teatro",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Teatro_Van_Westerhout_-_Mola_di_Bari.JPG",
+          "subtitle": "Il teatro comunale di Mola di Bari è uno dei più antichi della Puglia, essendo stato costruito nel 1888",
+          "title": "TEATRO VAN WESTERHOUT",
+          "buttons": [
+            {
+              "postback": "https://telegra.ph/TEATRO-VAN-WESTRHOUT-09-12",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/MyLaZqU28Vy",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Eccoti le informazioni sul teatro Van Westerhout! Per qualsiasi cosa ti serva, io sono qui!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "d078546f-9414-41f0-a8e2-4bebd1ba55f3",
+  "name": "Pesce",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

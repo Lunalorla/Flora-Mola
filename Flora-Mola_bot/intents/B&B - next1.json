@@ -1,0 +1,210 @@
+{
+  "id": "ceae312a-c557-4965-a68d-63ca9ffc58e2",
+  "parentId": "ca8b52f4-ed87-483c-ad1f-1bf76b2a097a",
+  "rootParentId": "ca8b52f4-ed87-483c-ad1f-1bf76b2a097a",
+  "name": "B\u0026B - next1",
+  "auto": true,
+  "contexts": [
+    "BB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BB.BB-next",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "BB-next1-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7e229c40-3ccb-4cb1-b884-071ce6847c92",
+          "name": "Dormire",
+          "required": false,
+          "dataType": "@Dormire",
+          "value": "$Dormire",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://aff.bstatic.com/images/hotel/840x460/147/147408796.jpg",
+          "subtitle": "A pochi passi dallo splendido lungomare di Mola di Bari sorge il bed \u0026 breakfast “ Dimora della Nonna ”, residenza di prestigio, ideata per farvi trascorrere un piacevole soggiorno in un ambiente accogliente e rilassante. La Dimora, interamente ristrutturata, è dotata di ogni comfort. Tutte le spaziose camere sono climatizzate e dispongono di un bagno privato, angolo cottura, TV e Wi-Fi gratuito.",
+          "title": "B\u0026B DIMORA DELLA NONNA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/PzYobCdns3m",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/DimoraDellaNonna/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/685/68577236.jpg",
+          "subtitle": "In una città piena di sole, dove il profumo del mare permea i tufi delle case, qui sorge il mio Bed \u0026 Breakfast. Un luogo di calma, dove l\u0027ospitalità è di casa.",
+          "title": "B\u0026B AL DUOMO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Mg7QSzbCe262",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.bebalduomo.it/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/955/95505046.jpg",
+          "subtitle": "Ubicato nel centro di Mola di Bari, a 70 metri dalle spiagge locali, il B\u0026B Le Case di Sottovento, a conduzione familiare, offre un giardino, il noleggio gratuito di biciclette, la connessione WiFi in omaggio e sistemazioni climatizzate.  Tutte le suite del bed \u0026 breakfast Le Case di Sottovento presentano un cesto di frutta di benvenuto, una TV, un frigorifero e una scrivania, mentre alcune sono dotate di terrazza e altre vantano un balcone.",
+          "title": "B\u0026B LE CASE DI SOTTOVENTO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/UHpsbdhUUG22",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.lecasedisottovento.it/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Premi il pulsante sotto per vedere altri B\u0026B o ringraziarmi.",
+          "replies": [
+            "Altri B\u0026B",
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMvo2of0SSeL7aIbQsqHB_XFWBUyUvI6LHM5Xuc\u003dw408-h697-k-no",
+          "subtitle": "Il B\u0026B 106 Maison De Charme è un luogo dove il tempo scorre piacevolmente, tra comfort e accoglienza d’eccellenza, calda e solare quotato come uno dei migliori posti dove dormire in Puglia.",
+          "title": "106 Maison de Charme",
+          "buttons": [
+            {
+              "postback": "https://g.page/106MaisonDeCharme?share",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://106maisondecharme.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPlDaxTp9HQzOOY4_E-GVrJs0us1LjQOX1B3Za3\u003dw426-h240-k-no",
+          "subtitle": "In una città piena di sole, dove il profumo del mare permea i tufi delle case, qui sorge il mio Bed \u0026 Breakfast. Un luogo di calma, dove l\u0027ospitalità è di casa.",
+          "title": "B\u0026B AL DUOMO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Nt9XCuQAUrnHoFcG7",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.bebalduomo.it/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPIsSPQLrv5PMEf3Sz4gkteJtu9_OMzGl0SbCz6\u003dw408-h440-k-no",
+          "subtitle": "Ubicato nel centro di Mola di Bari, a 70 metri dalle spiagge locali, il B\u0026B Le Case di Sottovento, a conduzione familiare, offre un giardino, il noleggio gratuito di biciclette, la connessione WiFi in omaggio e sistemazioni climatizzate.  Tutte le suite del bed \u0026 breakfast Le Case di Sottovento presentano un cesto di frutta di benvenuto, una TV, un frigorifero e una scrivania, mentre alcune sono dotate di terrazza e altre vantano un balcone.",
+          "title": "B\u0026B LE CASE DI SOTTOVENTO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/UmxBHwQ8k59f898P6",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.lecasedisottovento.it/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Premi il pulsante sotto per vedere altri B\u0026B :)",
+          "replies": [
+            "Altri B\u0026B"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

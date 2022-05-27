@@ -1,0 +1,276 @@
+[
+  {
+    "id": "eef402e1-bde6-47f6-9349-6426b09be935",
+    "data": [
+      {
+        "text": "Ristorante",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "62cc98f4-e404-4318-b7cd-424080094e8a",
+    "data": [
+      {
+        "text": "Vorrei che mi mostrassi dei ",
+        "userDefined": false
+      },
+      {
+        "text": "ristoranti",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "38b350f6-147b-45f6-b4db-d4ab58caa940",
+    "data": [
+      {
+        "text": "Fast food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "30937180-db0d-4b1a-8288-47838a536b13",
+    "data": [
+      {
+        "text": "tavola calda",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "33f60e00-43bf-48ea-bb30-e15d740afe60",
+    "data": [
+      {
+        "text": "Ristorante",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      },
+      {
+        "text": " magari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fe5d7f5a-08ea-4cca-8833-d785e7a40e2c",
+    "data": [
+      {
+        "text": "Vorrei mangiare in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d539eedb-3d91-4aca-96f0-7a5e464a3c73",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5890ef24-73e7-4a00-9594-381dabb63136",
+    "data": [
+      {
+        "text": "ristorante",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 19,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a5e29941-ae17-43d3-9f99-b5f6817b6d8d",
+    "data": [
+      {
+        "text": "Trattoria",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "67348eb8-0ea9-4b25-a123-665421cd7d71",
+    "data": [
+      {
+        "text": "Sto cercando ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " bel ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": false
+      },
+      {
+        "text": " nei paraggi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7a030e87-72af-4da9-a05f-8df34f09f4eb",
+    "data": [
+      {
+        "text": "Anzi vorrei mangiare in un ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6be7ee82-efa8-4964-951f-adf9a3b4cd92",
+    "data": [
+      {
+        "text": "Ciao vorrei conoscere i ",
+        "userDefined": false
+      },
+      {
+        "text": "ristoranti",
+        "meta": "@ristorante",
+        "alias": "ristorante",
+        "userDefined": true
+      },
+      {
+        "text": " in zona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

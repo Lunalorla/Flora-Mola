@@ -1,0 +1,296 @@
+{
+  "id": "5a50515d-67a9-4144-b173-6e738ed62fd9",
+  "name": "Banca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8aba1cb1-39f6-408b-b8b1-b9178522b382",
+          "name": "Banca",
+          "required": false,
+          "dataType": "@Banca",
+          "value": "$Banca",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "756f3b1a-1e6c-4463-a4a6-a6c3a2649d13",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.associaticonfcommercio.it/wp-content/uploads/2016/01/logo-unicredit.jpg",
+          "subtitle": "Orari:   sabato\tChiuso domenica\tChiuso lunedì\t08:20–12:45, 14:35–16:35 martedì\t08:20–12:45, 14:35–16:35 mercoledì\t08:20–12:45, 14:35–16:35 giovedì\t08:20–12:45, 14:35–16:35 venerdì\t08:20–12:45, 14:35–16:35",
+          "title": "UniCredit",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:1559640317171561419;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.concorsilavoro.it/wp-content/uploads/2017/09/Ubi-Banca.png",
+          "subtitle": "Orari:sabato\tChiuso domenica\tChiuso lunedì\t08:20–13:20, 14:35–15:35 martedì\t08:20–13:20, 14:35–15:35 mercoledì\t08:20–13:20, 14:35–15:35 giovedì\t08:20–13:20, 14:35–15:35 venerdì\t08:20–13:20, 14:35–15:35",
+          "title": "UBI Banca Spa",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:7586263789029785637;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.popolarebari.it/etc/designs/bpb/library/clientlibs/img/logo-bpb-hd.png",
+          "subtitle": "Orari:sabato\tChiuso domenica\tChiuso lunedì\t08:20–13:20, 14:35–15:35 martedì\t08:20–13:20, 14:35–15:35 mercoledì\t08:20–13:20, 14:35–15:35 giovedì\t08:20–13:20, 14:35–15:35 venerdì\t08:20–13:20, 14:35–15:35",
+          "title": "Banca Popolare Di Bari Filiale Di Mola Di Bari",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:15032225908115808845;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.bccconversanoweb.it/var/ezdemo_site/storage/images/prodotti/obbligazioni/documenti-accessibili-al-pubblico/2982-6-ita-IT/Documenti-accessibili-al-pubblico_articleimage.jpg",
+          "subtitle": "Orari:sabato\tChiuso domenica\tChiuso lunedì\t08:20–13:20, 14:35–15:35 martedì\t08:20–13:20, 14:35–15:35 mercoledì\t08:20–13:20, 14:35–15:35 giovedì\t08:20–13:20, 14:35–15:35 venerdì\t08:20–13:20, 14:35–15:35",
+          "title": "Banca Di Credito Cooperativo Di Conversano",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:7689630092589936732;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.cdofoggia.it/wp-content/uploads/2018/02/banco-di-napoli-356x178.jpg",
+          "subtitle": "Orari:  sabato\tChiuso domenica\tChiuso lunedì\t08:30–13:30, 14:45–16:15 martedì\t08:30–13:30, 14:45–16:15 mercoledì\t08:30–13:30, 14:45–16:15 giovedì\t08:30–13:30, 14:45–16:15 venerdì\t08:30–13:30, 14:45–16:15",
+          "title": "Banco di Napoli - Gruppo Intesa Sanpaolo Spa",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:11224875112955137985;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.area12.to.it/wp-content/uploads/2014/05/Logo_montepaschi_Siena.png",
+          "subtitle": "Orari:  sabato\tChiuso domenica\tChiuso lunedì\t08:20–13:25, 14:25–15:55 martedì\t08:20–13:25, 14:25–15:55 mercoledì\t08:20–13:25, 14:25–15:55 giovedì\t08:20–13:25, 14:25–15:55 venerdì\t08:20–13:25, 14:25–15:55",
+          "title": "Banca Monte Dei Paschi Di Siena - Mola Di Bari",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:14527240313976155186;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.bppb.it/bppb-2018-theme/images/bppb-logo.png",
+          "subtitle": "Orari:  sabato\tChiuso domenica\tChiuso lunedì\t08:20–13:25, 14:25–15:55 martedì\t08:20–13:25, 14:25–15:55 mercoledì\t08:20–13:25, 14:25–15:55 giovedì\t08:20–13:25, 14:25–15:55 venerdì\t08:20–13",
+          "title": "Banca Popolare Di Puglia E Basilicata",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:11641135800071603323;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.intermediachannel.it/wp-content/uploads/2017/04/UBI-Banca-HiRes-2.jpg",
+          "subtitle": "Orari:  sabato\tChiuso domenica\tChiuso lunedì\t08:20–13:25, 14:25–15:55 martedì\t08:20–13:25, 14:25–15:55 mercoledì\t08:20–13:25, 14:25–15:55 giovedì\t08:20–13:25, 14:25–15:55 venerdì\t08:20–13:25, 14:25–15:55",
+          "title": "UBI BANCA",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dkeB\u0026q\u003dbanche+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41060685,17091534,303\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiMz7S2mI3cAhVpMewKHYTkAK4QjGoIUw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:4935663156742729756;mv:!1m3!1d1613.870534096404!2d17.0920456!3d41.06068315!2m3!1f0!2f0!3f0!3m2!1i193!2i103!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Queste sono tutte le banche presenti a Mola.",
+          "replies": [
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAzCAMAAACaLmfCAAAAn1BMVEX///8AAADnGQT29vbnAAAAAAjJyckAAQxKS00NDhSmpqcpKS0ABA0XFxrg4eHkAACGh4d+foBSU1Tw8PBzc3Sdnp4yMzTq6urQ0NHZ2dltbW7BwcEaGx9YWFmVlZWsrK1kZGY8PD+3t7f33tzvvLfxtK/wy8j88/HrjYjkUUnyxsTdIxbiPjbnTEbqlZD45+XdXFbmeHTmb2reKCHroJ1AEBBRAAACzklEQVRYhe2Va3OqMBCGdwkoAWNEQe5BtNp6Ofb6/3/b2QRstVO0/dI5Z4Z3RnMhk4fsvmwAevXq1atXr39Pq7v15v63ofcPlrRtW253v4rdSduypNwf/hyO7VRaJqadqLN1wXSsm7xExDLv2i3KoHLpKQtU15JGd9Ii7HuQH+kXIw50f4HBx7oEcWHmOHGRd+w2QRfQEQBTnFzFrjTWsg6rFvtEf17DZWJ4xoVsTkEIUWCUpp7fsZ3PXVDzCmY4us7d2oYr1w1W3nVytQZYjGLdia9wtdgNbntc+9mMNtJ+ueBOII2yul5UADO/VlByPGU2VWVNEWDKrbNBO5Unc+LSROqLwp93mgDgzRzXPpjBjl5CXnLH6KCgjNYUOVQMxSnADIeU5jwuEH00uUyoRSFc8IdlgkXBcdnNfTFcqd0Ea9l2L7gjRWdy0KPIqfQjegx5yOLYxYxpyyVAK91BquPs85JVnGd5VzJIT5prkgpHE3K5+nzeyGQr0NwBovfO1a+QoDMD7eKQUuBQb26405u+0lyT0/bkX3Nn71w9OuMq9IGleTisoQF9l3sk2p7a+0OD/SK/hssNd4x8ccENRgUaFSli9QPuRlpyo23dYu3tNS4IgeySK/wyiPKUUY6XP+DCq/3QOqrh7s65o8/ckI/Cc26E2JqnWfh97u4V4PkDq48LOWFAFwn0LrgT2r1AU3cHzcYU3SbhjI14ecaNb3EpxqfUEnbf1GmfY7ZUXDgsPfOzo3QoCqyVKgV9v3rjcoheHA9CRZ7WCW64Jb2p8CfJNexxf8otlY/HNmiNW5zkdKAAiWtC6qGjL4aiHc7qxldK3wQoCu7UUOiaNsWrdYOcBautvn5tab29TzKvrMuIPs1xFppqV3ksNNcgxFQYp2p8GkK1qN2w0m5bUkWdZhEExhyTuk5vRBoe18eHt82tVb169erVq1evXv+B/gLUlzSRQFbKnQAAAABJRU5ErkJggg\u003d\u003d",
+          "subtitle": "Orari:   sabato Chiuso; domenica Chiuso; lunedì\t08:20–12:45, 14:35–16:35; martedì\t08:20–12:45, 14:35–16:35; mercoledì\t08:20–12:45, 14:35–16:35; giovedì\t08:20–12:45, 14:35–16:35; venerdì\t08:20–12:45, 14:35–16:35",
+          "title": "UniCredit",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/jPZZTTYR4GkvLUHk8",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.concorsilavoro.it/wp-content/uploads/2017/09/Ubi-Banca.png",
+          "subtitle": "Orari: sabato\tChiuso; domenica Chiuso; lunedì\t08:20–13:20, 14:35–15:35; martedì\t08:20–13:20, 14:35–15:35; mercoledì\t08:20–13:20, 14:35–15:35; giovedì\t08:20–13:20, 14:35–15:35; venerdì\t08:20–13:20, 14:35–15:35",
+          "title": "UBI Banca Spa",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/L4KCzhx1QB8tyAu78",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.popolarebari.it/etc/designs/bpb/library/clientlibs/img/logo-bpb-hd.png",
+          "subtitle": "Orari: sabato\tChiuso; domenica Chiuso; lunedì\t08:20–13:20, 14:35–15:35; martedì\t08:20–13:20, 14:35–15:35; mercoledì\t08:20–13:20, 14:35–15:35; giovedì\t08:20–13:20, 14:35–15:35; venerdì\t08:20–13:20, 14:35–15:35",
+          "title": "Banca Popolare Di Bari Filiale Di Mola Di Bari",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/tGF168p72UQXD9Y29",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.bccconversanoweb.it/media/4684/positivo-esteso-3x.png",
+          "subtitle": "Orari: sabato\tChiuso; domenica Chiuso; lunedì 08:20–13:20, 14:35–15:35; martedì\t08:20–13:20, 14:35–15:35; mercoledì 08:20–13:20, 14:35–15:35; giovedì 08:20–13:20, 14:35–15:35; venerdì 08:20–13:20, 14:35–15:35",
+          "title": "Banca Di Credito Cooperativo Di Conversano",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/FFmsXk37w6Q6N1NN6",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAB3CAMAAAAO5y+4AAAAz1BMVEX////toG7qiD7qikPyvJvphjnofyj++PPslFXrklHxtY798ej87uTcsADz5bj8+O3huzb48Nr06L7y4rH0+fvt15zq0YrguS369OXt9PgAez7Z7eb0x67tnWjpgzTv3KUAXZ0AdDH65tnr9fHunWKwyt281eQAbaYAc6kbi1tBiLXs1JP37s3fthzivkHkw1fq0H7mx2bX5vBlncJ+uJ6y08P43cjwrX53qMiJttGawdiOw6wAhU80kmeczLhCm3Jbp4QnfrDneBPE4tf307q3iHeSAAAC/klEQVRoge3Za3OaQBQGYAUiF6lpokkUvBDwBsZLUdEoXoj8/9/UZTVmD+1ME5cZ2855P2A4LvPkLAtkQi6HwWAwGAwGg8FgeFOXskn9i26jeZNFmo0vunlBzCJC/gKXu9vLXMWW+WKrl7iCUvziMeno6KKLLrroopuRe39KiaRcLrdIHh4eBoNHmsFgQPZaLfJNuVQ6jSmX7l9e7vjc8jc2w6fv7xmNxuPxaPREMhwOwSCabyUu97ZavTulSnLLRJZPP5AyGfVy3xpMJo+Pk8mPcZLqNc6vLCfbf3FdXdutXMP1p33LsrwuO8CZhcaz4c7BLxRIC02L5Wzc2rIXLV9XxJ7Wzuo63MzW29nG2JkfakNQ8nm1oMZZuJWo36VN+Utr+v713jg2Srp23zuW3jSbtFqM1ULM71a86NylZ3VOrHvucmbMTmwhOJVkpWlzuyvLPxe7vYh+Hp7n55oTbpzkM2gG51rc1LjdyPsoVjyLTureZVbT3qC9t9vM0aIqc7p+r8NUl1ayph13zdS2xpZs5bc6ONrmdLsWe/WsrFXihlumdqAnWH+LmZpEJ53L7flMtWu9kq1pzJmaaezJ1i7oTC0o1DndDnBr1pJKB3ZouMslS0lmSvaNxOv2a0y1Rq/gg2GyQ8MN2dRV1tUFjdNdRsDtJe7WcKBLVrfUBq644HRfPfYGTFyyOzfATfl3rpqx2/eoC4a6LmlfAoCuNjjdzmdcM+0WFYXTTc/z51xd5HXhuspNI+Ku4bqahcTVwPnN5VVOtwPcSpTsmtDdJf3WM3a70KUPRTME1y99KAYK68qNbPut9Y/9Apee3xjcN+R21m6yrlLzTK+jGPRbVNqcbjd1vzq6qX6ddL+6mq1b8agLz+8ucQMRznO2rm8lrgNcJ0xcG/Yr8ro+nOej68LnUeLqAngOFnjdnA/Kx5uX+ev4HPyHfsD79wZP0EUXXXTR/Z9c8VquuND4srjw/a/A+fpXuNC9xvvudiGbtP9MYTAYDAaDwWAwmL80PwH6Pm1I4MesXQAAAABJRU5ErkJggg\u003d\u003d",
+          "subtitle": "Orari:  sabato  Chiuso; domenica  Chiuso; lunedì\t08:30–13:30, 14:45–16:55; martedì\t08:30–13:30, 14:45–16:55; mercoledì\t08:30–13:30, 14:45–16:55; giovedì\t08:30–13:30, 14:45–16:55; venerdì\t08:30–13:30, 14:45–16:55",
+          "title": "Intesa Sanpaolo S.p.A.",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/BStrNys6wXTSmgdZ7",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Queste sono tutte le banche presenti a Mola. Ti serve altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

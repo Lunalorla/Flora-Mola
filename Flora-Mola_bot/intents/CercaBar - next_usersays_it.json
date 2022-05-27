@@ -1,0 +1,158 @@
+[
+  {
+    "id": "24a2926f-167f-41e3-ba2e-db3daeabc954",
+    "data": [
+      {
+        "text": "risultato seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3c44e3a4-eee5-412e-aff0-71a02ffa34ef",
+    "data": [
+      {
+        "text": "leggi i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "91f94d3c-5072-41e4-a8df-432d4d613dc5",
+    "data": [
+      {
+        "text": "mostrami i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31cde386-2e49-4a7a-bc66-617c3cb1d08f",
+    "data": [
+      {
+        "text": "continua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "83015218-c16d-4f4b-bbb0-e9b1c24f6ead",
+    "data": [
+      {
+        "text": "Qualche altro bar ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5052d93d-61f1-4115-b0da-499b7bef7f7b",
+    "data": [
+      {
+        "text": "mostra seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b3ab7123-5356-4360-8495-d78d3d524424",
+    "data": [
+      {
+        "text": "avanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c882266f-8048-4404-9ee1-c5db3309d3a6",
+    "data": [
+      {
+        "text": "Altri bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9e3a61b9-fe22-43df-a218-01424c72420f",
+    "data": [
+      {
+        "text": "mostrami la pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c151d57e-0732-411f-9667-5aa33291c198",
+    "data": [
+      {
+        "text": "vai alla pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "04fd880c-8031-4892-a830-8eaf711898e2",
+    "data": [
+      {
+        "text": "vai al seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fc503a71-612c-41f0-bb34-75b651e98c2b",
+    "data": [
+      {
+        "text": "pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

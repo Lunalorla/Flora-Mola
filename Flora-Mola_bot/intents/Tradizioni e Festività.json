@@ -1,0 +1,171 @@
+{
+  "id": "f4897f1f-514e-4d80-8241-9e34e295db1d",
+  "name": "Tradizioni e Festività",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d0acffca-521c-43eb-9eae-3a916483d2e8",
+          "name": "Tradizioni",
+          "required": false,
+          "dataType": "@Tradizioni",
+          "value": "$Tradizioni",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Seconda domenica di Settembre È la \"festa grande\", dedicata alla patrona che si venera nella chiesa della Maddalena. Quattro giorni di festeggiamenti e manifestazioni. Piazza XX Settembre è artisticamente illuminata. Il venerdì ed il sabato si svolgono spettacoli di musica leggera. La domenica ed il lunedì si esibiscono i più rinomati complessi bandistici. Spettacolari fuochi pirotecnici vengono accesi sul porto. Una grandiosa mongolfiera viene lanciata la domenica sera. Il momento-clou resta l\u0027affascinante processione di gala, con la cerimonia della consegna delle chiavi della città alla Madonna da parte del sindaco. L\u0027evento si svolge da quasi trecento anni ogni seconda domenica di settembre, al mattino. La festa della madonna attira tanti turisti e forestieri ed è occasioni d\u0027incontro con i molesi residenti all\u0027estero, in particolare in America.",
+          "title": "Festa patronale Maria SS. Addolorata",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Ultima Domenica di Carnevale e Martedì Grasso Piazza XX Settembre - Grande festa in maschera per i bambini. Animazione, spettacolo, balli, coriandoli, festoni, palloncini, scherzi e tanta allegria L\u0027evento è organizzato dal Comune, con la collaborazione dell\u0027Associazione Aliblu.",
+          "title": "Carnevale in piazza",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "19 Marzo Suggestiva accensione dei falò per le strade e le piazze della nostra città. Tutti intorno al fuoco per ascoltare gli anziani che raccontano storie del passato, gustando le specialità locali. Una Tradizione che continua.",
+          "title": "Falò di San Giuseppe",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "13 giugno sant\u0027Antonio è uno dei santi più amati dai molesi. Immancabile appuntamento religioso con la processione della statua del Frate di Padova per le vie della città. Sono in tanti i fedeli che, per grazia ricevuta portano grossi ceri camminando a piedi scalzi. La zona intorno alla chiesa omonima viene illuminata ed un fuoco pirotecnico viene incendiato in serata.",
+          "title": "Festa di Sant\u0027Antonio",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Primi sabato e domenica di luglio La marineria molese festeggia la \"madonna d\u0027altomare\", invocata a protezione del faticoso e rischioso lavoro sul mare. La domenica mattina da Sacra Effige è portata in processione sul porto, dove viene imbarcata sul peschereccio sorteggiato. Spettacolare e suggestivo, è il corteo in mare che vede la partecipazione di centinaia di imbarcazioni imbandierate e festanti a corolla della statua. In serata, solenne processione attraverso le vie principali. Concerti bandistici e fuochi pirotecnici completano i festeggiamenti.",
+          "title": "Festa della madonna d\u0027altomare",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Ultimi sabato e domenica di Luglio Oramai la \"Sagra del polpo\" è famosa ovunque. È inserita fra le sagre più importanti d\u0027Italia. Il polpo, simbolo incontrastato della bontà del prodotto ittico molese e di questo evento estivo, arrostito sulla brace o cucinato secondo le ricette della tradizione marinaresca, riempie di sapori e di odori l\u0027area del porto e del lungomare, addobbato a festa. Nelle due serate si svolgono spettacoli musicali con cantanti di fama nazionale e internazionale che attirano tantissimi turisti provenienti dai paesi limitrofi.",
+          "title": "Sagra del polpo",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Queste sono le ricorrenze di Mola. Un\u0027altra buona ricorrenza è quella di ringraziare se ti sono stata di aiuto 😁",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.festapatronalemola.it/wp-content/uploads/2019/01/processione-serale-del-luned.jpg",
+          "subtitle": "La seconda domenica di settembre si festeggia la \"festa grande\", dedicata alla patrona che si venera nella chiesa della Maddalena. Quattro giorni di festeggiamenti e manifestazioni. Piazza XX Settembre è artisticamente illuminata. Il venerdì ed il sabato si svolgono spettacoli di musica leggera. La domenica ed il lunedì si esibiscono i più rinomati complessi bandistici. Spettacolari fuochi pirotecnici vengono accesi sul porto. Una grandiosa mongolfiera viene lanciata la domenica sera. Il momento-clou resta l\u0027affascinante processione di gala, con la cerimonia della consegna delle chiavi della città alla Madonna da parte del sindaco. L\u0027evento si svolge da quasi trecento anni ogni seconda domenica di settembre, al mattino. La festa della madonna attira tanti turisti e forestieri ed è occasioni d\u0027incontro con i molesi residenti all\u0027estero, in particolare in America.",
+          "title": "Festa patronale Maria SS. Addolorata",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://ilcapatosta.files.wordpress.com/2014/06/553706_492653144083512_1621956874_n.jpg",
+          "subtitle": "Primi sabato e domenica di luglio. La marineria molese festeggia la \"Madonna d\u0027Altomare\", invocata a protezione del faticoso e rischioso lavoro sul mare. La domenica mattina da Sacra Effige è portata in processione sul porto, dove viene imbarcata sul peschereccio sorteggiato. Spettacolare e suggestivo, è il corteo in mare che vede la partecipazione di centinaia di imbarcazioni imbandierate e festanti a corolla della statua. In serata, solenne processione attraverso le vie principali. Concerti bandistici e fuochi pirotecnici completano i festeggiamenti.",
+          "title": "Festa della madonna d\u0027altomare",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.citta-nostra.it/wp-content/uploads/2011/08/sagrapolpo5-2011.jpg",
+          "subtitle": "Ultimi sabato e domenica di luglio. Oramai la \"Sagra del polpo\" è famosa ovunque. È inserita fra le sagre più importanti d\u0027Italia. Il polpo, simbolo incontrastato della bontà del prodotto ittico molese e di questo evento estivo, arrostito sulla brace o cucinato secondo le ricette della tradizione marinaresca, riempie di sapori e di odori l\u0027area del porto e del lungomare, addobbato a festa. Nelle due serate si svolgono spettacoli musicali con cantanti di fama nazionale e internazionale che attirano tantissimi turisti provenienti dai paesi limitrofi.",
+          "title": "Sagra del polpo",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "19 Marzo Suggestiva accensione dei falò per le strade e le piazze della nostra città. Tutti intorno al fuoco per ascoltare gli anziani che raccontano storie del passato, gustando le specialità locali. Una Tradizione che continua.",
+          "title": "Falò di San Giuseppe",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Sant\u0027Antonio è uno dei santi più amati dai molesi. Immancabile appuntamento religioso il 13 giugno con la processione della statua del Frate di Padova per le vie della città. Sono in tanti i fedeli che, per grazia ricevuta portano grossi ceri camminando a piedi scalzi. La zona intorno alla chiesa omonima viene illuminata ed un fuoco pirotecnico viene incendiato in serata.",
+          "title": "Festa di Sant\u0027Antonio",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Queste sono le ricorrenze di Mola! Dimmi se ti serve altro!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

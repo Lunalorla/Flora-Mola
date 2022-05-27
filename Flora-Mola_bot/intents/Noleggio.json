@@ -1,0 +1,126 @@
+{
+  "id": "d350cc7d-edce-4f1a-84ee-86178edf3831",
+  "name": "Noleggio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8ea43061-d09b-4c77-ac90-a8b488a26294",
+          "name": "Automobile",
+          "required": false,
+          "dataType": "@Automobile",
+          "value": "$Automobile",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f42e1a97-d611-42d0-9604-49fa6e15c506",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://assets.prontopro.it/l/business_image/7a4c61d4-f564-41c6-b721-cc205a0b2cc2.jpeg",
+          "title": "Auto Noleggio Chiarelli",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Me3nQrpgHKy",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.expedia.it/carsearch?dagv\u003d1\u0026subm\u003d1\u0026fdrp\u003d0\u0026rfrr\u003dTG.LP.Srch",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Eccoti l\u0027unico modo per noleggiare un mezzo a Mola.",
+          "replies": [
+            "Grazie !😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://assets.prontopro.it/l/business_image/7a4c61d4-f564-41c6-b721-cc205a0b2cc2.jpeg",
+          "title": "Auto Noleggio Chiarelli",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Me3nQrpgHKy",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.expedia.it/carsearch?dagv\u003d1\u0026subm\u003d1\u0026fdrp\u003d0\u0026rfrr\u003dTG.LP.SrchWzd.Car\u0026locn\u003dMola+di+Bari%2C+Italia\u0026loc2\u003d\u0026date1\u003d22%2F07%2F2018\u0026time1\u003d500PM\u0026date2\u003d22%2F07%2F2018\u0026time2\u003d700PM\u0026age\u003d25\u0026kind\u003d1",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Eccoti l\u0027unico modo per noleggiare un mezzo a Mola. Dimmi pure se ti serve altro!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

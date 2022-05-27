@@ -1,0 +1,9 @@
+{
+  "id": "9c192547-c27b-4c34-9735-46bb7fffd6b8",
+  "name": "Ricetta",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

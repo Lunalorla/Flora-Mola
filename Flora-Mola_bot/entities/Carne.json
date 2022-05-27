@@ -1,0 +1,9 @@
+{
+  "id": "3ed56d70-e25f-41ad-bfb8-cdb22ab84814",
+  "name": "Carne",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

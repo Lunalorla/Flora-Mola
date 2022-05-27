@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "a96e267a-4f7c-47d9-8e8c-098e6d8dfc62",
+    "data": [
+      {
+        "text": "Luogo di Interesse",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6f22f085-6b3b-4349-8604-e01dbdda0f3e",
+    "data": [
+      {
+        "text": "Litorale",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " molese",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7cfccfc3-b8bc-454d-ba37-3b99090ef0db",
+    "data": [
+      {
+        "text": "Lungomare",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " Dalmazia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "913c3fad-d793-4c84-baa0-239109193ca9",
+    "data": [
+      {
+        "text": "Lungomare",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dalmazio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "373668b2-0ae9-4905-979e-c072636e03b7",
+    "data": [
+      {
+        "text": "Passeggiata",
+        "userDefined": false
+      },
+      {
+        "text": " sul ",
+        "userDefined": false
+      },
+      {
+        "text": "lungomare",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "465629e3-5409-4e2f-bd5e-3bd611a3736a",
+    "data": [
+      {
+        "text": "Litorale",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "49660388-23a9-4c84-a996-2092340be182",
+    "data": [
+      {
+        "text": "Lungomare",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ba86d525-172d-4bd3-8126-314f83019318",
+    "data": [
+      {
+        "text": "Lungo mare",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9089be3c-b8a2-450e-ab1f-8dcee22e82fb",
+    "data": [
+      {
+        "text": "Lungomare",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ef8238b7-083d-46a6-a4fa-dfd30e140818",
+    "data": [
+      {
+        "text": "Castelli",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "106521df-2ecc-427d-b778-5d447823df11",
+    "data": [
+      {
+        "text": "Piazze",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b69d91a-3703-478f-9b32-0be717fbdaad",
+    "data": [
+      {
+        "text": "Piazza",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "82c6ab51-08ad-4793-9ec4-165b7245b2ed",
+    "data": [
+      {
+        "text": "Piazza",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " XX ",
+        "userDefined": false
+      },
+      {
+        "text": "settembre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "274bf872-4b5a-4ec5-aef1-ce578737fe11",
+    "data": [
+      {
+        "text": "Piazza",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " XX ",
+        "userDefined": false
+      },
+      {
+        "text": "settembre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6f1152b6-850f-4834-9561-ec8bcc990a8b",
+    "data": [
+      {
+        "text": "Piazza",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "centro",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ca177f9c-26d1-44ce-bc1f-cdf88c666dff",
+    "data": [
+      {
+        "text": "Piazza principale",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ef72ce4f-603a-40ea-b133-f45877cfcbab",
+    "data": [
+      {
+        "text": "Piazza principale",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4bdc8fc9-606e-473e-a874-340528a00d37",
+    "data": [
+      {
+        "text": "Piazza",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4cad75c4-c022-4321-8193-23512ceeac21",
+    "data": [
+      {
+        "text": "Sai darmi ",
+        "userDefined": false
+      },
+      {
+        "text": "informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " sul ",
+        "userDefined": false
+      },
+      {
+        "text": "palazzo",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e12f0dc3-ea9d-46a6-ac65-98440940a774",
+    "data": [
+      {
+        "text": "Informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Palazzo",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Roberti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "54b06579-1940-4751-81ca-a1bec36f4a34",
+    "data": [
+      {
+        "text": "Palazzo",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Roberti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "72befd9a-d509-4a73-9a2c-0b47a41063b6",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " sai dare ",
+        "userDefined": false
+      },
+      {
+        "text": "informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " sul ",
+        "userDefined": false
+      },
+      {
+        "text": "palazzo",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a7ea0d04-13f1-4019-9b69-5db87b82901e",
+    "data": [
+      {
+        "text": "Informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "palazzo",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "17e5174c-641b-4c8f-9de5-5f83a86a9e39",
+    "data": [
+      {
+        "text": "Informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8fcb17ba-e48a-4528-9d3c-8cc42492b717",
+    "data": [
+      {
+        "text": "Castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1fc6c8ab-9934-4ac9-8e0f-e08fd26658b5",
+    "data": [
+      {
+        "text": "Dov\u0027è il ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b78dd82c-1ce9-4bbd-ac17-503b74a05c95",
+    "data": [
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ha un  ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": "...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6fa7d825-2845-4caa-a72d-c12ebeabbe05",
+    "data": [
+      {
+        "text": "Info ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46adc76f-316f-44c6-8fb7-5c90422dac67",
+    "data": [
+      {
+        "text": "Mostrami il ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "facc4f57-e192-44a3-abcf-4ccb8d69fa8a",
+    "data": [
+      {
+        "text": "Sai darmi ",
+        "userDefined": false
+      },
+      {
+        "text": "informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " sul ",
+        "userDefined": false
+      },
+      {
+        "text": "Castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "812e2c32-0e9d-4619-9550-9e372d384425",
+    "data": [
+      {
+        "text": "Info",
+        "userDefined": false
+      },
+      {
+        "text": " sul ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6d590c36-fb92-4a80-97ff-b66371f938ef",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " sai dare delle ",
+        "userDefined": false
+      },
+      {
+        "text": "informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " sul ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bd2513d9-8f3d-42f2-9b65-dd56fef75229",
+    "data": [
+      {
+        "text": "Hai ",
+        "userDefined": false
+      },
+      {
+        "text": "informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " sul ",
+        "userDefined": false
+      },
+      {
+        "text": "Castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b7d16b8d-6bf2-4b71-abe4-d6c7db93ac97",
+    "data": [
+      {
+        "text": "Castello",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "09bb6600-7602-4310-bac0-72b600cb131d",
+    "data": [
+      {
+        "text": "Info castello",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f8cd55f8-0eae-4702-9cc8-e2b3c33ff307",
+    "data": [
+      {
+        "text": "palazzo",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": false
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6c7b19f2-30af-44d4-8f0a-b3bd4f1b4b83",
+    "data": [
+      {
+        "text": "Informazioni",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "22cf465a-9653-4ae6-bfce-0c91b1f22849",
+    "data": [
+      {
+        "text": "Parlami del ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7870095e-9d80-4f68-98a7-92399137df81",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " puoi dare infornazioni sul ",
+        "userDefined": false
+      },
+      {
+        "text": "Castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "08af3fd1-3b60-40f0-9672-260ea5b0c975",
+    "data": [
+      {
+        "text": "Devo trovare il ",
+        "userDefined": false
+      },
+      {
+        "text": "castello",
+        "meta": "@Luogo_di_Interesse",
+        "alias": "Luogo_di_Interesse",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

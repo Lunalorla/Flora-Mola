@@ -1,0 +1,123 @@
+{
+  "id": "6e752daf-026d-42e9-8d94-32b429bb2da4",
+  "name": "Selezione direzione cibo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Mangiare",
+          "lifespan": 2
+        },
+        {
+          "name": "Selezionedirezione-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Selezionedirezionecibo-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4e6a4196-8948-4139-81e5-504403549976",
+          "name": "Cibo",
+          "required": false,
+          "dataType": "@Cibo",
+          "value": "$Cibo",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "it",
+              "value": "Mangiare"
+            },
+            {
+              "lang": "it",
+              "value": "mangiare"
+            },
+            {
+              "lang": "it",
+              "value": "cibo"
+            },
+            {
+              "lang": "it",
+              "value": "pranzare"
+            },
+            {
+              "lang": "it",
+              "value": "cenare"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d6a23863-aedf-424e-933b-60242904ce89",
+          "name": "time-period",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "value": "$time-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Perfetto, preferiresti mangiare una pizza oppure vuoi optare per un ristorante?",
+          "replies": [
+            "Pizza🍕",
+            "Ristorante🍴",
+            "Annulla"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Preferiresti mangiare una pizza oppure vuoi optare per un ristorante?",
+          "replies": [
+            "Pizza",
+            "Ristorante"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Preferiresti mangiare una pizza oppure vuoi optare per un ristorante?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

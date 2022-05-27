@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Castello",
+    "synonyms": [
+      "Castello",
+      "Castelli"
+    ]
+  },
+  {
+    "value": "Piazza",
+    "synonyms": [
+      "Piazza",
+      "Piazze"
+    ]
+  },
+  {
+    "value": "Lungomare",
+    "synonyms": [
+      "Lungomare",
+      "Lungo mare"
+    ]
+  },
+  {
+    "value": "Palazzo",
+    "synonyms": [
+      "Palazzo",
+      "Palazzi"
+    ]
+  },
+  {
+    "value": "Luogo di Interesse",
+    "synonyms": [
+      "Luogo di Interesse",
+      "Luoghi di Interesse"
+    ]
+  }
+]

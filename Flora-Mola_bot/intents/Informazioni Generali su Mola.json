@@ -1,0 +1,107 @@
+{
+  "id": "35ead56d-828b-4bc5-bc4d-4823fa292692",
+  "name": "Informazioni Generali su Mola",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "17f07ce9-e906-4408-acb2-6822c8d65888",
+          "name": "InformazioniGeneraliMola",
+          "required": false,
+          "dataType": "@InformazioniGeneraliMola",
+          "value": "$InformazioniGeneraliMola",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Mola di Bari (usualmente Mola, Màule in dialetto locale[3]) è un comune italiano di 25.436 abitanti della città metropolitana di Bari in Puglia. Rifondata da Carlo I d\u0027Angiò nel 1277 su un insediamento più antico, sorge lungo la costa del mare Adriatico 20 km a sud-est del capoluogo. Il suo porto peschereccio è tra i più importanti della regione.",
+          "title": "Mola Di Bari",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Mola_di_Bari",
+              "text": "Clicca qui per altre info"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Ti ho mostrato tutte le informazioni su Mola.",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Mola di Bari (usualmente Mola, Màule in dialetto locale) è un comune italiano di 25.436 abitanti della città metropolitana di Bari in Puglia. Rifondata da Carlo I d\u0027Angiò nel 1277 su un insediamento più antico, sorge lungo la costa del mare Adriatico 20 km a sud-est del capoluogo. Il suo porto peschereccio è tra i più importanti della regione.",
+          "title": "Mola Di Bari",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Mola_di_Bari",
+              "text": "Clicca qui per altre info"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ti ho mostrato tutte le informazioni su Mola. Ti serve altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

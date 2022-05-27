@@ -1,0 +1,48 @@
+[
+  {
+    "value": "Abbronzare",
+    "synonyms": [
+      "Abbronzare",
+      "Fare il bagno",
+      "Prendere il sole",
+      "abbronzarsi"
+    ]
+  },
+  {
+    "value": "Lido",
+    "synonyms": [
+      "Lido",
+      "bagno in piscina",
+      "piscina",
+      "stabilimento balneare"
+    ]
+  },
+  {
+    "value": "Mare",
+    "synonyms": [
+      "Lidi",
+      "Mare",
+      "Spiaggia",
+      "beach",
+      "beach soccer",
+      "beach volley",
+      "mare",
+      "nuotare",
+      "nuotata",
+      "spiagge",
+      "spiagge libere",
+      "spiaggia",
+      "spiaggia libera"
+    ]
+  },
+  {
+    "value": "farmi un bagno",
+    "synonyms": [
+      "barca",
+      "canoa",
+      "farmi un bagno",
+      "surf",
+      "windsurf"
+    ]
+  }
+]

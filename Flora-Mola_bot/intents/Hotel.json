@@ -1,0 +1,189 @@
+{
+  "id": "b63c0cf6-7860-4aba-99de-691f5a352c71",
+  "name": "Hotel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "Hotel-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5a4ddd19-f089-4f7d-8396-0ff24e170eaf",
+          "name": "Hotel",
+          "required": false,
+          "dataType": "@Hotel",
+          "value": "$Hotel",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c6e6c2b5-0b5c-4561-bbfb-cf8722c75838",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9c37274b-57ef-4430-b762-782a71de9175",
+          "name": "Dormire",
+          "required": false,
+          "dataType": "@Dormire",
+          "value": "$Dormire",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.hotelgabbiano.biz/foto_slide/home/03.jpg",
+          "subtitle": "L\u0027Hotel Gabbiano sorge sul lungomare di Mola di Bari e vanta un servizio cordiale e strutture moderne. Questo tranquillo hotel a conduzione familiare regala viste panoramiche sul mare.",
+          "title": "HOTEL GABBIANO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/zE4ucJA1qnz",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.hotelgabbiano.biz/it/home/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://edge.media.datahc.com/HI107432430.jpg",
+          "subtitle": "Un hotel 4 stelle che valorizza i tesori pugliesi in ogni stagione, poiché è vicino a spiagge splendide, ma offre anche la possibilità di esplorare i borghi più suggestivi e le città più note lungo questo tratto di costa.",
+          "title": "HOTEL BARION",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/TLZjk44JvG92",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.barionhotel.it/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono gli hotel presenti. Bisogna essere riposati per godersi al meglio la città.",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270257504.jpg?k\u003d1e4dccb359c2c19ab317944a1f146fff2acb20eb13f72aab068bce6ca08911e0\u0026o\u003d\u0026hp\u003d1",
+          "subtitle": "L\u0027Hotel Gabbiano sorge sul lungomare di Mola di Bari e vanta un servizio cordiale e strutture moderne. Questo tranquillo hotel a conduzione familiare regala viste panoramiche sul mare.",
+          "title": "HOTEL GABBIANO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/vA2vq7Wip84T5k6U8",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.hotelgabbiano.biz/it/home/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://edge.media.datahc.com/HI107432430.jpg",
+          "subtitle": "Un hotel 4 stelle che valorizza i tesori pugliesi in ogni stagione, poiché è vicino a spiagge splendide, ma offre anche la possibilità di esplorare i borghi più suggestivi e le città più note lungo questo tratto di costa.",
+          "title": "HOTEL BARION",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/TLZjk44JvG92",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.barionhotel.it/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono gli hotel presenti. Bisogna essere riposati per godersi al meglio la città!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Ecco gli Hotel più vicini a te:\nhttp://www.hotelgabbiano.biz/it/home\nhttp://www.barionhotel.it\n\nPosso fare altro per te?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

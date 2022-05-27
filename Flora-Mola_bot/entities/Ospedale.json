@@ -1,0 +1,9 @@
+{
+  "id": "1f6b3933-f7e4-4980-baba-4acb4fd375f8",
+  "name": "Ospedale",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

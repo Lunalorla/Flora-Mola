@@ -1,0 +1,9 @@
+{
+  "id": "b40aa926-1fbd-4559-b310-3023020bfaaf",
+  "name": "Polizia_Carabinieri",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,193 @@
+{
+  "id": "dc9c5df6-532d-473f-93a5-9afbdd02ba97",
+  "name": "Drink-Bar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7309649c-fd6f-4279-b071-2201dd1a2821",
+          "name": "Drink",
+          "required": false,
+          "dataType": "@Drink",
+          "value": "$Drink",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://data.puglianelcuore.it/media/2017/05/unnamed_20170526121300_preview.jpg",
+          "subtitle": "Piccolo bar posto sul lungomare del paese, ma che d\u0027estate vive l\u0027estate all\u0027aperto in un contesto unico: tra un castello e il mare, da cui si ammira un tramonto eccezionale. Al Tortuga si fa l\u0027aperitivo, il drink pre o post serata. Non solo drink-place. Tante le chicche da bere, e tanti gli eventi di dj set e musica dal vivo da vivere.",
+          "title": "TORTUGA AMERICAN BAR",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/3Rux17Wrj3G2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/TortugaMolaDiBari/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.apetime.com/media/locals/913/gallery/mtn4s_000.jpg",
+          "subtitle": "Cocktail bar di prima fascia. Servizio e personale ottimo. Ampissima scelta di birre. Non esiste drink, cocktail che non possa essere fatto in questo magnifico posto.",
+          "title": "RAW BAR",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/ftSBbRBTp872",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/rawbar70042/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://i.ytimg.com/vi/ijFcYvfSG04/maxresdefault.jpg",
+          "subtitle": "Posto adatto per per trascorrere una bella serata tra amici in compagnia di un buon calice di vino. Ampia scelta di birre, anche le più particolari. Cicchetti a gogo e musica fino a tarda notte.",
+          "title": "CAFFE\u0027 DELLE BUGIE",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/ujm4h6nFPw82",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/pages/Caff%C3%A8-Delle-Bugie/584479864902655",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Ehi, bevi responsabilmente...Non posso aiutarti se alzi il gomito."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOElREIzM68C9sD9aNp080XVSZzhDH5FGtjy4Z3\u003dw408-h544-k-no",
+          "subtitle": "Piccolo bar posto sul lungomare del paese, ma che d\u0027estate vive l\u0027estate all\u0027aperto in un contesto unico: tra un castello e il mare, da cui si ammira un tramonto eccezionale. Al Tortuga si fa l\u0027aperitivo, il drink pre o post serata. Non solo drink-place. Tante le chicche da bere, e tanti gli eventi di dj set e musica dal vivo da vivere.",
+          "title": "American Bar",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/3Rux17Wrj3G2",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOkOxKnyPGSpzoKnjrerJqV3TcBLXNhLH_t73FX\u003dw408-h274-k-no",
+          "subtitle": "Cocktail bar di prima fascia. Servizio e personale ottimo. Ampissima scelta di birre. Non esiste drink, cocktail che non possa essere fatto in questo magnifico posto.",
+          "title": "RAW BAR",
+          "buttons": [
+            {
+              "postback": "https://g.page/rawbar70042?share",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.ytimg.com/vi/ijFcYvfSG04/maxresdefault.jpg",
+          "subtitle": "Posto adatto per per trascorrere una bella serata tra amici in compagnia di un buon calice di vino. Ampia scelta di birre, anche le più particolari. Cicchetti  e musica fino a tarda notte.",
+          "title": "Caffè delle bugie",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/ujm4h6nFPw82",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPhe8L7SGb75XDXlnxzlG1bvxEogYTISeXq85m8\u003dw426-h240-k-no",
+          "subtitle": "Vasta scelta di birre e cocktails, locale accogliente.",
+          "title": "Vinny Food and Drink",
+          "buttons": [
+            {
+              "postback": "https://g.page/vinny-food-and-drink?share",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ricordati di non esagerare troppo e tornare a casa in modo sicuro :)",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

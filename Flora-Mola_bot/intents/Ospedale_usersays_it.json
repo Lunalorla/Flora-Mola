@@ -1,0 +1,226 @@
+[
+  {
+    "id": "66592d16-fb4e-473b-b954-2cb766c3c93f",
+    "data": [
+      {
+        "text": "Ospedale",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "402d8dca-92ed-418f-980f-e09dc73eb6f3",
+    "data": [
+      {
+        "text": "devo andare al ",
+        "userDefined": false
+      },
+      {
+        "text": "pronto soccorso",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0121c088-a8f6-4363-8be3-f8f7101f88f8",
+    "data": [
+      {
+        "text": "ASL",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      },
+      {
+        "text": " di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "03833276-94b4-4b00-a763-64aee213abaa",
+    "data": [
+      {
+        "text": "sai dirmi dove si trova un ",
+        "userDefined": false
+      },
+      {
+        "text": "ospedale",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2dfe113c-9182-4345-9be6-615669fc4edd",
+    "data": [
+      {
+        "text": "ospedali",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f4f29ed1-5798-46d9-b7b9-c62090c397ee",
+    "data": [
+      {
+        "text": "Ho bisogno di uno ",
+        "userDefined": false
+      },
+      {
+        "text": "psicologo",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "96c9d9cd-cff7-4c06-9f46-40eb0e97c654",
+    "data": [
+      {
+        "text": "118",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ed7185aa-9c4f-45f3-a688-ec51848bcca7",
+    "data": [
+      {
+        "text": "ho bisogno di un ",
+        "userDefined": false
+      },
+      {
+        "text": "ospedale",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b491f63e-7c40-4f6d-9780-a7fee6e2a866",
+    "data": [
+      {
+        "text": "C\u0027è un ",
+        "userDefined": false
+      },
+      {
+        "text": "ospedale",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": true
+      },
+      {
+        "text": " qui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "aeec15b8-2a26-4750-8497-f165050a93a5",
+    "data": [
+      {
+        "text": "Ho bisogno dell\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ospedale",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1d5d5c8f-35be-4b52-8f3a-341319762baa",
+    "data": [
+      {
+        "text": "Ospedale",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": false
+      },
+      {
+        "text": "©",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "82876f27-a371-446c-a6af-6e655b239a6b",
+    "data": [
+      {
+        "text": "ospedale",
+        "meta": "@Ospedale",
+        "alias": "Ospedale",
+        "userDefined": true
+      },
+      {
+        "text": " mola di bari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

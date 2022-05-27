@@ -1,0 +1,453 @@
+[
+  {
+    "id": "4ec84050-ae0f-4673-92e4-188e7dbd3012",
+    "data": [
+      {
+        "text": "Ho la faccia piena di schiaffi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f51e5c84-dcc1-4f46-9fdd-07d3afecbcdb",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "aggredito",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      },
+      {
+        "text": " ho bisogno di aiuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f4575cce-4c35-408e-98e8-1efbefa38ac4",
+    "data": [
+      {
+        "text": "Ok mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "accoltellato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      },
+      {
+        "text": " allo stomaco e tra poco muoio cosa faccio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "580105fa-ef0a-4a2a-9ac8-f2b3942a57b7",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "ammazzare",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      },
+      {
+        "text": " tutti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7af1d445-c75a-4dc5-8851-f9c04c056148",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "rubato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      },
+      {
+        "text": " il portafoglio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "afe96cb5-473c-4f3a-8212-08c3d91b590a",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "rapinato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "76b7e042-130f-4f41-aeba-608d02505afc",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "derubato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8b4a75e0-8025-411f-b844-a6d02c35615e",
+    "data": [
+      {
+        "text": "Sai dirmi dove si trovano i ",
+        "userDefined": false
+      },
+      {
+        "text": "carabinieri",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9593f744-263d-4ec8-9390-dbeb352cce78",
+    "data": [
+      {
+        "text": "Devo fare una ",
+        "userDefined": false
+      },
+      {
+        "text": "denuncia",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0983e435-3d12-46e2-afd8-de38e7b41c75",
+    "data": [
+      {
+        "text": "Ho bisogno dei ",
+        "userDefined": false
+      },
+      {
+        "text": "carabinieri",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "98a61b1e-55bc-46bb-9e12-b1399155d8a1",
+    "data": [
+      {
+        "text": "Ho subito un ",
+        "userDefined": false
+      },
+      {
+        "text": "furto",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ca1cf8b0-170b-4624-beb1-ae48988ab8ec",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "fregato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3182bd33-c804-4792-8bfa-250bfe172536",
+    "data": [
+      {
+        "text": "Sono stato fregato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f35190f6-1a26-428d-b5e5-134eec5895a5",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "denunciare",
+        "userDefined": true
+      },
+      {
+        "text": " un ",
+        "userDefined": false
+      },
+      {
+        "text": "furto",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "54ea6c73-0b70-4261-abf0-13a81e415050",
+    "data": [
+      {
+        "text": "Dove posso fare una ",
+        "userDefined": false
+      },
+      {
+        "text": "denuncia",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a5e3bb5c-b77c-4c54-b2ac-94273743e50d",
+    "data": [
+      {
+        "text": "Sono stato ",
+        "userDefined": false
+      },
+      {
+        "text": "fregato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e1adaf95-eae2-4514-9ad3-747b2422bd92",
+    "data": [
+      {
+        "text": "112",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "18245bea-8ea7-4c8d-9a8a-db9b78246966",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "scippato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dc72d638-0a69-48c0-ac50-8d78d3eae9fc",
+    "data": [
+      {
+        "text": "Scippo",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "44df644e-9a8a-4879-bc36-f49c5f3fafdc",
+    "data": [
+      {
+        "text": "Devo parlare con la ",
+        "userDefined": false
+      },
+      {
+        "text": "polizia",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "91005524-2d6c-4a64-802d-d830ec7be677",
+    "data": [
+      {
+        "text": "Mi hanno ",
+        "userDefined": false
+      },
+      {
+        "text": "rubato",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      },
+      {
+        "text": " la borsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a29eaedf-3fd1-4c19-9771-e1f26b01e2a6",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "smarrito",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": true
+      },
+      {
+        "text": " i soldi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c9794e5b-11b8-4572-9387-68de015c76b8",
+    "data": [
+      {
+        "text": "Polizia",
+        "meta": "@Polizia_Carabinieri",
+        "alias": "Polizia_Carabinieri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

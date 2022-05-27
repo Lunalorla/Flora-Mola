@@ -1,0 +1,768 @@
+[
+  {
+    "id": "8444d631-7d6a-42b4-8384-6f2b2f68ea1a",
+    "data": [
+      {
+        "text": "voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b896bb0a-172f-47d4-b626-a08ba839d8e8",
+    "data": [
+      {
+        "text": "voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "adesso",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "69184444-40fe-466b-8001-c3a26844a541",
+    "data": [
+      {
+        "text": "Dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 32,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0cb5aec0-319e-4391-bb17-baabfabb1a32",
+    "data": [
+      {
+        "text": "Magari vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " posto che non sia il bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d6c2f978-79e4-4bce-83a5-c897c5219581",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "cenare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "staser",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3a0eea1c-bd38-480b-bcda-13df1bd9704b",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " fame assurda ",
+        "userDefined": false
+      },
+      {
+        "text": "voglio mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      },
+      {
+        "text": " tanto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5f7cac0c-b0a4-4e3c-899a-eeb6054906f4",
+    "data": [
+      {
+        "text": "ristorante",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 37,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e9e90847-c035-4ac9-a77e-768379b3b70a",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fe7ff985-21fc-4c75-b9a6-cfb960402355",
+    "data": [
+      {
+        "text": "Ho una fame assurda voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare tanto",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b6ecb891-4061-4188-8a32-a9be6bcacec4",
+    "data": [
+      {
+        "text": "Trova ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante economico",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1b4c6bc3-8fc0-4cd7-b3d5-85d92d0c434a",
+    "data": [
+      {
+        "text": "Mamma mia che ",
+        "userDefined": false
+      },
+      {
+        "text": "fame",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c617a328-5fe2-42e8-a90f-f4f72129d62b",
+    "data": [
+      {
+        "text": "Ristoranti",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "87e559d2-b2ea-4fc7-8c12-885811b04a8b",
+    "data": [
+      {
+        "text": "Magari vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " posto che ",
+        "userDefined": false
+      },
+      {
+        "text": "non sia il bar",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e54369e-6f25-4e74-9ec0-5801d1647aa3",
+    "data": [
+      {
+        "text": "Ho fame ©‍©",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 18,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8d550934-eed4-46a7-83b4-b7e18a7a1e7d",
+    "data": [
+      {
+        "text": "Avrei ",
+        "userDefined": false
+      },
+      {
+        "text": "fame",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e6ca44b5-ffc1-4d92-86f6-9a9d196960e7",
+    "data": [
+      {
+        "text": "Cerco un ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "037c6359-c9f0-4f93-9f22-bb17da3e7a11",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3185e8b2-1d00-41fb-8d37-ccf6f4ed7cbb",
+    "data": [
+      {
+        "text": "Dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mangio",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c6b03d87-142a-42e5-b56b-1bca3dd12f1b",
+    "data": [
+      {
+        "text": "Ho bisogno di un luogo dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "147f9645-ff3a-4d68-993e-e5057b71744c",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      },
+      {
+        "text": " questa ",
+        "userDefined": false
+      },
+      {
+        "text": "sera",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b0dc233c-57c9-4828-8696-1d40d53015a7",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "14584194-c4db-423a-acfb-a8e5b25a2be7",
+    "data": [
+      {
+        "text": "Ho fame",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 18,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6187ec71-9ce5-4aad-aa3d-7ab0bfe1a7a3",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ristorante",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "555aa926-8e4b-40f2-93fd-e9eb2f4f7369",
+    "data": [
+      {
+        "text": "Sai dirmi tutti i ",
+        "userDefined": false
+      },
+      {
+        "text": "ristoranti",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      },
+      {
+        "text": " di mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bfba4329-7515-410f-bcff-9fdcd758dd63",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " luogo dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "22e40048-0d72-4769-aa96-4bb0b156d437",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pesce",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "97f4a6df-4d8e-49d6-abe6-d5b2cbb7fc5a",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e59602d8-59a0-40b0-8118-9d0817efc77e",
+    "data": [
+      {
+        "text": "fame",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6c5b3475-7700-4de2-bf28-f2793c0f11cd",
+    "data": [
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7f5d79af-f2be-4308-9bd2-23e824cd84ef",
+    "data": [
+      {
+        "text": "Posti dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " nelle vicinanze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ce64a8a5-29d8-4691-bd94-9e45fb025c3d",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " questa sera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2ddc82f8-1f3e-4909-bf11-9d68fc599d6f",
+    "data": [
+      {
+        "text": "DOVE POTREI ANDARE A ",
+        "userDefined": false
+      },
+      {
+        "text": "MANGIARE",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " STASERA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9c15ed31-908f-4613-818d-8f3fa6c5f60e",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": false
+      },
+      {
+        "text": " stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "73c59e0a-6e2a-4726-a8a0-b06738b3e4a6",
+    "data": [
+      {
+        "text": "Posto economico per ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare",
+        "meta": "@Cibo",
+        "alias": "Cibo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

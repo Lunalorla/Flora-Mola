@@ -1,0 +1,9 @@
+{
+  "id": "5f4604d5-2a1d-4bbc-95da-ee403f872fa2",
+  "name": "BeB",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

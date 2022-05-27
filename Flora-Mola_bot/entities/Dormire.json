@@ -1,0 +1,9 @@
+{
+  "id": "e806d243-cb2c-4da2-be2e-e9f4db6212d3",
+  "name": "Dormire",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

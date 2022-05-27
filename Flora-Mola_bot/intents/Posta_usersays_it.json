@@ -1,0 +1,378 @@
+[
+  {
+    "id": "3f20b5e7-7e5e-43be-a081-dddd481565bd",
+    "data": [
+      {
+        "text": "Ho bisogno di soldi, ma solo dalla ",
+        "userDefined": false
+      },
+      {
+        "text": "posta",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1ebd3e5f-8e62-42ac-8a2e-84a158d62705",
+    "data": [
+      {
+        "text": "Poste",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      },
+      {
+        "text": " a moal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4c47bbd7-ae45-4c87-975a-7f6ec976f0b9",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "prelevare",
+        "userDefined": false
+      },
+      {
+        "text": " con la ",
+        "userDefined": false
+      },
+      {
+        "text": "postepay",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "38d49aa2-8ff7-4852-a8ac-1e7d489fdd5f",
+    "data": [
+      {
+        "text": "Posta",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "87c25c58-3b52-4342-a908-b2e9ce17ed44",
+    "data": [
+      {
+        "text": "Poste",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      },
+      {
+        "text": " a mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e21524cc-b709-40ef-a05f-33b506975d52",
+    "data": [
+      {
+        "text": "Mi servono dei ",
+        "userDefined": false
+      },
+      {
+        "text": "francobolli",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "07f9bc49-cb1f-4dd2-bb7c-6cec5e44dace",
+    "data": [
+      {
+        "text": "Devo spedire ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cartolina",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c0d1d76e-1db2-4a45-a9b6-b7f75fa0de66",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "spedire un pacco",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4f9a008f-7552-4904-9eac-2070f40ea887",
+    "data": [
+      {
+        "text": "Ho bisogno di contanti posso ritirare ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": true
+      },
+      {
+        "text": " solo dalla ",
+        "userDefined": false
+      },
+      {
+        "text": "posta",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3078af94-dbdc-4e3b-b3bb-56e402c09da5",
+    "data": [
+      {
+        "text": "Spedira un ",
+        "userDefined": false
+      },
+      {
+        "text": "pacco",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "92d58b63-397c-42e4-980c-38ef017b9d4a",
+    "data": [
+      {
+        "text": "Poste",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c55c1893-e037-4cc3-a7e5-40a4eac3ca3f",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "contanti",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": true
+      },
+      {
+        "text": " posso ritirare ",
+        "userDefined": false
+      },
+      {
+        "text": "soldi",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": true
+      },
+      {
+        "text": " solo dalla ",
+        "userDefined": false
+      },
+      {
+        "text": "posta",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e6344136-b089-44f9-93b2-85b4b6eecca0",
+    "data": [
+      {
+        "text": "Ho anche una ",
+        "userDefined": false
+      },
+      {
+        "text": "postepay",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6a698a15-56a2-4602-a5f5-b29f1c4c70cf",
+    "data": [
+      {
+        "text": "Poste Italiane",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3a7e6f51-23f0-4968-a49a-4b64313419c9",
+    "data": [
+      {
+        "text": "Ho una ",
+        "userDefined": false
+      },
+      {
+        "text": "Postepay",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a8a42013-5ef3-4415-b983-03369d413f61",
+    "data": [
+      {
+        "text": "Posta",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      },
+      {
+        "text": "✉️",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a7af2687-e230-4048-abe7-d96f37bb3468",
+    "data": [
+      {
+        "text": "Ho bisogno di una ",
+        "userDefined": false
+      },
+      {
+        "text": "cartolina",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e33dadc5-42cb-4463-bb74-c63ae05affba",
+    "data": [
+      {
+        "text": "Cerco una ",
+        "userDefined": false
+      },
+      {
+        "text": "posta",
+        "meta": "@Posta",
+        "alias": "Posta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,751 @@
+[
+  {
+    "id": "e5046333-a871-4fdb-9a60-d930dde4ef7f",
+    "data": [
+      {
+        "text": "Lido",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "976bc800-ebc6-401c-aa0e-ad1e2658cbec",
+    "data": [
+      {
+        "text": "Piscina",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "40d26404-6bc1-43f9-8f84-33e3ef70276c",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "piscina",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "da4b5dc2-0167-4533-b12b-fe9e70f35eeb",
+    "data": [
+      {
+        "text": "Voglio andare al ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4aecfe9f-c27f-47bc-8493-f0e3192a7c54",
+    "data": [
+      {
+        "text": "Ho finito gli esami oggi, voglio andare al ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2244732b-f408-49c4-ab83-989e206e6696",
+    "data": [
+      {
+        "text": "Voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " partita a ",
+        "userDefined": false
+      },
+      {
+        "text": "beach volley",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8beee598-ec46-49ff-976d-d82526646159",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0abbf81b-8f14-4a1b-84a0-6d360a6ce094",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "nuotare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ed93d775-b67b-4999-88c1-65d6409e25db",
+    "data": [
+      {
+        "text": "Voglio andare la ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cf399801-3744-4397-af52-07edbd51781c",
+    "data": [
+      {
+        "text": "Spiaggia",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a59ad6ac-c065-41ba-9136-bb07f5c57a99",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "spiaggia",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f3efa0bf-0ba1-4b34-a6c4-e20987a755c1",
+    "data": [
+      {
+        "text": "Voglio fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "giro in barca",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9af6b8f7-ac62-46cd-8ad3-0074ffccba9a",
+    "data": [
+      {
+        "text": "Esistono ",
+        "userDefined": false
+      },
+      {
+        "text": "lidi",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": " qui a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a9498a8a-0dda-4e8d-85dc-980eb62c3587",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "farmi un bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1298f425-13fb-400c-82e7-6f277bc973f2",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "prendere il sole",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "35441ee7-0026-4052-a0a3-a133239c5cc9",
+    "data": [
+      {
+        "text": "Voglio giocare a ",
+        "userDefined": false
+      },
+      {
+        "text": "beach volley",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "07e49b52-7e7e-45dc-8d33-a9b49362e4a8",
+    "data": [
+      {
+        "text": "Mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a254da0a-b3fc-4b05-bcca-345f05668007",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": " al ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f1fd9fe3-b024-4d8a-9094-9fcea4d918db",
+    "data": [
+      {
+        "text": "Lidi",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "df5dd796-ad93-4816-b7b9-727d234865c5",
+    "data": [
+      {
+        "text": "Voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "surf",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b16e81d9-c87c-4173-b58d-fe36633ee621",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "lido",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": " mi consigli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "799d7b59-ce17-4133-868a-55a8358b64e1",
+    "data": [
+      {
+        "text": "Spiaggia libera",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1683ff32-6b8c-4c07-81fc-0b636c6bcc42",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2cad2df8-54e7-4ced-822a-81d4bfcca299",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "lido",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d3ea4027-f42a-481c-a12e-6f5ccf923fee",
+    "data": [
+      {
+        "text": "Ho detto ",
+        "userDefined": false
+      },
+      {
+        "text": "spiagge",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      },
+      {
+        "text": ", non farmacie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "478d3382-e30c-4167-8cba-e5df5b5e98dc",
+    "data": [
+      {
+        "text": "vorrei fare una ",
+        "userDefined": false
+      },
+      {
+        "text": "nuotata",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f6f2cf05-2f9e-4943-88a8-4fcf61b67541",
+    "data": [
+      {
+        "text": "Spiagge",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0ccfa249-2f5a-4a3f-9745-75d30171711a",
+    "data": [
+      {
+        "text": "Voglio andare in ",
+        "userDefined": false
+      },
+      {
+        "text": "piscina",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "35afbc17-5d2d-46b8-9e86-8d7a5426383a",
+    "data": [
+      {
+        "text": "Oggi ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "farmi un bel bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": ", che ",
+        "userDefined": false
+      },
+      {
+        "text": "lido",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": " mi consigli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "780fee81-0ba2-44b6-80bc-18b873f066ac",
+    "data": [
+      {
+        "text": "Ho detto che voglio andare al ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "50fdbaf8-0fdc-45c9-9cb5-e88fbcefc18a",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b770857a-9100-4a93-9ebc-7b560ac77ce5",
+    "data": [
+      {
+        "text": "Ci sono dei ",
+        "userDefined": false
+      },
+      {
+        "text": "lidi",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5653f0b2-7047-4ed5-b5c6-7697e95cb24e",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "abbronzarmi",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ef0fe8ac-9004-4f33-a180-f3cd03a6d809",
+    "data": [
+      {
+        "text": "Conosci un posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "fare il bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "59317bda-b0cd-46b2-a453-c8b8f6e6eee3",
+    "data": [
+      {
+        "text": "Lido",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "05684676-f8b0-418c-9192-a8676c4d6617",
+    "data": [
+      {
+        "text": "Stabilimenti balneari",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eec08c08-6618-4261-b88a-ef6e8d3dca97",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un bagno",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "mare",
+        "meta": "@Mare",
+        "alias": "Mare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

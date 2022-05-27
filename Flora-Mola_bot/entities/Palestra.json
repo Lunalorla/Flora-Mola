@@ -1,0 +1,9 @@
+{
+  "id": "0fabc460-2cc2-43bb-8e37-bf0b0e74740a",
+  "name": "Palestra",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

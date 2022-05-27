@@ -1,0 +1,133 @@
+{
+  "id": "cd485a85-beef-4153-880e-9201d2126648",
+  "name": "Palestre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "358df7ef-4a5e-4472-b0a5-a94762fe9012",
+          "name": "Palestra",
+          "required": false,
+          "dataType": "@Palestra",
+          "value": "$Palestra",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "97c6ea22-632a-4989-ae27-0a1ba72a42ce",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Ci sono tanti posti, ma scegli il top:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://bariprimavera.altervista.org/wp-content/uploads/2014/06/IMG_29371.jpg",
+          "subtitle": "Professionisti del settore wellness proseguiamo durante la linea temporale evolvendoci in linea con i tempi, sulla strada del benessere con entusiasmo e semplicità. Le richieste ogni giorno sempre diverse ci hanno portato a tener conto dell\u0027 esigenze dei nostri clienti in tutta la loro completezza.  Per questo Body Energy è benessere a 360°: obiettivi mirati, programmati e soprattutto realizzati insieme. Il nostro staff vi promette risultati concreti e non parole. Body Energy è soddisfazione e qualità, forma e benessere su misura per tutti.",
+          "title": "BODY ENERGY FITNESS",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/cL5zCmXVgdS2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.bodyenergyfitness.it/index.html",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWUAAACNCAMAAABYO5vSAAABmFBMVEX////oeBT///3//v/8//////zneBX///sAAGMAAF/8//0AAGHncQDqdxPneRP6//8AAGZme6bmbQAAAFznbwDndADqbQAAAGkAHGsAHmrlaADteg4AG272z7EAIWoAAFn66dkAJm3umVdhdqUAD2T99vAAGnEAFWTxtYgACGIAGGVmfKTQ1eL88OQAFGhmeamJmLhuhK7yfADsmV333coAHWTc4OjvoWrrkEPwq3iwt8mfq8XAydaUobwALXbt8fhGX5PrhjTyw6E4Ol96UU8wRIDz07jEbyonRnyLWk2qYz4VL2vwrX+IlLhFPFzV2+N5gqRZZZCttdE7V49cbZZAYJY2U5K+xtqSn7WEi6hBVYdcaZ4bPH4ALHqjd3TceB06S5HZqpEGKmZVSGHWdCaoX0FpSlW5j4G4ZzcnNGpbPlWemaaneGGTXUc1KFeLmK7Hvb6DUFHUfjrQbC3Ixsi7bTGTV0ramXNXP2E7OV+aUi1lOkunbls5JlHSy79LOGG4bUyZhYRrboCCanW2k5OPUEplXHPqWQBMuMH5AAAgAElEQVR4nO19i38aSZJmUhQUKkEhEIVABXIBKgQCJEAYEA8BNRaS9X5NY8vq5daWNJZnPT3dvZ5p3+1t7+7dXP/b90UWSMiPnpm2tPb0j2g3ElCPrMjIL76IjEwxNpaxjGUsYxnLWMYylrGMZSxjGctYxjKWsYxlLGMZy69f7DITBOFzt+JXLoJgtwvM/rmb8WsXu1R7BnP+3M34dYsgOljYJ7PWWNH3LO0HTaFd+9yt+LXLeijcmp4pf+5m/MrlYCG9vzYxNuZ7EjA4O+hFzzWVPXA12ZjQ3ZMIpNrWdLpWmz4Y+797k7JXYPLk/JPs5OHnbso/tFBkR3GHcBPitVrl/Wy2UTuq1epl5pBn5psNaLlXK49R4xeJKF7HdQ5JKDdqzUIiU8g36/W8r1lv1rNMFlrpdL3hOvROPwh5x0r+RQK1tcrZozrM9qjg223unhy2j7863lxbC4W//vrrUDtxlHWla03XgZDdb4xD7VvC3ZbwQaWANjgE++CrfdJuvdZr5n3t47W1r06eNo9q2RaJ9Sq39huudDY/3eTeb2zLo8LBVpQ+9I3sIFU5vNneE9+Jr/Dst+3DZ89OfM1yy/vhaz2Zn/CejPnyB0RO1Fvih20ZUq5lTn7720Sh/VXiSW+/JQ4/t3/Qu2UW5+Wzyew9tfQfWeq96akno+P7Wn1io9lu+xLt49Plelbi31jfCYJMv7yv57OF9r5r/b+j1f9QIgitfeHrxU27MHxvaRJYm8+cFPL1A1+mtv8RQxcEQhQHK7d4F8isPp+uPd2s/7e1/h9GHNBpOzSZHTFLh7d3sv7bwtFB4XS3tt9iROI+crY3u1sr954NIOJ0wjVFbnDs994RO9niNwvpa/tr1U7a6+0CePBBPevlR3xsAsSerfuamUQi0eOEQnC0Go2WZBn4WEZFKNeyrJYOP+OMTuwdfv203PK12/WBnxOsf+/pTZDEIyi4cbCc8I3T9n9NBOZ6UC7PxCZg0tnMxGmW7e+eNFt/le0KrJHw+ciQd1vjUPqviYM9m8635sITLZafghk3zwr7RCEQQ//sed5yGUpeziRqHyeBYyGxC3aY4RPXoRgjLcusldiuc2dnv1EcRYYi/o0YN2U4DwrP1n2+5ULZCh3H8lEReADXmDi1x+YmaBZpt916/yBBlOH+JEG8+YSVC4njxfZyof0N+mYsPyt2u6N1kC1Pn7K1OYrX7Fn5Q16OgTYw7zWCkCU/ba+FjpczZ6dj0vZXBSYaevC0lSYtuxoWJAg3X/IXgZVWtGAnZVx/42C1k7OFTV/m5OunduH9fvkyRPxiqpzQjIMsa034BrY8ELtdbNT3CQqood2Ax2bzuDsG/wqkmNW/CseeZXzPJn",
+          "title": "BODY ENERGY FITNESS",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Mysu4NzHWZTaqJah6",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.18169-1/14463061_1100229170014844_8063837918937743002_n.jpg?stp\u003ddst-jpg_p200x200\u0026_nc_cat\u003d109\u0026ccb\u003d1-5\u0026_nc_sid\u003d1eb0c7\u0026_nc_ohc\u003dRJzN41XosFYAX94ILxH\u0026_nc_ht\u003dscontent-mxp1-1.xx\u0026oh\u003d00_AT8Cd2Jfegl2JDj_bOI4KSosIgzVazLpfl1YrCsJBQm86g\u0026oe\u003d62853A21",
+          "title": "GYMNICA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/zvfnt8f1vDD4mUwg9",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Eccoti alcune palestre di Mola. Posso aiutarti in qualcos\u0027altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

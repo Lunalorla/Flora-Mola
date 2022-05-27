@@ -1,0 +1,151 @@
+[
+  {
+    "id": "45b22c2a-911e-4e48-9145-f8ef7a0e9954",
+    "data": [
+      {
+        "text": "avanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "261a3a33-676a-48af-8b76-666e06907022",
+    "data": [
+      {
+        "text": "continua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "82ebef3a-d718-4c4c-893d-04f944fbdec6",
+    "data": [
+      {
+        "text": "leggi i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "923cd476-bd54-43fe-9624-b6f5213b8299",
+    "data": [
+      {
+        "text": "vai alla pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "264e09d6-46e1-44d7-b73e-d0adf44fd158",
+    "data": [
+      {
+        "text": "vai al seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "65973351-6083-40e4-a508-341d92f37c6a",
+    "data": [
+      {
+        "text": "mostra seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "37945847-15e6-4088-b431-ee59b0bd168c",
+    "data": [
+      {
+        "text": "pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2d647e91-f4cc-4f72-8b4c-a9de9bc2c1a8",
+    "data": [
+      {
+        "text": "risultato seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4eb56baf-8b94-4f1c-af3a-071d82330077",
+    "data": [
+      {
+        "text": "mostrami la pagina seguente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0c462083-1f93-43d4-a057-fd0cb43a461d",
+    "data": [
+      {
+        "text": "mostrami i risultati successivi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31a1a4ec-ef8d-4a4b-b3b2-bd5f84d46b33",
+    "data": [
+      {
+        "text": "Altri ",
+        "userDefined": false
+      },
+      {
+        "text": "B\u0026B",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

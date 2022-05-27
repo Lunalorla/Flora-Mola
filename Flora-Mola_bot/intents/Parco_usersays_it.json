@@ -1,0 +1,375 @@
+[
+  {
+    "id": "346f55ff-d213-4ea2-bcae-a3d6f9323523",
+    "data": [
+      {
+        "text": "posti per bambini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b24e4493-a154-4fed-8997-5df697f026cf",
+    "data": [
+      {
+        "text": "parco giochi",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      },
+      {
+        "text": " per bambini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7b2c838c-b737-4363-ab34-c453db43214d",
+    "data": [
+      {
+        "text": "Sai dirmi tutti i ",
+        "userDefined": false
+      },
+      {
+        "text": "parchi",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      },
+      {
+        "text": " di mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "365fc31f-d898-47ea-9bca-3b94ddb7e905",
+    "data": [
+      {
+        "text": "dove posso fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "picnic",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "be985f87-8b72-49a3-bcd8-1d938de30cd3",
+    "data": [
+      {
+        "text": "dove posso far giocare mia figlia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "644ef3d8-9845-4a4b-ae5b-160c8d366afd",
+    "data": [
+      {
+        "text": "Parco",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9a1d0c5c-33ec-413d-82c1-1b5ca813f158",
+    "data": [
+      {
+        "text": "Esiste ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parco",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      },
+      {
+        "text": " per bambini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "07f93cc7-1dad-44f3-9f0b-fdaa969df3fe",
+    "data": [
+      {
+        "text": "dove posso far giocare ",
+        "userDefined": false
+      },
+      {
+        "text": "mio",
+        "userDefined": false
+      },
+      {
+        "text": " figlio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0bf6a155-289b-4679-ae3e-db72ac487da1",
+    "data": [
+      {
+        "text": "Parco",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      },
+      {
+        "text": " per bimbi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "86e16d6b-c6f9-4266-949f-b5715eabb326",
+    "data": [
+      {
+        "text": "Esistono dei ",
+        "userDefined": false
+      },
+      {
+        "text": "parchi",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "38723440-972f-43e9-9622-7f3da08cc867",
+    "data": [
+      {
+        "text": "Posti",
+        "userDefined": false
+      },
+      {
+        "text": " dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mio",
+        "userDefined": false
+      },
+      {
+        "text": " foglio può stare al ",
+        "userDefined": false
+      },
+      {
+        "text": "campo",
+        "userDefined": false
+      },
+      {
+        "text": " estivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5d91c00d-4b71-4776-b4a3-50705fb0f518",
+    "data": [
+      {
+        "text": "parco giochi",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4ab9cb93-19a7-433d-a3db-8a7e7673e296",
+    "data": [
+      {
+        "text": "dove posso portare i miei figli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6c3aea2c-a408-491e-8f88-ae5601fd87ee",
+    "data": [
+      {
+        "text": "conosci dei ",
+        "userDefined": false
+      },
+      {
+        "text": "parchi",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "382288b3-2244-42b1-a136-25ad287b3882",
+    "data": [
+      {
+        "text": "dove sono i ",
+        "userDefined": false
+      },
+      {
+        "text": "parchi",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5f291473-754f-427e-8078-fda0b76ab961",
+    "data": [
+      {
+        "text": "Vorrei portare ",
+        "userDefined": false
+      },
+      {
+        "text": "mio",
+        "userDefined": false
+      },
+      {
+        "text": " figlio in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parco",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c33f9e9a-f885-4e56-8c11-341950c1a759",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " camminata in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parco",
+        "meta": "@Parco",
+        "alias": "Parco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

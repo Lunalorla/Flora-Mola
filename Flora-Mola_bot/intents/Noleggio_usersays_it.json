@@ -1,0 +1,518 @@
+[
+  {
+    "id": "33f61f9c-50cc-4b9a-8c5e-3439fed98ac4",
+    "data": [
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0ee13286-2e47-4534-8243-b1828f237179",
+    "data": [
+      {
+        "text": "Autonoleggio",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c7fb2a8c-d4a0-405a-9f15-ae582cb1561d",
+    "data": [
+      {
+        "text": "Affittare una macchina",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e2cf0908-35c0-44ff-9a57-733b2263bfc7",
+    "data": [
+      {
+        "text": "mezzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2b990ddb-f8a9-4bf3-9bed-53e570a49dbc",
+    "data": [
+      {
+        "text": "Voglio spostarmi in ",
+        "userDefined": false
+      },
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8e763d59-8aa2-4b20-9868-b42163bb9db9",
+    "data": [
+      {
+        "text": "sai dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "noleggiare un auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      },
+      {
+        "text": " a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c0a9f76f-ee03-4aa0-90fc-fd51a5d80745",
+    "data": [
+      {
+        "text": "Affittare ",
+        "userDefined": false
+      },
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "01251743-c189-4159-af7f-ed3947a8ea10",
+    "data": [
+      {
+        "text": "Macchina",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ca2e9142-c905-4d7f-9999-52bf08063136",
+    "data": [
+      {
+        "text": "dove posso noleggiare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " auto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "45f632ef-0db4-4acc-bc4f-19904a5af5a1",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "nolleggiare",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      },
+      {
+        "text": " un\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dd0f3195-e9c5-4319-b689-952058620c60",
+    "data": [
+      {
+        "text": "avrei bisogno di un ",
+        "userDefined": false
+      },
+      {
+        "text": "mezzo",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "83828cc9-7c15-4789-9ae6-ab5b8cab2544",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " moto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "78f526b3-1018-4ce3-9462-d7fbf11e4cc0",
+    "data": [
+      {
+        "text": "Avrei bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "noleggiare un auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2df7652d-1bb3-473e-a893-b124ff3dc554",
+    "data": [
+      {
+        "text": "Bike sharing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8dd2f045-f8b9-45db-ae11-ea651ffe8e86",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " bici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ab0a7f0a-f154-414a-906c-77772573174c",
+    "data": [
+      {
+        "text": "potresti aiutarmi a cercare un ",
+        "userDefined": false
+      },
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ddde1e65-5733-4cf0-b35e-684f6c796ae7",
+    "data": [
+      {
+        "text": "Autonolleggio",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "98981a26-9afa-4e8c-b643-7c0dd040ff96",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8e03c674-1943-4401-bfff-c87d8a073f93",
+    "data": [
+      {
+        "text": "avrei bisogno di un auto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31b44189-df36-44cc-b63c-58094ec9a699",
+    "data": [
+      {
+        "text": "Avrei bisogno di una ",
+        "userDefined": false
+      },
+      {
+        "text": "macchina",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5ff9ab09-47b7-44d4-85da-f0b5f8d5247d",
+    "data": [
+      {
+        "text": "nolleggioare",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      },
+      {
+        "text": " un\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e66ca9a2-99b1-4940-9fa9-824e0e8b76d1",
+    "data": [
+      {
+        "text": "Autonoleggio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d800aba1-57a4-4753-bc20-436fda038210",
+    "data": [
+      {
+        "text": "Dove posso affittare delle macchine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9eaacb31-a5e7-4253-bdfc-66bde8b851bf",
+    "data": [
+      {
+        "text": "Voglio nolleggiare",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      },
+      {
+        "text": " un\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "auto",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a4e27d70-b91f-4e14-80b1-58234c589e1c",
+    "data": [
+      {
+        "text": "Ho bisogno di una ",
+        "userDefined": false
+      },
+      {
+        "text": "macchina",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b040990a-4138-4b6f-a3b7-0a130073c198",
+    "data": [
+      {
+        "text": "automobile",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      },
+      {
+        "text": " a mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d10a69fa-d57e-456e-a745-bedb9e48e1ce",
+    "data": [
+      {
+        "text": "auto a noleggio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a7d7eb55-37c9-457f-9532-781a055d0346",
+    "data": [
+      {
+        "text": "noleggiare",
+        "meta": "@Automobile",
+        "alias": "Automobile",
+        "userDefined": true
+      },
+      {
+        "text": " un mezzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

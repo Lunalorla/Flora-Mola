@@ -1,0 +1,114 @@
+{
+  "id": "aa668341-6973-4b56-8d29-4c10a65e08d8",
+  "name": "Ristorante_asiatico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f9ae9c21-de5f-48c7-8525-5b06976be2d6",
+          "name": "Orientale",
+          "required": false,
+          "dataType": "@Orientale",
+          "value": "$Orientale",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://u.tfstatic.com/restaurant_photos/347/60347/169/612/hoki-sushi-buffet-942f0.jpg",
+          "subtitle": "I titolari (nonostante la lontananza dalle proprie origini) sono molto accoglienti e cortesi tanto da creare quasi da subito un\u0027atmosfera familiare. Insomma non posso che consigliare, a tutti coloro ai quali piace il genere orientale, di trascorrere una giornata all\u0027insegna di sushi e tempura presso questo ristorantino niente male.",
+          "title": "Ristorante Cinese Europa-Hoki Sushi",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?tbm\u003dlcl\u0026ei\u003dPklCW9u3DsTLwQLugqCoAg\u0026q\u003dristorante+cinese+mola+di+bari\u0026oq\u003dristorante+cinese+mola+di+bari\u0026gs_l\u003dpsy-ab.12...0.0.0.5143.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.De2E70K6H-8#rlfi\u003dhd:;si:6933831764042189427;mv:!1m3!1d3133.6979933071298!2d17.0902175!3d41.06133795!2m3!1f0!2f0!3f0!3m2!1i186!2i200!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d9735518-Reviews-or10-Hoki_Sushi-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questo è l\u0027unico ristorante Cinese/Giapponese che conosco.",
+          "replies": [
+            "Grazie ! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://u.tfstatic.com/restaurant_photos/347/60347/169/612/hoki-sushi-buffet-942f0.jpg",
+          "subtitle": "Situato a Mola di Bari, il ristorante fusion Iku Sushi propone deliziosi piatti a base di pesce fresco, unendo le specialità della tradizione giapponese ai piatti tipici della cucina cinese.",
+          "title": "Ristorante Fusion Iku Sushi",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/fDpD1v6ktCTDE9w29",
+              "text": "PORTAMI LI\u0027!🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d9735518-Reviews-Iku_Sushi-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questo è l\u0027unico ristorante fusion cinese e giapponese che conosco. Ti serve altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

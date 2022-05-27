@@ -1,0 +1,376 @@
+[
+  {
+    "id": "108f4f9a-65ed-4bf0-bc4c-16ee5ace3350",
+    "data": [
+      {
+        "text": "info",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a103c914-2960-45b7-a8aa-eac7b41a8a62",
+    "data": [
+      {
+        "text": "Numero ",
+        "userDefined": false
+      },
+      {
+        "text": "abitanti",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8506ae06-a51f-4525-ba7a-a8bc2761725f",
+    "data": [
+      {
+        "text": "Superfice",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      },
+      {
+        "text": " Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "032ded9b-104f-44ab-9f02-2e10ebfa11f7",
+    "data": [
+      {
+        "text": "Abitanti",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      },
+      {
+        "text": " mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b112e5c0-d697-4e8c-a7f1-a71771586384",
+    "data": [
+      {
+        "text": "persone che abitano a mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "90933c67-760c-4758-b147-73f770b2bb64",
+    "data": [
+      {
+        "text": "anno",
+        "userDefined": false
+      },
+      {
+        "text": " di nascita Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "98ecde1a-35d1-4608-800f-b27bfd798599",
+    "data": [
+      {
+        "text": "Numero abitanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "20c7c7cb-43a5-4c61-88ca-5bd5faca51b9",
+    "data": [
+      {
+        "text": "Quanti abitanti ha mola?",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f4f01bb0-7762-4174-874e-f063a025f8e6",
+    "data": [
+      {
+        "text": "info",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      },
+      {
+        "text": " mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c9830942-00e1-4c89-a54f-94978ff6a990",
+    "data": [
+      {
+        "text": "Casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "48485fbc-9013-4039-9953-daae64dcee60",
+    "data": [
+      {
+        "text": "parlami di Mola",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "71e580ac-06ee-4ddd-ab6f-9f84e9343aa8",
+    "data": [
+      {
+        "text": "Cosa conosci di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b83a4ec-bda6-4e44-aac5-cc060b2b3623",
+    "data": [
+      {
+        "text": "info su Mola",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "48f79a83-146b-4309-864f-eb9d11a47317",
+    "data": [
+      {
+        "text": "Abitanti",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ded4d558-42c7-4fc3-8704-d71fd132c15a",
+    "data": [
+      {
+        "text": "quanti abitanti stanno a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5c830d9b-f9b6-45a0-a564-256093a76106",
+    "data": [
+      {
+        "text": "Quanti ",
+        "userDefined": false
+      },
+      {
+        "text": "abitanti",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      },
+      {
+        "text": " ha mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1e81fc49-cd44-4e6c-8f2a-b527ee733989",
+    "data": [
+      {
+        "text": "quando è stata fondata mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4f994daf-3b6e-478a-860c-17a8fd2944e2",
+    "data": [
+      {
+        "text": "Storia della città",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "281f4a13-3e03-4e21-908c-8a1bdb4a28e3",
+    "data": [
+      {
+        "text": "Storia di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "55f31fb1-429b-4d81-87ed-234bf00f7c5f",
+    "data": [
+      {
+        "text": "tutto su Mola",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6234ab3d-8236-48f9-9f39-cb31ed277f78",
+    "data": [
+      {
+        "text": "dimmi di Mola",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fb39afaa-ac08-4c2c-96d8-d95e064cf730",
+    "data": [
+      {
+        "text": "Persone a Mola",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "082767ee-6cbc-47c7-9bd2-1ee2577423e8",
+    "data": [
+      {
+        "text": "informazioni",
+        "meta": "@InformazioniGeneraliMola",
+        "alias": "InformazioniGeneraliMola",
+        "userDefined": true
+      },
+      {
+        "text": " su Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "38457f04-1675-4f02-a69e-bba83436d1da",
+    "data": [
+      {
+        "text": "densità di mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,162 @@
+{
+  "id": "12043fa4-d88a-4a0e-a106-3c8c82768d81",
+  "parentId": "f9e9bca2-683d-45e0-8215-5650d8103ff5",
+  "rootParentId": "4f69b0e4-25c7-424c-bf90-31e72ce7dac7",
+  "name": "CercaBar - next - next",
+  "auto": true,
+  "contexts": [
+    "CercaBar-next-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CercaBar.CercaBar-next.CercaBar-next-next",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/35077833_2007182512648825_9156469653407531008_n.jpg?_nc_cat\u003d0\u0026oh\u003d1baf57d669bbdae332d9c9f0bd0b4d51\u0026oe\u003d5BE4E82F",
+          "subtitle": "Location moderna, ottimo luogo per passare del tempo e stare in compagnia....Bar con servizio ai tavoli sia all\u0027interno che all\u0027esterno del locale.",
+          "title": "NORTH ZONE",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/rmxVZ3kGpnN2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/North-Zone-467625439937881/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://i.pinimg.com/736x/cc/fa/6a/ccfa6ae5c5b84a43dde90416c7fe3fd0--morning-coffee-coffee-time.jpg",
+          "subtitle": "Uno dei migliori caffè tradizionali a Mola di Bari. Il personali si contraddistingue per cordialità e simpatia. Tutti i prodotti sono genuini. Una tappa da fare assolutamente.",
+          "title": "COFFEE TIME",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/2jTTH7tdD6K2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/coffee.time.3910",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.luinonotizie.it/wp-content/uploads/7afa2316-9b31-4ea2-b952-c818f0a41935_xl.jpg",
+          "subtitle": "La specialità de \"Il pendolino\" sono la colazione, la cena e il caffè. Posto strategino, vicino alla stazione. Prima di prendere il treno, goditi un buin caffè qui.",
+          "title": "IL PENDOLINO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/vvnCukSN4Hp",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/barilpendolino/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono tutti i bar che conosco, buona pausa caffè!",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMVSDinKqWzSungN99bg9DUnHSaL7sLiO5KHffc\u003dw426-h240-k-no",
+          "subtitle": "Uno dei migliori caffè tradizionali a Mola di Bari. Il personali si contraddistingue per cordialità e simpatia. Tutti i prodotti sono genuini. Una tappa da fare assolutamente.",
+          "title": "Coffee Time",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/2jTTH7tdD6K2",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPe39-fgQLhvq-Zlwgcd6frDNAUNFRleRRkpggx\u003dw408-h546-k-no",
+          "subtitle": "Punto di riferimento a Mola di Bari per fare una pausa in tranquillità",
+          "title": "Elite Caffé",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/b6dU7nmBrpioKFrX6",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono tutti i bar che conosco, buona pausa caffè! Se ti serve altro, non esitare a chiedere!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

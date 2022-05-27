@@ -1,0 +1,9 @@
+{
+  "id": "895f0819-625d-41f5-981d-036fcf58478a",
+  "name": "Luogo_di_Interesse",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

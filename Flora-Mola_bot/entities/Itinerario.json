@@ -1,0 +1,9 @@
+{
+  "id": "3b26d5de-acbb-4a37-9fda-273b773ed1b1",
+  "name": "Itinerario",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

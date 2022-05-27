@@ -1,0 +1,9 @@
+{
+  "id": "8b7030cc-082c-40b9-8133-f618dd41772c",
+  "name": "Souvenir",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

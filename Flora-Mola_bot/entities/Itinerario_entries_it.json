@@ -1,0 +1,68 @@
+[
+  {
+    "value": "GIRO",
+    "synonyms": [
+      "GIRO"
+    ]
+  },
+  {
+    "value": "Itinerario",
+    "synonyms": [
+      "Itinerario",
+      "camminata",
+      "corsa",
+      "corsetta",
+      "giro",
+      "passeggiata",
+      "pedalata"
+    ]
+  },
+  {
+    "value": "Voglio farmi un giro",
+    "synonyms": [
+      "Voglio farmi un giro"
+    ]
+  },
+  {
+    "value": "bici",
+    "synonyms": [
+      "bici"
+    ]
+  },
+  {
+    "value": "bicicletta",
+    "synonyms": [
+      "bicicletta"
+    ]
+  },
+  {
+    "value": "consigliami qualche posto",
+    "synonyms": [
+      "consigliami qualche posto"
+    ]
+  },
+  {
+    "value": "fare un giro",
+    "synonyms": [
+      "fare un giro"
+    ]
+  },
+  {
+    "value": "iter",
+    "synonyms": [
+      "iter"
+    ]
+  },
+  {
+    "value": "itinerari",
+    "synonyms": [
+      "itinerari"
+    ]
+  },
+  {
+    "value": "passi",
+    "synonyms": [
+      "passi"
+    ]
+  }
+]

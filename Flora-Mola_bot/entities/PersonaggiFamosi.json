@@ -1,0 +1,9 @@
+{
+  "id": "7e040cb7-a4a7-4f59-a7c4-18844fccc648",
+  "name": "PersonaggiFamosi",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

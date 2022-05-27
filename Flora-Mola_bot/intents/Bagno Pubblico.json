@@ -1,0 +1,106 @@
+{
+  "id": "00e21e70-6fe2-4f2a-8402-51c5061d5390",
+  "name": "Bagno Pubblico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0a311170-b881-43bc-848f-236e30c861e8",
+          "name": "BagnoPubblico",
+          "required": false,
+          "dataType": "@BagnoPubblico",
+          "value": "$BagnoPubblico",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Questo è l\u0027unico bagno pubblico presente a Mola. Se hai bisogno di sapere dove si trova clicca",
+          "title": "Bagno pubblico",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Piazza+degli+Eroi,+70042+Mola+di+Bari+BA/data\u003d!4m2!3m1!1s0x1347c5903c456405:0x64dadf390077cdcb?sa\u003dX\u0026ved\u003d0ahUKEwi1punV5o_cAhXGAewKHSTaBR8Q8gEIJzAA",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Spero che tu sia nelle vicinanze!",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.picclickimg.com/d/l400/pict/153714854297_/Mola-di-Bari-Piazza-degli.jpg",
+          "subtitle": "Questo è l\u0027unico bagno pubblico presente nella Piazza degli Eroi a Mola.",
+          "title": "Bagno pubblico",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Z9gfPf38zSFnFw7j7",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Spero che tu sia nelle vicinanze! Posso aiutarti in qualcos\u0027altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

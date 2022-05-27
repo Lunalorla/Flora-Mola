@@ -1,0 +1,112 @@
+{
+  "id": "bab2135e-9868-4eaf-a10a-03f1963e6d3d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "061c0120-1fdc-4e4a-b95c-5b4d2ae63f54",
+          "name": "time-period",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "value": "$time-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Ciao, sono Flora, il chatbot di Mola di Bari. Posso fornirti informazioni per quanto riguarda la ristorazione, dove alloggiare, servizi pubblici e sanitari, luoghi di interesse e svago, beni di primo interesse e itinerari. Chiedimi quello che più ti interessa, utilizzando anche i bottoni di cui sono dotata.  Sono ancora in fase di sviluppo, quindi potrei non riuscire a soddisfarti a pieno. Non sono molto brava ad intrattenere nelle conversazioni ma farò del mio meglio. Quando hai terminato, digita \"Questionario\" per ricevere il link e procedere alla compilazione.",
+          "replies": [
+            "Dove mangiare",
+            "Dove dormire",
+            "Cosa visitare",
+            "Itinerari"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Ciao, sono Flora, il chatbot di Mola di Bari.\nPosso fornirti informazioni per quanto riguarda:\n\n• ristorazione\n• dove alloggiare\n• servizi pubblici e sanitari\n• luoghi di interesse e svago\n• beni di primo interesse\n• itinerari\n\nChiedimi quello che più ti interessa, utilizzando anche i bottoni di cui sono dotata."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ciao, sono Flora, il chatbot di Mola di Bari. Posso fornirti informazioni per quanto riguarda:  • ristorazione • dove alloggiare • servizi pubblici e sanitari • luoghi di interesse e svago • beni di primo interesse • itinerari  Chiedimi quello che più ti interessa, utilizzando anche i bottoni di cui sono dotata.",
+          "replies": [
+            "Dove mangiare",
+            "Dove dormire",
+            "Cosa visitare",
+            "Servizi"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Sono ancora in fase di sviluppo, quindi potrei non riuscire a soddisfarti a pieno. Non sono molto brava ad intrattenere nelle conversazioni ma farò del mio meglio.\nQuando hai terminato, digita \"Questionario\" per ricevere il link e procedere alla compilazione."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi!",
+            "Hello!",
+            "Good day!",
+            "Greetings!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_WELCOME"
+    },
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

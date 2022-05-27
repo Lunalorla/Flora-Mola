@@ -1,0 +1,140 @@
+{
+  "id": "4a85f2be-c26b-4aa4-afe8-e59c6e3a0ad8",
+  "name": "Negozi Souvenir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "158c0063-85e4-42c9-96ba-9c7ccf33b374",
+          "name": "Souvenir",
+          "required": true,
+          "dataType": "@Souvenir",
+          "value": "$Souvenir",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fae4c904-f639-4ee4-91d3-e9a7c8dac3f4",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Hai bisogno di una bomboniera originale? Se cerchi un oggetto speciale da regalare, hai bisogno di un negozio di bomboniere specializzato.",
+          "title": "Arte Veneziana Snc",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/CrUu4LvFJR32",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Che tu cerchi un oggetto simpatico e originale o un regalo griffato e di classe, in un negozio specializzato troverai certamente quello che più desideri.",
+          "title": "Lombardo N.",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/6SKnM1XJSow",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Hai bisogno di una bomboniera originale? Se cerchi un oggetto speciale da regalare, hai bisogno di un negozio di bomboniere specializzato.",
+          "title": "Arte Veneziana Snc",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/siJ4g9o2bdzos8zz8",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Che tu cerchi un oggetto simpatico e originale o un regalo griffato e di classe, in un negozio specializzato troverai certamente quello che più desideri.",
+          "title": "Lombardo N.",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/JixcVpQNXLyPZEWKA",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Se cerchi un bel regalo o un ricordo, questo è un negozio adatto ai tuoi bisogni!",
+          "title": "Delta di Balzano Isabella",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/EVsRzdb6ma4BWnVg7",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ecco dove comprare un regalo per le persone speciali! E se ti serve altro, chiedi pure a me :)",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

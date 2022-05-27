@@ -1,0 +1,45 @@
+[
+  {
+    "value": "Medico",
+    "synonyms": [
+      "Malattia",
+      "dolore",
+      "febbre",
+      "medico",
+      "raffreddore"
+    ]
+  },
+  {
+    "value": "Sintomi",
+    "synonyms": [
+      "Sintomi",
+      "bruciata",
+      "bruciato",
+      "ciclo",
+      "diarrea",
+      "dissenteria",
+      "insolazione",
+      "mal di denti",
+      "mal di pancia",
+      "menopausa",
+      "pressiona bassa",
+      "pressione alta",
+      "scottato",
+      "scottatura",
+      "vomito"
+    ]
+  },
+  {
+    "value": "dolori",
+    "synonyms": [
+      "dolore",
+      "dottore",
+      "farmaco",
+      "mal di testa",
+      "medicina",
+      "medico",
+      "pillola",
+      "sciroppo"
+    ]
+  }
+]

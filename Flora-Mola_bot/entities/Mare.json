@@ -1,0 +1,9 @@
+{
+  "id": "4f4afff1-08f3-4b7a-9150-e7da504b355d",
+  "name": "Mare",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

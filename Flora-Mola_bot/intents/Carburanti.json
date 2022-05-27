@@ -1,0 +1,102 @@
+{
+  "id": "f8626729-1d96-4fa4-abe7-0972cbffc828",
+  "name": "Carburanti",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b0da92c7-78de-404e-b742-78903f191257",
+          "name": "Carburanti",
+          "required": false,
+          "dataType": "@Carburanti",
+          "value": "$Carburanti",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAA6CAMAAAAUVf6eAAAAolBMVEX///8OUqXaABPZAADYAAAAT6QATaMASKEARaAAQ58ASqIAP57aAA4AQZ/aAAru8/k9bbKwwd3vo6fe4+/K1uj2+fxYfrrxtLfBz+T/+vv+9fb42NqbrtGDnclehb2RqdB4lsYuZK7qiI3ofYP0xcfsmZ3ndnv87O3eKDPmbnTgQEnkY2niT1bjW2Lk6/Ruj8NNdrYhXKrfMzzcICj64uT1ztDsqNCqAAAFO0lEQVRYhb1YCZOyPAwGKVBALkURRQGP9b7W3f//1742CYjnsvvOfJnZWVLSp8mTpLQqyv8vve4gTMfHiZDjOA0H3d6/oPmDrF+YLjdt2wCxbZO7ZtHPBv5f8KIscCzb0NUH0Q2TO0UW/Q6vO1a5/QSthmtyNe82BhycrPd4hGq7p7ARYFi4N3i6bggKQUxBxO07q/gZNCp4bZJhWvb5BJkeDMIwzY6nwnbNGsM6L96T2suvHuo2Vydp5N8XjR+lE5WbVzv3+KauItUuDW0nyN6w300Dp+Lb1gev7DJHL9Opj3/M5iFTS450Z/zcZsJpVVPNGrVILz2bNIX3n80I6LXhNAMESS2Dgg8eJvUCotHt/6rZ/IlLmMU9Zt+mmmhWvDUJKfn26XY851TWzXuskq6KwZv5zUoO0niGoJfxdDqNvxpj+gViOrUIfXRdB8RkpjFNE3+ruClm74wAxqEaQiJ1W44kn6yFoq0b+3nA1jf65cDAgjUs6IE9ILY9r60tGkMqEa9BCClgCRM64AsQPW+zabFOc0gl40gdreDWtFhCequlogznIzkwWqzXizlNHHVqShJvd7uPUkO/XHRzAvmiguxISFbaKcOdTJXGWtLjZM8gcQwYmXtM5pF9LsES2TMm8rln1F2eA+R36chKw1R5LaFtKHGelkjDNmXRQ8wA3LRlD0UAb6aEoglLbUfKQoIItzTvQgFIpd1OlKQt7DwmcbUt2IawR3AZeQqPVtk2MVitZp2OiH7liefOKBZlgE5qi1G8ZSwBzr3PedyS1uDmARJkZiWV+rlq+vgi1xfezBRFuNK+AKcLwkclUdaCETYU8cv/8TVBUJrAgR5U5TC6IEnalFDW1JobqWyvCtIjrKmATxXQFRzzo3lIGfuouNzPq2LQ2A4UsZhcE7HX18rRiwpyQohLSKTgb5gMIcltBBU5Vnak7IbKsHJuq7W0PUw9GmXlYODlZjeVVcOqDSP50ACHwawZKtpGSSrIvVam/OolUlAQhrBotdvLillluWCwCrTSstPSsBU+RbwzOVQ91HzLYRsy6POwk1O0kVKXnSCRlXuIXFOwKOy8lcy+V7rbw709F48hr+8hHxLS+/xefsUiudjBkgwxbQZ0LBBSjsm+lSo2G7WM7OsD7BrGkRKOOxGT8q1s2WrdmVKsH+wiFA+5HkH698BTS+aOonWhZXAP4fXIQcTEreaJfUKucZEBtEkRDUkMwWoYN27jmBPsSCBBkrOh/aAtTPflRiFjW9MLDzaq4QVVj2FVZgBpZ6D4+CWuunwBhc5ko4z28MhWMl9fW1QuuE8NZ6BecKPGDlcdijWv+yzlax7PRwnW0HenE5cFMPyOrwqolUZbG2VE8fGbaU+UP0uOpx+jOqmE+D3j2V8RU/ogptchOr64vz69kEt0sqgfYXoqftvdP/mZunT6uTmgRXQS5MdX815LbtHcu0M7+S7OdL88aHUL8sZ5YK3EFIfkX9wSe+PyvvCIKNNOL201bQoaquSibj3NbGTQIVnn57TBUbgXVnckw35xp/CD8gKgm+4xeu9qdLSquw8PDi/tMpMcFQtb6jE8PIc9hEfVulq+b5Huybpe5gxuibt3GNVI8KNBNik4r/AEi8FPNRKea6Bw97ZcSy0CIYVqORa/uaPrltqk48LiGlQ1FeVu1OANLroog75p3k9/EN00+y/vjk",
+          "subtitle": "Aperto 24 ore su 24",
+          "title": "Esso",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/y66bGhjR9U4CHXT79",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcT0ZW75-u99rEv_KLhA3Hg2HQfBKcZbg6QJayGBoS91MIHHXJiZdqxISs889I0Ps6U0-dc\u0026usqp\u003dCAU",
+          "subtitle": "Aperto 24 ore su 24",
+          "title": "Esso Mola di bari",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/TdMvCMtn5P1zcZww9",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTo6A2Pjhs4CQd0fc7fWaJSM8zVR4mlnK13wOP-Sw_gpL-QNZLpRw3e6WxaB6geUflJ1CE\u0026usqp\u003dCAU",
+          "subtitle": "Aperto 24 ore su 24",
+          "title": "IP Matic",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/4V9t6yrW7cZfK7wD9",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ecco alcuni dei benzinai che puoi trovare a Mola di Bari. Posso aiutarti in altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

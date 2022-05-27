@@ -1,0 +1,171 @@
+{
+  "id": "2b7c981d-f883-4cae-a11b-96e07cedcdaf",
+  "parentId": "b35bab0a-936a-490e-9091-1e9a7f43d6ec",
+  "rootParentId": "b35bab0a-936a-490e-9091-1e9a7f43d6ec",
+  "name": "Ristorante_pesce - next",
+  "auto": true,
+  "contexts": [
+    "riesguo",
+    "Ristorante_pesce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ristorante_pesce.Ristorante_pesce-next",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/00/11/6d/foto.jpg",
+          "subtitle": "Location è veramente accogliente, nonostante sia un ristorante con tanti coperti e da cui ci si aspetta uno scarso servizio, Le Vecchie Mura sono state invece una gradevolissima rivelazione... Personale gentilissimo e disponibile ad accogliere ogni esigenza e il Menù davvero ricco e gustoso, dagli antipasti tutto a base di pesce fresco, due primi diversi dai soliti (uno con guazzetto di cicala greca e l\u0027altro fenomenale, tagliatelle al barolo), grigliata di pesce misto e frittura mista centrale.",
+          "title": "Trattoria Le vecchie Mura",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Le+Vecchie+Mura/@41.0625304,17.0898297,15z/data\u003d!4m2!3m1!1s0x0:0x36659da4f358c331?sa\u003dX\u0026ved\u003d0ahUKEwjhoant8YrcAhUK26QKHdHuCrQQ_BIIqwEwCg",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d4550675-Reviews-Trattoria_Le_vecchie_Mura-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/29/1d/b0/trattoria-la-bussola.jpg",
+          "subtitle": "Locale informale accogliente, nessuna attesa per sederci al tavolo che abbiamo prenotato il giorno prima, personale sorridente e gentile. Antipasti semplici ma ben cucinati, ottimo primo (calamarata gamberi e carciofi) ma soprattutto eccellente grigliata di pesce: orata freschissima e  il polpo arrostito tanto desiderato dai visitatori.",
+          "title": "Trattoria La Bussola",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Trattoria+La+Bussola/@41.062205,17.092823,15z/data\u003d!4m2!3m1!1s0x0:0x93e1ca107435d214?sa\u003dX\u0026ved\u003d0ahUKEwjf8dCC84rcAhVR16QKHV8sBO4Q_BIIiQEwCg",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3655415-Reviews-Trattoria_La_Bussola-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/4e/8d/2d/ristorante-taverna-angioina.jpg",
+          "subtitle": "Taverna completa di ristorante, pizzeria, bar sito nell\u0027area portuale di Mola di Bari. Accogliente arredamento, spazioso, posti all\u0027interno e all\u0027esterno, personale disponibile e cortese. Cucina mediterranea, specialità di mare e di terra, anche per vegetariani. Menù alla carta e fisso convenienti.",
+          "title": "Ristorante Taverna Angioina",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Taverna+Angioina+%26+Caf%C3%A8/@41.0609861,17.0929137,15z/data\u003d!4m2!3m1!1s0x0:0x741a5a73e1326525?sa\u003dX\u0026ved\u003d0ahUKEwi7h_bW84rcAhVE3aQKHVnXDNYQ_BIIbTAK",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3742715-Reviews-Ristorante_Taverna_Angioina_Cafe-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Spero di aver soddisfatto le tue richieste! Ringraziami prima di chiedermi altro, ne sarei contenta.",
+          "replies": [
+            "Grazie!  😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/29/1d/b0/trattoria-la-bussola.jpg",
+          "subtitle": "Locale informale accogliente, nessuna attesa per sederci al tavolo che abbiamo prenotato il giorno prima, personale sorridente e gentile. Antipasti semplici ma ben cucinati, ottimo primo (calamarata gamberi e carciofi) ma soprattutto eccellente grigliata di pesce: orata freschissima e  il polpo arrostito tanto desiderato dai visitatori.",
+          "title": "Trattoria La Bussola",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/nyQks7ZeaQJ6KjAV6",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3655415-Reviews-Trattoria_La_Bussola-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/4e/8d/2d/ristorante-taverna-angioina.jpg",
+          "subtitle": "Taverna completa di ristorante, pizzeria, bar sito nell\u0027area portuale di Mola di Bari. Accogliente arredamento, spazioso, posti all\u0027interno e all\u0027esterno, personale disponibile e cortese. Cucina mediterranea, specialità di mare e di terra, anche per vegetariani. Menù alla carta e fisso convenienti.",
+          "title": "Ristorante Taverna Angioina",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/EG1aC86BzMx9vHE99",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3742715-Reviews-Ristorante_Taverna_Angioina_Cafe-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Spero di aver soddisfatto le tue richieste! Posso aiutarti in qualcos\u0027altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

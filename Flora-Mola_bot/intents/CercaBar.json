@@ -1,0 +1,190 @@
+{
+  "id": "4f69b0e4-25c7-424c-bf90-31e72ce7dac7",
+  "name": "CercaBar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "CercaBar-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7a7c850e-9b65-49cf-bacf-b1cbde78e9f2",
+          "name": "Bar",
+          "required": true,
+          "dataType": "@Bar",
+          "value": "$Bar",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/25734378_1936608339937469_9038294062830282080_o.jpg?_nc_cat\u003d0\u0026oh\u003d1a1e37f761f29a5232947fb4e749565c\u0026oe\u003d5BEB36A2",
+          "subtitle": "Un punto di riferimento assoluto. Ottimo il gelato, buonissimi i dolci, cioccolata strepitosa, caffè espresso da",
+          "title": "BAR MODERNO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/RjBjzhzuGWu",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/BarModernoMola/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/30167988_1881988531865730_8904903525001376250_o.jpg?_nc_cat\u003d0\u0026oh\u003d05eba5c1ed918ba860a52f0885721fdd\u0026oe\u003d5BD78916",
+          "subtitle": "Buon gelato, buona colazione, buon assortimento di succhi di frutta, crêpes buonissime, dispone di wi-fi.",
+          "title": "DOLCEVOGLIA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/nurMfQKyi142",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/BarDolcevoglia/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/16905_359881620862101_8275805063901849134_n.jpg?_nc_cat\u003d0\u0026oh\u003d58c3984ffbb50d216a3b31b28e9d932f\u0026oe\u003d5BE8FAAD",
+          "subtitle": "Una tappa obbligata in quel di Mola, una piacevole pausa per gustare un ottimo caffè o cappuccino accompagnato da una sublime pasticceria locale.",
+          "title": "CAFFE\u0027 ADRIATICO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/4WXTHouv4z82",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/Caff%C3%A9-Adriatico-198336647016600/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono i migliori bar di Mola, puoi vederne altri o darmi un feedback se ti ho aiutato.",
+          "replies": [
+            "Altri bar",
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOwXSJkNp6vtpNqEuHL4HbrFWBaMb9BWGs3LwRU\u003dw520-h240-k-no",
+          "subtitle": "Situato nella Piazza principale di Mola di Bari, staff disponibile e cordiale.",
+          "title": "Caffè Roma",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Uw1UfcaxmdSTsgLE7",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPNNNa0D23q37o46CZJJGjXYnqpepZNxjOMIra5\u003dw140-h86-p-k-no",
+          "subtitle": "Buon gelato, buona colazione, buon assortimento di succhi di frutta, crêpes buonissime, dispone di wi-fi.",
+          "title": "Gran Caffè Moderno",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/aT8oAE83KkxHjGYJA",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMz0x1MvlVcfYmRQH68U912bJkA8e4cj3TnlDvA\u003dw408-h544-k-no",
+          "subtitle": "Una tappa obbligata in quel di Mola, una piacevole pausa per gustare un ottimo caffè o cappuccino accompagnato da una sublime pasticceria locale.",
+          "title": "Caffè Adriatico",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/EPJ1N6p4KMnRnTkN7",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono alcuni tra i migliori bar di Mola, puoi vederne altri utilizzando il bottone sottostante :)",
+          "replies": [
+            "Altri bar"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Certamente, ecco i Bar dove puoi andare :\nhttps://www.google.it/maps/search/bar+mola+di+bari/@41.0594789,17.0853327,16.5z\n\nPosso fare altro per te?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

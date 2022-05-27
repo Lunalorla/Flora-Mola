@@ -1,0 +1,9 @@
+{
+  "id": "75a4e8bf-77cb-49d3-a631-399806a814de",
+  "name": "Cibo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

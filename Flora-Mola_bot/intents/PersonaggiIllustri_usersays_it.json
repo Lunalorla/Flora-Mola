@@ -1,0 +1,484 @@
+[
+  {
+    "id": "a88c6c56-8b3a-4481-9e1f-17d3c1f6ece5",
+    "data": [
+      {
+        "text": "Il ",
+        "userDefined": false
+      },
+      {
+        "text": "compositore",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      },
+      {
+        "text": " van Westerhout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9eb498ca-7543-4e42-9b0f-a20a03567af6",
+    "data": [
+      {
+        "text": "Personaggi ",
+        "userDefined": false
+      },
+      {
+        "text": "molesi famosi",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "71d2a494-f607-4a2c-9d55-760f495cf615",
+    "data": [
+      {
+        "text": "Personaggi famosi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3a494832-64f7-49ce-83e2-89e9c0bc8d6e",
+    "data": [
+      {
+        "text": "Raccontami di Van",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cc84f04f-2a8c-49c2-8868-e4a83011ad7c",
+    "data": [
+      {
+        "text": "Storia Van",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "768ded04-93f9-4104-8999-1541193113d1",
+    "data": [
+      {
+        "text": "Persone importanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d735294c-626c-4166-b1af-e287e74b5c22",
+    "data": [
+      {
+        "text": "Persone che hanno fatto la storia di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "41c7fb4b-ba46-443f-82bb-42d1d3f1788a",
+    "data": [
+      {
+        "text": "Esistono ",
+        "userDefined": false
+      },
+      {
+        "text": "personaggi famosi",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d8b7825c-e4fd-49d8-9334-b854adb388ec",
+    "data": [
+      {
+        "text": "Esiste ",
+        "userDefined": false
+      },
+      {
+        "text": "gente famosa",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": false
+      },
+      {
+        "text": " qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7cbf01b1-1e3f-497c-9a73-3ba731f8c11f",
+    "data": [
+      {
+        "text": "Storia Van Westerhout",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "89cbae3a-a4ba-47ec-a5f8-921356e2a065",
+    "data": [
+      {
+        "text": "Raccontami la storia di Van ",
+        "userDefined": false
+      },
+      {
+        "text": "Westerhout",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0e03e7b2-51ee-4d1b-b0ad-c1211acff6f7",
+    "data": [
+      {
+        "text": "Martinelli",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "63f9344f-10b8-4cde-b984-fb94f5eedd19",
+    "data": [
+      {
+        "text": "Dimmi di Van",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "41fee396-5db0-492b-8c26-200906610413",
+    "data": [
+      {
+        "text": "Bruno Calvani",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a00c2843-c6f0-415b-8163-9b73058bd1f9",
+    "data": [
+      {
+        "text": "Persone che hanno fatto la ",
+        "userDefined": false
+      },
+      {
+        "text": "storia",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      },
+      {
+        "text": " di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "03fc8ed4-bc7e-4be9-92b0-c2b696ab2254",
+    "data": [
+      {
+        "text": "Nicola Van",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "353e3c09-6b51-4848-b95e-50c9f1f991f9",
+    "data": [
+      {
+        "text": "Gente ",
+        "userDefined": false
+      },
+      {
+        "text": "famosa",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1a7d858a-4121-4b2b-a85a-bec8226efc3e",
+    "data": [
+      {
+        "text": "Gente famosa di Mola",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e0427865-011f-4b1c-aac4-f54f30b5a778",
+    "data": [
+      {
+        "text": "Dimmi qualcosa su van Westerhout",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dd9d2bb9-72e6-4493-b0b3-bdbd3ef4ab4a",
+    "data": [
+      {
+        "text": "Onofrio",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8ba4ff50-60f2-4c8e-88d2-a74e2686ddf1",
+    "data": [
+      {
+        "text": "Personaggi illustri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5cd523aa-7b85-49dd-9560-ffea1c142ff4",
+    "data": [
+      {
+        "text": "Personaggi ",
+        "userDefined": false
+      },
+      {
+        "text": "famosi",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3f6611ea-8002-4906-8cdb-ac233ee439c2",
+    "data": [
+      {
+        "text": "personaggi illustri",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": false
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "411f91ce-55b8-4b5d-8894-cb9acff78293",
+    "data": [
+      {
+        "text": "Gente ",
+        "userDefined": false
+      },
+      {
+        "text": "famosa",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      },
+      {
+        "text": " di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0b9e95b2-c488-419a-9e28-9df238d01a15",
+    "data": [
+      {
+        "text": "Personaggi ",
+        "userDefined": false
+      },
+      {
+        "text": "illustri",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "61112e14-e6e2-4546-a590-d7841bbba27c",
+    "data": [
+      {
+        "text": "Esiste ",
+        "userDefined": false
+      },
+      {
+        "text": "gente famosa",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d196d2c3-7455-42c5-bcb9-12fdcbf1a89e",
+    "data": [
+      {
+        "text": "Scultori",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      },
+      {
+        "text": " di Mola di Bari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ba7bf331-ccef-4580-b3dd-29c70e2fb0b9",
+    "data": [
+      {
+        "text": "Trova il ",
+        "userDefined": false
+      },
+      {
+        "text": "compositore",
+        "meta": "@PersonaggiFamosi",
+        "alias": "PersonaggiFamosi",
+        "userDefined": true
+      },
+      {
+        "text": " van westerhout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

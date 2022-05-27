@@ -1,0 +1,157 @@
+{
+  "id": "30cca410-1609-4df3-a1b2-e75592e22b8c",
+  "name": "Luogo di Interesse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "af6555ff-0ac4-4424-9d68-ffd95c7eaedf",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d29721f2-fae0-45ba-a27d-b29c8d03a4cc",
+          "name": "Luogo_di_Interesse",
+          "required": false,
+          "dataType": "@Luogo_di_Interesse",
+          "value": "$Luogo_di_Interesse",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://iltaccodibacco.it/img/4553.jpg",
+          "subtitle": "Un ambiente spazioso ed accogliente! Due piani di Libreria, con sale di lettura, terrazza, giardino e oltre sessantamila volumi.",
+          "title": "PALAZZO ROBERTI",
+          "buttons": [
+            {
+              "postback": "http://telegra.ph/TITLE-07-20-3",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/gmQ1Pmvk6cu",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.icastelli.it/uploaded/castelli/a6ca4c66437d62204dbeb610be82b75f.jpg",
+          "subtitle": "Incontriamo il castello costeggiando a sinistra il promontorio dove é situato il nucleo medioevale della cittá: progettato nel 1279 da Pierre d\u0027Agicourt, per le opere murarie, e Giovanni da Toul per la carpenteria, per volere di Carlo I d\u0027Angiò come fortezza inespugnabile allo scopo di fortificare il tratto di costa da Bari a Monopoli, ha la forma di un poligono stellare.",
+          "title": "CASTELLO ANGIOINO",
+          "buttons": [
+            {
+              "postback": "https://telegra.ph/Castello-Angioino-09-12",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/uAGB6CE2naU2",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://2.bp.blogspot.com/-cLskIrL2-fE/WYnit07qP-I/AAAAAAAAAzA/FgkUiIbwzsQKKXMm_N9CR73Mr8pKgLKywCLcBGAs/s1600/piazza%2Bxx%2Bsettembre.jpg",
+          "subtitle": "Bella piazza in un bel contesto storico, molto spaziosa e piacevole. perfetta per una passeggiata, una sosta in un locale, mangiare un gelato o altro..",
+          "title": "PIAZZA XX SETTEMBRE",
+          "buttons": [
+            {
+              "postback": "https://telegra.ph/Piazza-XX-Settembre-09-12",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/AADF2ugpELr",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mola-di-Bari.jpg",
+          "subtitle": "Il lungomare di Bari inaugurato in epoca fascista oggi è una delle passeggiate più celebri della città dove si possono ammirare una serie di palazzi in stile tardo Liberty, mentre sei ai bordi dell’Adriatico.",
+          "title": "LUNGOMARE DALMAZIA",
+          "buttons": [
+            {
+              "postback": "https://https://telegra.ph/Lungomare-Dalmazia-09-12telegra.ph/Lungomare-Dalmazia-09-12",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            },
+            {
+              "postback": "https://goo.gl/maps/3cqEiqf9pyr",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono dei luoghi di interesse che puoi trovare a Mola, fammi sapere se ti serve altro ;)",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

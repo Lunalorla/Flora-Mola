@@ -1,0 +1,820 @@
+[
+  {
+    "id": "36a6c743-afcb-4c90-8150-97c97c6cea5a",
+    "data": [
+      {
+        "text": "Voglio fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "bici",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "40c54105-0ab8-4b1c-ab17-8731585a35be",
+    "data": [
+      {
+        "text": "Voglio fare una ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d3e4d571-d89d-463f-821d-a2789bb82a01",
+    "data": [
+      {
+        "text": "Ok ",
+        "userDefined": false
+      },
+      {
+        "text": "itinerario",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d07476ce-f22c-40bc-a166-7146785627de",
+    "data": [
+      {
+        "text": "Itinerari",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dfbb522d-2ae1-47d6-a9f4-093e3a75aa5e",
+    "data": [
+      {
+        "text": "PORTAMI IN ",
+        "userDefined": false
+      },
+      {
+        "text": "GIRO",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a078a60d-729c-42cc-947f-1dcc87dbe6d5",
+    "data": [
+      {
+        "text": "Vorrei tanto fare una bella ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      },
+      {
+        "text": " vicino alla costa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2094d405-67b1-47fb-9154-062ab8f0ce3b",
+    "data": [
+      {
+        "text": "Ho mangiato tanto, ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "userDefined": false
+      },
+      {
+        "text": " voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bella",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "consigliami qualche posto",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1eb3b5b2-184e-414d-a31b-e3da3369f758",
+    "data": [
+      {
+        "text": "Giro in bici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e4fa3dd3-52ca-4206-b101-7ba6d25cc5dc",
+    "data": [
+      {
+        "text": "Portami in ",
+        "userDefined": false
+      },
+      {
+        "text": "giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a86d2ac4-1eac-4f04-8950-33e804476450",
+    "data": [
+      {
+        "text": "mostra itinerari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "aaab45a9-63d1-404f-a24c-461424c3cbbc",
+    "data": [
+      {
+        "text": "Ho mangiato tanto, ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "userDefined": false
+      },
+      {
+        "text": " voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bella",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": ", consigliami qualche ",
+        "userDefined": false
+      },
+      {
+        "text": "iter",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e21be555-3816-42e4-88a7-0106892a62e1",
+    "data": [
+      {
+        "text": "Ho mangiato tanto, ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "userDefined": false
+      },
+      {
+        "text": " voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bella",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": ", consigliami qualche ",
+        "userDefined": false
+      },
+      {
+        "text": "posto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31a8d65f-918c-42a7-85bb-8efe3d5afee9",
+    "data": [
+      {
+        "text": "Vorrei fare una ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": " per mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "66e1118e-59b3-4beb-a0b0-c340520d8523",
+    "data": [
+      {
+        "text": "Voglio farmi un giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "499dd615-660f-48df-87ad-be4ecfd36491",
+    "data": [
+      {
+        "text": "mostrami degli itinerari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3c6c55d4-7ee1-4ebc-8dfc-ae38aadf649a",
+    "data": [
+      {
+        "text": "Voglio fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": " in centro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9d583a44-6135-4a56-9b15-70785dd3641f",
+    "data": [
+      {
+        "text": "pedalata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f788abec-e82a-4edb-851d-758541fab3e7",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "bici",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "34da7b00-f9f4-4a01-9058-0907cc257bf3",
+    "data": [
+      {
+        "text": "Bicicletta",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4250a2e7-5b26-4461-bd7a-a4f2fb90b3aa",
+    "data": [
+      {
+        "text": "voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "bicicletta",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e5570d2f-9242-4b65-ba10-1fd6c1683b3d",
+    "data": [
+      {
+        "text": "Mi porti a fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "36eb8453-9363-4bda-bd59-d127f2095bb1",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "camminata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "40a51275-5116-4f19-b5ae-b4ff074bc83e",
+    "data": [
+      {
+        "text": "vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pedalata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "37c2609d-9526-4c7c-8042-6db0cd603d86",
+    "data": [
+      {
+        "text": "vorrei farmi ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "camminata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "98713a80-5e93-42d1-b240-1adc55dde3bc",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "50bbc5d1-df7d-4179-96a4-5a7d4dd36b09",
+    "data": [
+      {
+        "text": "Vorrei fare una bella ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31bd28f4-339d-4743-87da-c071d768eceb",
+    "data": [
+      {
+        "text": "itinerari",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      },
+      {
+        "text": " top",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 12,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "39870c33-b010-45aa-89e4-4a9de8063982",
+    "data": [
+      {
+        "text": "Passeggiata in bici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5ed384a7-a606-4f75-841a-72f238f83b7a",
+    "data": [
+      {
+        "text": "vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "passi",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b75a2d7b-ff10-4854-8f0e-4d066d4cfd57",
+    "data": [
+      {
+        "text": "camminata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "550755be-b44e-4d99-92d1-b0a3d36cb755",
+    "data": [
+      {
+        "text": "vorrei visitare mola in bici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ce374734-a828-45a0-b94b-5961e5ae9451",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "giro",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      },
+      {
+        "text": " a piedi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ebdf96cb-8099-4781-87bb-ae474ea959db",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "passeggiata",
+        "meta": "@Itinerario",
+        "alias": "Itinerario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7d982d8b-e3de-4cae-84e5-0eee5742c061",
+    "data": [
+      {
+        "text": "Vorrei visitare mola a piedi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

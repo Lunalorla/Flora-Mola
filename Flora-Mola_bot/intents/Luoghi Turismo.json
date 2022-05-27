@@ -1,0 +1,96 @@
+{
+  "id": "6dc6f8e2-0fb1-4346-9376-265861e6dbc3",
+  "name": "Luoghi Turismo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "90af7829-52f7-46c6-abad-9770e4642b06",
+          "name": "Turismo",
+          "required": false,
+          "dataType": "@Turismo",
+          "value": "$Turismo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "Guida di Mola di Bari:",
+          "buttons": [
+            {
+              "postback": "http://viviamola.altervista.org/Guida%20Mola.pdf",
+              "text": "Clicca qui per vedere la guida"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.visitmoladibari.it/wp-content/uploads/2018/11/logo-v2-brand-black@200-visit-moladibari.png",
+          "title": "Guida ai luoghi turistici di Mola:",
+          "buttons": [
+            {
+              "postback": "https://www.visitmoladibari.it/lista/luoghi/",
+              "text": "Visit Mola di Bari"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ti consiglio questo sito web dove poter vedere scoprire tutto su Mola di Bari! Tu puoi chiedermi quello che vuoi :)",
+          "replies": [
+            "Chiesa",
+            "Teatro",
+            "Monumento",
+            "Luogo di Interesse",
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

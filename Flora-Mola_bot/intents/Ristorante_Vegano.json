@@ -1,0 +1,128 @@
+{
+  "id": "d8a40207-64e2-4c1c-ab30-ac4c6f6b3a80",
+  "name": "Ristorante_Vegano",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7d259569-d7c2-4cb8-b69b-122b98ac4755",
+          "name": "Cibo",
+          "required": false,
+          "dataType": "@Cibo",
+          "value": "$Cibo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5b6eecb0-7fb3-4843-8993-4b736de4e54a",
+          "name": "Vegan",
+          "required": false,
+          "dataType": "@Vegan",
+          "value": "$Vegan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://u.tfstatic.com/restaurant_photos/119/324119/169/612/terramarebio-terrazza-c4f4c.jpg",
+          "subtitle": "Pregevole il panorama che si gode dalla struttura,con il mare in lontananza, immersi nel verde e nella natura e allietati dal cinguettio degli uccellini. Specialità :il risotto alle fragole. Tutto è stato curato con amore per il gusto e per i dettagli con prezzi ottimi.",
+          "title": "Azienda agrituristica Terramarebio",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Azienda+agrituristica+Terramarebio/@41.032315,17.062011,15z/data\u003d!4m2!3m1!1s0x0:0x2383d4deca492b27?sa\u003dX\u0026ved\u003d0ahUKEwjX5era2ozcAhXF0aQKHfv2ByAQ_BIIdTAK",
+              "text": "PORTAMI LI!🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d12658526-Reviews-Azienda_Agrituristica_TerramareBio-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questo è l\u0027unica opzione presente a Mola per mangiare cibo vegano/vegetariano. Premi grazie per ringraziarmi e proseguire",
+          "replies": [
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://u.tfstatic.com/restaurant_photos/119/324119/169/612/terramarebio-terrazza-c4f4c.jpg",
+          "subtitle": "Pregevole il panorama che si gode dalla struttura,con il mare in lontananza, immersi nel verde e nella natura e allietati dal cinguettio degli uccellini. Specialità :il risotto alle fragole. Tutto è stato curato con amore per il gusto e per i dettagli con prezzi ottimi.",
+          "title": "Azienda agrituristica Terramarebio",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Azienda+agrituristica+Terramarebio/@41.032315,17.062011,15z/data\u003d!4m2!3m1!1s0x0:0x2383d4deca492b27?sa\u003dX\u0026ved\u003d0ahUKEwjX5era2ozcAhXF0aQKHfv2ByAQ_BIIdTAK",
+              "text": "PORTAMI LI!🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d12658526-Reviews-Azienda_Agrituristica_TerramareBio-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questa è l\u0027unica opzione presente a Mola per mangiare cibo vegano/vegetariano. Hai bisogno di qualcos\u0027altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

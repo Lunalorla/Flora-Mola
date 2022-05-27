@@ -1,0 +1,72 @@
+{
+  "description": "Ciao Sono Flora, il chatbot di Mola di Bari.",
+  "language": "it",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Flora-Mola_bot",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": true,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "26cb6a96-791c-41ae-826c-47f6aae66532",
+      "95465ff7-8172-412b-800a-e692f19e4eb3",
+      "02f9c67d-0bff-4b44-b7b7-54c2e934bb64",
+      "12180837-6648-4f20-9c2c-25ce78dcb1a7",
+      "3ef1e5ce-0cd5-4e76-ab3d-d8deee96a3f3",
+      "be10f56c-09e6-4115-82d4-3249f889d5d9",
+      "00e21e70-6fe2-4f2a-8402-51c5061d5390"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "clientId": "1",
+      "clientSecret": "1",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "IMPLICIT_GRANT"
+    },
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {
+      "": ""
+    },
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 1.0,
+  "supportedLanguages": [
+    "en"
+  ],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "6f83bcfff6c64313834ebf57b95edb0f",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

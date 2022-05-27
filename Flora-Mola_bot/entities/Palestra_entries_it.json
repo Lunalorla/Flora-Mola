@@ -1,0 +1,49 @@
+[
+  {
+    "value": "Obesità",
+    "synonyms": [
+      "Obesità",
+      "dimagrire",
+      "grosso",
+      "obeso",
+      "perdere peso"
+    ]
+  },
+  {
+    "value": "allenamento",
+    "synonyms": [
+      "allenamento",
+      "allenare",
+      "allenarmi",
+      "allenarsi",
+      "attrezzi",
+      "boxe",
+      "corsa",
+      "fitboxe",
+      "fitness",
+      "funzionale",
+      "ginnastica",
+      "jogging",
+      "jumping",
+      "spinning",
+      "step",
+      "tapis roulant",
+      "training",
+      "zumba"
+    ]
+  },
+  {
+    "value": "fare pesi",
+    "synonyms": [
+      "allenare i muscoli",
+      "fare pesi"
+    ]
+  },
+  {
+    "value": "palestra",
+    "synonyms": [
+      "palestra",
+      "palestre"
+    ]
+  }
+]

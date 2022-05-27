@@ -1,0 +1,9 @@
+{
+  "id": "39939870-e573-47e2-a264-c0ec56825b2e",
+  "name": "Vegan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

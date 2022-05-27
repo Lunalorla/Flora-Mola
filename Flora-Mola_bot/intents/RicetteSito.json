@@ -1,0 +1,173 @@
+{
+  "id": "7f9072c3-cdc7-418f-97f2-4ee8807e9edf",
+  "name": "RicetteSito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "782b615a-070d-4fc3-b1eb-ce01116b2ee4",
+          "name": "Ricetta",
+          "required": false,
+          "dataType": "@Ricetta",
+          "value": "$Ricetta",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://static.buttalapasta.it/r/845X0/www.buttalapasta.it/img/Zuppa-di-pesce.jpg",
+          "subtitle": "Una zuppa di pesce non è così difficile da preparare come può sembrare. Si tratta di un piatto di pesce fresco, che è tipico della tradizione culinaria e la cui preparazione richiede un po’ di tempo.",
+          "title": "Zuppa di pesce",
+          "buttons": [
+            {
+              "postback": "https://www.buttalapasta.it/articolo/ricetta-zuppa-di-pesce/2879/",
+              "text": "Ricetta completa"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.donnamoderna.com/wp-content/uploads/2009/06/coniglio-al-forno-con-patate-725x545.jpg",
+          "subtitle": "Una delle carni più prelibate, sicuramente molto magra ma allo stesso tempo tenera e succosa, se cotta nella maniera giusta, viene accompagnata con gentilezza dalle patate leggermente rosolate che donano una nota di colore e rendono il tutto più appetitoso! Il profumo intenso degli aromi mediterranei si sprigiona durante la cottura, e siamo sicuri che non riuscirete a resistere dall\u0027assaggiarlo ancor prima che sia perfettamente cotto! Realizzate anche voi il coniglio al forno, una delle ricette più classiche, che vi permetterà di non trascorrere troppo tempo ai fornelli, in modo da poter chiacchierare liberamente con i vostri ospiti e trascorrere una piacevole serata!",
+          "title": "Coniglio al forno",
+          "buttons": [
+            {
+              "postback": "https://ricette.giallozafferano.it/Coniglio-al-forno.html",
+              "text": "Ricetta completa"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://ips.plug.it/cips/buonissimo.org/cms/2011/09/cassatelle-di-ricotta.jpg?w\u003d713\u0026a\u003dc\u0026h\u003d407",
+          "subtitle": "Le cassatine di ricotta al forno sono delle mini cassate al forno, una ricetta abbastanza semplice da preparare ed anche molto carina da servire visto che si tratta di mono-porzioni.",
+          "title": "Cassatelle di ricotta",
+          "buttons": [
+            {
+              "postback": "https://www.buonissimo.org/lericette/3309_Cassatelle_di_ricotta_",
+              "text": "Ricetta completa"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Queste sono quelle che conosco e pensa che non sono neanche una chef!",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.buonalavita.it/sites/site.prod1.buonalavita.it/files/styles/scale_920x920/public/2019-09/come-fare-zuppa-pesce-ricetta.jpg",
+          "subtitle": "Una zuppa di pesce non è così difficile da preparare come può sembrare. Si tratta di un piatto di pesce fresco, che è tipico della tradizione culinaria e la cui preparazione richiede un po’ di tempo.",
+          "title": "Zuppa di pesce",
+          "buttons": [
+            {
+              "postback": "https://www.buonalavita.it/ricette/secondi-piatti/zuppa-di-pesce",
+              "text": "Ricetta completa"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.giallozafferano.it/images/165-16531/Coniglio-al-forno_780x520_wm.jpg",
+          "subtitle": "Una delle carni più prelibate, sicuramente molto magra ma allo stesso tempo tenera e succosa, se cotta nella maniera giusta, viene accompagnata con gentilezza dalle patate leggermente rosolate che donano una nota di colore e rendono il tutto più appetitoso! Il profumo intenso degli aromi mediterranei si sprigiona durante la cottura, e siamo sicuri che non riuscirete a resistere dall\u0027assaggiarlo ancor prima che sia perfettamente cotto! Realizzate anche voi il coniglio al forno, una delle ricette più classiche, che vi permetterà di non trascorrere troppo tempo ai fornelli, in modo da poter chiacchierare liberamente con i vostri ospiti e trascorrere una piacevole serata!",
+          "title": "Coniglio al forno",
+          "buttons": [
+            {
+              "postback": "https://ricette.giallozafferano.it/Coniglio-al-forno.html",
+              "text": "RIcetta completa"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://ips.plug.it/cips/buonissimo.org/cms/2011/09/cassatelle-di-ricotta.jpg?w\u003d713\u0026a\u003dc\u0026h\u003d407",
+          "subtitle": "Le cassatine di ricotta al forno sono delle mini cassate al forno, una ricetta abbastanza semplice da preparare ed anche molto carina da servire visto che si tratta di mono-porzioni.",
+          "title": "Cassatelle di ricotta",
+          "buttons": [
+            {
+              "postback": "https://primoli.it/cassatelle-di-ricotta/",
+              "text": "Ricetta completa"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Queste sono quelle che conosco, sono sicura che le cucinerai benissimo!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "96b09edf-fe60-4d8e-a738-3b6910af29df",
+  "name": "Teatro",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

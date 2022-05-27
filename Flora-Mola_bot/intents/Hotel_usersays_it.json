@@ -1,0 +1,604 @@
+[
+  {
+    "id": "154c0b11-210a-4d1d-ad12-75677cc031ed",
+    "data": [
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bdee0b25-321e-42d1-b80c-8d60509cf497",
+    "data": [
+      {
+        "text": "Cerco ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      },
+      {
+        "text": " qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2d2b36ac-3265-4718-b8eb-f161c1657a6a",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5f5e3f31-0917-4f0c-ab9a-dfe363908d6c",
+    "data": [
+      {
+        "text": "In un ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6c8cacfa-65f8-498e-b5b7-4660604f9545",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cfe5eadf-1375-403b-be08-8f27df167a03",
+    "data": [
+      {
+        "text": "Vorrei una stanza in un ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "748971b6-4b87-4e6e-99c4-25a36bc3bbfe",
+    "data": [
+      {
+        "text": "Vorrei dormire in un ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "21d13c5a-adfc-47b5-a129-4d3aa5437325",
+    "data": [
+      {
+        "text": "Hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "854ea4b8-90ae-4804-9612-4ca07ac3c339",
+    "data": [
+      {
+        "text": "Ricercami gli ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e2a46607-960c-4dad-8c62-2dc53a293b40",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "camera d\u0027albergo",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "04674177-2bd2-4982-a8cb-9a259b52f8bc",
+    "data": [
+      {
+        "text": "Sai dirmi tutti gli ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      },
+      {
+        "text": " di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2a24499f-8dfa-4483-8ebc-d5da87afa2e6",
+    "data": [
+      {
+        "text": "voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d1d0163a-2831-4348-b106-2f01e07435b3",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "soggiornare",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e7b5605a-3039-4dab-8916-358ba67b0525",
+    "data": [
+      {
+        "text": "Voglio andare in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "otel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "badb5310-8dd7-4c20-8597-93ebf4949ca0",
+    "data": [
+      {
+        "text": "Vorrei riposarmi in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ebd817ca-c40a-4d04-9800-c423a8e66c6b",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "albergo",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4bb68df9-a3f2-48f6-a5f9-1705a086e28c",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "soggiornare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "albergo",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      },
+      {
+        "text": " qui a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "89153718-146d-4985-8456-ed24e9d69313",
+    "data": [
+      {
+        "text": "hote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "770604f9-db11-495e-ad20-1d9d62f8102d",
+    "data": [
+      {
+        "text": "Albergo",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9155d331-db95-432d-95c4-7fbbca2a6fa7",
+    "data": [
+      {
+        "text": "Vorrei poter dormire in un ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6f6504c9-40e2-4341-b90a-a277036553ed",
+    "data": [
+      {
+        "text": "Trovami ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9aebdbc8-9a16-4c51-b518-48135dfb5c61",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "673beac0-60ea-4d6b-8fdf-16e4d5bc9aa8",
+    "data": [
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mola di bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "11607f43-75c0-4ba4-8879-99792f6f19cb",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7a0bc900-51cc-4074-9cf4-4a048238964c",
+    "data": [
+      {
+        "text": "Hotwl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "55c7c3a3-f181-484a-90ac-71d89e809521",
+    "data": [
+      {
+        "text": "Vorrei dormire in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Hotel",
+        "meta": "@Hotel",
+        "alias": "Hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

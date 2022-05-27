@@ -1,0 +1,9 @@
+{
+  "id": "cbbdf330-c141-47e2-9065-395d2b6b9f92",
+  "name": "Parco_Bambini",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

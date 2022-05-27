@@ -1,0 +1,178 @@
+{
+  "id": "63413bf4-8454-4e53-97e4-23c7a74de155",
+  "name": "Immagini Mola",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "http://viviamola.altervista.org/img/mare/img01.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "http://viviamola.altervista.org/img/mare/img02.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "http://viviamola.altervista.org/img/mare/img03.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "http://viviamola.altervista.org/img/mare/img04.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "http://viviamola.altervista.org/img/mare/img08.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Queste sono alcune foto del paese che amo."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Mola-Arial.jpg/1200px-Mola-Arial.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://www.osservatoriopums.it/wp-content/uploads/2019/12/Mola-di-Bari0.png",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNti8MUEiHPUjW-00-Q4avpk0XEW6jkiQt4Cfog\u003dw426-h240-k-no",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNuUc6yBn-x6qx_xcHBT7NAj8-HrjRHFUf8nc4R\u003dw408-h306-k-no",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP3NxhrGKNJPl4kqxPYeYYCsdkUwMJ30Wiw6qxu\u003dw408-h544-k-no",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNrqLSucw89yMlUFE0mTKJ3gGuPg94P9wfD72V2\u003dw408-h306-k-no",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMQCjnVvtWM3v4Oah-6SPQ7zPlKjN0q3UDPgrV4\u003dw426-h240-k-no",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMORenBbLyYVjY_J_i3eUPWsgDflg_Lic0tRD0\u003dw408-h240-k-no-pi-20-ya325.03018-ro-0-fo100",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ecco alcune foto di luoghi significativi di Mola!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "http://viviamola.altervista.org/img/mare/img01.jpg\n\nPosso fare altro per te?",
+            "http://viviamola.altervista.org/img/mare/img02.jpg\n\nPosso fare altro per te?",
+            "http://viviamola.altervista.org/img/mare/img03.jpg\n\nPosso fare altro per te?",
+            "http://viviamola.altervista.org/img/mare/img04.jpg\n\nPosso fare altro per te?",
+            "http://viviamola.altervista.org/img/mare/img08.jpg\n\nPosso fare altro per te?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

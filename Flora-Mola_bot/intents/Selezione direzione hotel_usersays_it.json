@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "f3f1b96c-5086-4dac-b9ef-9e0213be9bb0",
+    "data": [
+      {
+        "text": "Ho sonno",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 21,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0d714179-509f-435d-bc53-5bfbbc989e2f",
+    "data": [
+      {
+        "text": "un posto dove dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "80ed64de-e1fc-4431-aea0-fb89bf9d8080",
+    "data": [
+      {
+        "text": "Luoghi dove ",
+        "userDefined": false
+      },
+      {
+        "text": "formicare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "62a9e634-b818-4c60-bc07-3c5137cbd255",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8581be95-a179-457a-ae3c-49891c604183",
+    "data": [
+      {
+        "text": "Dove mi consigli ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "087b65e1-8d39-4158-9064-5d35b47869f8",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "passare la notte",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "11e12b9a-8cdb-4db6-a944-7cc41fd94bdf",
+    "data": [
+      {
+        "text": "devo ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5e47f02-06c3-43de-870b-8ae20c9ad022",
+    "data": [
+      {
+        "text": "Un posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "spendere",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "poco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "242a6deb-4811-4772-8564-dcb93fa3c95e",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9ea790dd-8ab9-4fe1-9880-a15c429b02c1",
+    "data": [
+      {
+        "text": "Avrei bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "userDefined": false
+      },
+      {
+        "text": " notti a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d51274d8-2877-427d-a6cf-ab892ad7f039",
+    "data": [
+      {
+        "text": "vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "posto dove dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "05e6be97-b6e1-4a47-b2ab-63d9d8df507f",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "alloggiare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9d8b563d-1333-4441-bbf9-8f2d59fbf011",
+    "data": [
+      {
+        "text": "un posto dove riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "97d95bbe-d42a-4c29-9da1-caa1ef70bd26",
+    "data": [
+      {
+        "text": "vorrei riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b0c01bff-1d3b-4c81-9d77-1fd76644965a",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9661d9f2-f9ec-42cb-8f69-3a860f482c22",
+    "data": [
+      {
+        "text": "Puoi dirmi dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " due notti a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "706c2c1e-23fb-4fc4-a579-4a52da1eb1b2",
+    "data": [
+      {
+        "text": "Sono ",
+        "userDefined": false
+      },
+      {
+        "text": "stanco",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "13b4672d-ba25-4f67-b3aa-662c438624e8",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "riposare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b632b722-ddb7-4be8-8a8e-bea01d054037",
+    "data": [
+      {
+        "text": "Dove ",
+        "userDefined": false
+      },
+      {
+        "text": "alloggiare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "47c8579e-d1bc-4399-b6ea-121fc6f97c2a",
+    "data": [
+      {
+        "text": "Luoghi dove ",
+        "userDefined": false
+      },
+      {
+        "text": "consumare un rapporto",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "20512487-2cde-45c3-a69f-b393f6b56548",
+    "data": [
+      {
+        "text": "dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "dimorare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b9c098c1-7ed8-4d37-b793-f289efafaa3e",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a1bbd857-727d-4d4e-a51e-d38aed33f162",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1a2274ea-8e71-4d2f-ba67-1d8c6c52bbe2",
+    "data": [
+      {
+        "text": "vorrei un posto dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "aac27c26-9c4a-46fe-8630-d38a695dcd11",
+    "data": [
+      {
+        "text": "Cerco una ",
+        "userDefined": false
+      },
+      {
+        "text": "camera",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "stanotte",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "450ac5a7-ad33-4b55-bd80-ebdb27b97da0",
+    "data": [
+      {
+        "text": "devo dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " qui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7608e7af-3077-49b9-ac39-5470dbda402f",
+    "data": [
+      {
+        "text": "dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "albergare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8f647e47-3fe2-4578-8c13-9157e9e1590c",
+    "data": [
+      {
+        "text": "Mi consigli un ",
+        "userDefined": false
+      },
+      {
+        "text": "posto dove dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "18c54c60-0cf5-49ff-bb34-581256864a73",
+    "data": [
+      {
+        "text": "Avrei bisogno di un ",
+        "userDefined": false
+      },
+      {
+        "text": "posto letto",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e542108c-6689-4c03-968d-ad8875397457",
+    "data": [
+      {
+        "text": "Dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " a mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d2e56b0c-234e-45ff-879a-e9bab9f8b2ea",
+    "data": [
+      {
+        "text": "Sono stanco",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "263e98ee-3c59-4e28-8f57-5ee3e9558f0a",
+    "data": [
+      {
+        "text": "voglio dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " a mola di bari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cbb262b5-8111-46ed-a978-9c4d6a5830db",
+    "data": [
+      {
+        "text": "Sto ",
+        "userDefined": false
+      },
+      {
+        "text": "stanco",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ba4f7fb2-4069-4de2-a1d4-cafc7c628d8f",
+    "data": [
+      {
+        "text": "Devo dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cb60a6de-b094-4bb0-bd59-55d2bb38bf7b",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "riposare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " un po\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8cab778a-e295-43c9-b7f1-ca799eaef189",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "riposare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8d7c0b33-731f-4a68-8f80-3bfd81fe2fc1",
+    "data": [
+      {
+        "text": "un posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cfb740c2-59a0-4fff-b5a5-b95280b732e1",
+    "data": [
+      {
+        "text": "Otel",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e951bd73-e4a3-4473-8d44-433cb2fdd905",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b6201e3-4e1b-48a3-95ec-b4be8f1f5c71",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un posto dove riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5f60aec-e780-42a5-8b80-728bf1d07f22",
+    "data": [
+      {
+        "text": "Voglio un posto per ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": ", non per allenarmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "51af28d8-eadb-45d1-8275-9aeebb798fee",
+    "data": [
+      {
+        "text": "Potresti trovarmi un posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire?",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "14a37a71-3980-4fd5-bcee-a318ffd3c6ac",
+    "data": [
+      {
+        "text": "Nel ",
+        "userDefined": false
+      },
+      {
+        "text": "letto",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " tipo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b4e67e8a-d952-4e20-b26f-cee7190691e4",
+    "data": [
+      {
+        "text": "Sono in vacanza qui, dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "soggiornare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dcccfbf8-2b62-48ad-9d38-22d3f2b52e87",
+    "data": [
+      {
+        "text": "Camera da letto",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5ae58e14-97b9-41b5-96f3-4b19abd52916",
+    "data": [
+      {
+        "text": "voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " in un hotel in centro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e432db4b-b563-4cce-b8cd-efe8e6a5e74a",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1d7f9cd0-45cc-4778-a709-5148a3b0f544",
+    "data": [
+      {
+        "text": "voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "371c00af-c5c7-4acd-ab36-c46891474760",
+    "data": [
+      {
+        "text": "Nel ",
+        "userDefined": false
+      },
+      {
+        "text": "letto",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "36ba3aef-7138-4673-b938-86f0f44a4b05",
+    "data": [
+      {
+        "text": "Dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8b5b6c51-5d7b-4af2-a6f7-73051c3129a8",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "riposare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8c911ec4-b435-4dae-9551-de74296423f2",
+    "data": [
+      {
+        "text": "vorrei dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "600b4a28-e324-4355-9334-636f01bb763d",
+    "data": [
+      {
+        "text": "Un posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46b1239e-2943-4343-adfa-3df7cce2d10f",
+    "data": [
+      {
+        "text": "Ho bisogno di una ",
+        "userDefined": false
+      },
+      {
+        "text": "camera",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7513b93a-24c4-46d2-9bdf-11f3744b3d85",
+    "data": [
+      {
+        "text": "Vorrei riposarmi",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c20119b2-1965-4139-a668-edee394f1104",
+    "data": [
+      {
+        "text": "un posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": " stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c4168581-e2a5-485b-a45b-a60160432cbc",
+    "data": [
+      {
+        "text": "Cerco un ",
+        "userDefined": false
+      },
+      {
+        "text": "alloggio",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "221feaa9-bb41-441d-bffe-517f8fb85c62",
+    "data": [
+      {
+        "text": "un posto dove ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1ec61c80-0b78-4891-bad6-91b459622f4a",
+    "data": [
+      {
+        "text": "Dove possiamo ",
+        "userDefined": false
+      },
+      {
+        "text": "alloggiare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c9ab6cbc-dedf-4633-a60b-8728ffe685a0",
+    "data": [
+      {
+        "text": "Dove ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 11,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ae6287b1-e5d3-424f-8f82-8ba7ff5cf3ee",
+    "data": [
+      {
+        "text": "Un posto per ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "70acaa18-cc1f-4cf8-8c21-372a0a0f7262",
+    "data": [
+      {
+        "text": "Dopo posso ",
+        "userDefined": false
+      },
+      {
+        "text": "dormire",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7e88d92c-831e-4916-ac43-0ad1d3b5d6ce",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare un pisolino",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d54fc111-197f-4c83-b9de-efac1cbc0829",
+    "data": [
+      {
+        "text": "Comunque avrei bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "riposare",
+        "meta": "@Dormire",
+        "alias": "Dormire",
+        "userDefined": false
+      },
+      {
+        "text": " un po’",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

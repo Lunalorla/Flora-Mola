@@ -1,0 +1,55 @@
+[
+  {
+    "value": "4 stazioni",
+    "synonyms": [
+      "4 stazioni",
+      "quattro stagioni"
+    ]
+  },
+  {
+    "value": "calabrese",
+    "synonyms": [
+      "calabrese"
+    ]
+  },
+  {
+    "value": "margherita",
+    "synonyms": [
+      "margherita"
+    ]
+  },
+  {
+    "value": "pizza",
+    "synonyms": [
+      "4 formaggi",
+      "4 stagioni",
+      "boscaiola",
+      "bufala",
+      "bufalina",
+      "calabrese",
+      "caprese",
+      "capricciosa",
+      "ciccio",
+      "crudaiola",
+      "diavola",
+      "mare e monti",
+      "margherita",
+      "marinara",
+      "panna e speck",
+      "pizza",
+      "quattro formaggi",
+      "quattro stagioni",
+      "san daniele",
+      "vegetariana",
+      "wrustel",
+      "wrustel e patatine"
+    ]
+  },
+  {
+    "value": "pizzeria",
+    "synonyms": [
+      "forno a legna",
+      "pizzeria"
+    ]
+  }
+]

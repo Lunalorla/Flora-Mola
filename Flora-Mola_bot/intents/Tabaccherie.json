@@ -1,0 +1,148 @@
+{
+  "id": "ab16c43a-e2d2-40d1-9e47-9c96773cbb73",
+  "name": "Tabaccherie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "908f5b7c-8e7c-48af-8cc3-fed21bdc08f6",
+          "name": "Tabacchi",
+          "required": false,
+          "dataType": "@Tabacchi",
+          "value": "$Tabacchi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://grandemilia.klepierre.it/var/site/storage/images/_aliases/full_780/5/5/6/8/1448655-4-ita-IT/tabaccheria-724.jpeg",
+          "title": "OTTOMANO NICOLA TABACCHI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/rZU4pPWgzg12",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://centroextense.it/images/negozi/tabaccheria-img-918.jpg",
+          "title": "GENCHI SAVERIO TABACCHI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/c6kYcHCWx3y",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.sardiniapost.it/wp-content/uploads/2015/11/tabaccheria.jpg",
+          "title": "RUSSO VITO TABACCHERIA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/5kdvxUX6rk62",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXM2KQ7yP3mlYJMNOdtr495TqcE32DM-O9_DZC\u003dw1080-h608-p-no-v0",
+          "title": "OTTOMANO NICOLA TABACCHI",
+          "buttons": [
+            {
+              "postback": "https://g.page/Tabaccheriaottomano?share",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSANhisBJeko1SUEqG37BS2KMGffQXwbeGIfg\u0026usqp\u003dCAU",
+          "title": "GENCHI SAVERIO TABACCHI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/y6GRjjeTJKjMkV838",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.sardiniapost.it/wp-content/uploads/2015/11/tabaccheria.jpg",
+          "title": "RUSSO VITO TABACCHERIA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/5kdvxUX6rk62",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Queste sono le tabaccherie di Mola. Se vuoi cercare qualcos\u0027altro, fammelo sapere.",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

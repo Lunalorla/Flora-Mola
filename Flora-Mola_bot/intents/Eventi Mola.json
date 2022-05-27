@@ -1,0 +1,99 @@
+{
+  "id": "5a4f81a9-4507-4210-a1f2-74b38e5e7c5c",
+  "name": "Eventi Mola",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "87302c4a-37d4-4961-be18-36569194456d",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "Qui puoi trovare tutti gli eventi di Oggi:",
+          "buttons": [
+            {
+              "postback": "http://viviamola.altervista.org/newseventi.html",
+              "text": "Vai alla pagina"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Tieniti informato su questa splendida città!",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Su questi siti puoi trovare tutti gli eventi previsti su Mola e dintorni:",
+          "buttons": [
+            {
+              "postback": "https://www.virgilio.it/italia/mola-di-bari/eventi/",
+              "text": "Virgilio"
+            },
+            {
+              "postback": "https://iltaccodibacco.it/mola-di-bari/",
+              "text": "Il Tacco di Bacco"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Tieniti informato su questa splendida città! Ti serve altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

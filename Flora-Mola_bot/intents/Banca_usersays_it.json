@@ -1,0 +1,434 @@
+[
+  {
+    "id": "c732bf58-8fdd-4860-b85a-7247d7ee8fac",
+    "data": [
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2f009644-e114-47bf-a8d5-0f74af07f177",
+    "data": [
+      {
+        "text": "banche",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4cef8350-22fc-4370-b8e0-94524982707f",
+    "data": [
+      {
+        "text": "vorrei una ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "54792571-cb37-456e-b709-7bb8dc3c285b",
+    "data": [
+      {
+        "text": "Ho bisogno di una ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "03a18c06-5510-494a-9d9b-8b0cad665e1a",
+    "data": [
+      {
+        "text": "No voglio le ",
+        "userDefined": false
+      },
+      {
+        "text": "banche",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a2a6c4f5-9e5d-4e6a-8d04-3ec5bf931bff",
+    "data": [
+      {
+        "text": "Sai dirmi tutte le ",
+        "userDefined": false
+      },
+      {
+        "text": "banche",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "407a0189-fb2c-4ee8-96fd-e9521d74b031",
+    "data": [
+      {
+        "text": "Cerco una ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f45bccba-1e0b-4837-add5-d69089f2522a",
+    "data": [
+      {
+        "text": "Dove sono le ",
+        "userDefined": false
+      },
+      {
+        "text": "banche",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3e44eae7-9cb7-48a1-a197-9d5729e681df",
+    "data": [
+      {
+        "text": "Banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": true
+      },
+      {
+        "text": "©",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "303f70b9-2d3f-4d50-bd59-4bf32a9ba42d",
+    "data": [
+      {
+        "text": "Devo prelevare ",
+        "userDefined": false
+      },
+      {
+        "text": "ad una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1d165e1b-d546-433c-ba7d-2c7ccdf76936",
+    "data": [
+      {
+        "text": "prelevare ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2492686d-eb01-4d92-a049-a24a33f84845",
+    "data": [
+      {
+        "text": "Mostrami solo ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "siena",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bc4d61b4-b96d-48bf-8566-7a45afe97fc1",
+    "data": [
+      {
+        "text": "Non riesco a trovare un ",
+        "userDefined": false
+      },
+      {
+        "text": "atm",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4a3c932d-daaf-4115-991a-b2192787b37c",
+    "data": [
+      {
+        "text": "Ho bisogno di un ",
+        "userDefined": false
+      },
+      {
+        "text": "prestito",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bancario",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b7ded3d9-2f92-4834-a7f4-8b46f6ad81d8",
+    "data": [
+      {
+        "text": "Dove posso trovare una ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "170b5b66-718b-40ad-af92-2e53b3f20cb0",
+    "data": [
+      {
+        "text": "Voglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1a2d9ecf-c079-4cf0-bf8a-c02f4c9f74d4",
+    "data": [
+      {
+        "text": "Ho bisogno di un ",
+        "userDefined": false
+      },
+      {
+        "text": "prestito bancario",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4d665458-764b-4b59-a979-dbc22da4590b",
+    "data": [
+      {
+        "text": "Ho bisogno della ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      },
+      {
+        "text": " monte dei paschi di ",
+        "userDefined": false
+      },
+      {
+        "text": "siena",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1629c903-815a-4c78-b178-6923f37e3722",
+    "data": [
+      {
+        "text": "Dove trovo uno ",
+        "userDefined": false
+      },
+      {
+        "text": "sportello bancario",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": true
+      },
+      {
+        "text": " più vicino a me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eac7c2f2-63c0-4006-a453-b1c239c8da5b",
+    "data": [
+      {
+        "text": "Dov\u0027è la ",
+        "userDefined": false
+      },
+      {
+        "text": "banca",
+        "meta": "@Banca",
+        "alias": "Banca",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

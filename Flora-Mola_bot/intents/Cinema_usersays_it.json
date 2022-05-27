@@ -1,0 +1,435 @@
+[
+  {
+    "id": "8fc3c740-4560-4d65-9790-d0067245ae69",
+    "data": [
+      {
+        "text": "Dov\u0027è il ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema Metropolis",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f9b8f639-9df6-4b28-8d9a-5aba61f90662",
+    "data": [
+      {
+        "text": "Voglio guardare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "film",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "af386e0e-ab22-4990-b4d8-5abcae82c504",
+    "data": [
+      {
+        "text": "dov\u0027è il ",
+        "userDefined": false
+      },
+      {
+        "text": "multisala",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": " di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1c24946e-05cf-4f36-a343-1471913f4517",
+    "data": [
+      {
+        "text": "Dove si trova ",
+        "userDefined": false
+      },
+      {
+        "text": "Metropolis",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2faf5574-092c-44e1-8f47-629a2d5742b8",
+    "data": [
+      {
+        "text": "Avresti informazione sul ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "metropolis",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1d1eb1f4-35a0-418d-bd78-51695aa3a673",
+    "data": [
+      {
+        "text": "Sapresti consigliarmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "afc59dd2-2dff-483c-9fa5-7dae027ce925",
+    "data": [
+      {
+        "text": "Dove posso trovare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d23ca617-c100-472e-8ae1-c6530750dec5",
+    "data": [
+      {
+        "text": "Cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f03dc89f-be64-4acc-b505-a86eee865de6",
+    "data": [
+      {
+        "text": "Voglio vedere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "film",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f6ddd303-91ec-4b02-8a91-932f4028a287",
+    "data": [
+      {
+        "text": "Dove posso vedere un ",
+        "userDefined": false
+      },
+      {
+        "text": "film",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "669ace83-44d2-474c-adb5-822014b26715",
+    "data": [
+      {
+        "text": "C\u0027è ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": " da queste parti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a428cb2b-88c0-4628-85f0-939865c6a278",
+    "data": [
+      {
+        "text": "Potresti suggerirmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "35e4f473-750f-461e-ae81-bd14012d806a",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "film",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": " ci sono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c5cd8381-30fd-4267-a351-15fd871ffbc1",
+    "data": [
+      {
+        "text": "Multisala",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e662a707-31eb-4559-9452-388b1689a33f",
+    "data": [
+      {
+        "text": "Vorrei andare al ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5f29fdff-1f08-4207-a825-77be02533031",
+    "data": [
+      {
+        "text": "Conosci ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6cab80b0-1910-4df1-ab5a-99f5d3e54261",
+    "data": [
+      {
+        "text": "Potresti consigliarmi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "meta": "@Cinema",
+        "alias": "Cinema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "5a5d9f63-41db-43ce-9e36-643acfa00e87",
+    "data": [
+      {
+        "text": "Buonasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a33471f4-f2a2-4004-9786-be4277409604",
+    "data": [
+      {
+        "text": "Ciaoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8fe64537-92e9-4d00-a758-bb2f168fca5a",
+    "data": [
+      {
+        "text": "We",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b41f5c63-c61a-4eba-9fe9-f8e73c14de0a",
+    "data": [
+      {
+        "text": "Flora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "13ab071a-1ddd-498f-83b4-d545c1523582",
+    "data": [
+      {
+        "text": "Buondì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7f3b73b4-2b74-474b-bc2d-1cd6496a7e86",
+    "data": [
+      {
+        "text": "Ciao ",
+        "userDefined": false
+      },
+      {
+        "text": "flora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bb4523a5-94db-4aba-b327-34581b344ad4",
+    "data": [
+      {
+        "text": "Ciao fra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5b67871f-60c0-4075-a595-451a895da31e",
+    "data": [
+      {
+        "text": "Oi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a3d47a0d-f8cd-4dde-96c0-8681dfcc33bc",
+    "data": [
+      {
+        "text": "Buongiorno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "09d303b5-2492-47e2-9c2f-d2d40eb0f0df",
+    "data": [
+      {
+        "text": "Ehi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "98251194-e14e-4a68-94d3-1978dcd26bb4",
+    "data": [
+      {
+        "text": "Cosa puoi offrirmi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "095287ba-f0b8-4053-a208-538c078732e1",
+    "data": [
+      {
+        "text": "Start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a9a66c6e-2be8-49ec-98ad-d95a5332843a",
+    "data": [
+      {
+        "text": "Inizia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31dee7d1-0e59-4f52-9c17-abf7254d719e",
+    "data": [
+      {
+        "text": "Cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "userDefined": false
+      },
+      {
+        "text": " puoi offrire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a48245f9-78a4-47e8-8658-e308c838ab61",
+    "data": [
+      {
+        "text": "Cosa fai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7b1a0a32-d9b1-4187-8bbe-6d59dc36685e",
+    "data": [
+      {
+        "text": "Cosa puoi fare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "46ae9688-5ea2-4693-82a2-155cfbf0d929",
+    "data": [
+      {
+        "text": "Buon giorno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "208a749b-5a66-4ce2-bbc3-7483664b5f31",
+    "data": [
+      {
+        "text": "Buona ",
+        "userDefined": false
+      },
+      {
+        "text": "sera",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5b8f1d87-fae0-4fc1-b8bc-0e8759e0b0c4",
+    "data": [
+      {
+        "text": "Salve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "86de9bea-98a8-4c30-a5bb-d11de0e0a7ae",
+    "data": [
+      {
+        "text": "Ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 33,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9fd6c335-207b-4bbb-94cb-d7174fa26c84",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

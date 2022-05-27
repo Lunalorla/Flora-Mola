@@ -1,0 +1,9 @@
+{
+  "id": "47f6cef4-156c-447d-b4e0-ce449eb7de2c",
+  "name": "Libreria",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

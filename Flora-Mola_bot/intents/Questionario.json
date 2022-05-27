@@ -1,0 +1,50 @@
+{
+  "id": "5ef80916-3eaf-4237-b636-891435cb2fb7",
+  "name": "Questionario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "14c94000-16ae-4712-8ab2-1027f859f902",
+          "name": "Questionario",
+          "required": false,
+          "dataType": "@Questionario",
+          "value": "$Questionario",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Per aiutarmi a crescere compila questo questionario: https://docs.google.com/forms/d/e/1FAIpQLScP40bVDgqFQKAPit8sMqZmq8cH3SeqhewOWPrX-nkkIQ1naw/viewform?usp\u003dpp_url"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

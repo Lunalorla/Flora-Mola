@@ -1,0 +1,1459 @@
+[
+  {
+    "id": "3546c696-eb2f-4b4c-8bce-4052d62a6696",
+    "data": [
+      {
+        "text": "Sto sudando, ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "acqua",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "899bfecd-adcb-4d95-aaa2-c1bfbbb37cd3",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "acqua",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3c0e0e10-a8ce-40e4-9365-495382a8cf14",
+    "data": [
+      {
+        "text": "Voglio andare in un ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": " a bere qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1c015a24-b5c6-4dff-bd31-451fe21d8051",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "muffin",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a3892e41-1b4b-4ccd-b9d2-098cab62afb4",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "gelato con crema mirtilli e cioccolato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cac25154-fd82-46a8-9d93-9f801c35aff8",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "espressino",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bebac31d-6335-4c54-a91a-0b01390b6c8b",
+    "data": [
+      {
+        "text": "Dimmi dove posso prendere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gelato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e763969f-ebfb-40c9-8f1b-7440c63d76f9",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "gelato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5900611d-e208-4780-a393-468695e58fb5",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "caffè",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fb424f25-d8c9-458d-88e6-9ede765fc633",
+    "data": [
+      {
+        "text": "crepes",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      },
+      {
+        "text": " alla nutella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "04142559-4ccb-40b8-a51b-e2c4fb5f54ac",
+    "data": [
+      {
+        "text": "Vorrei alcolizzarmi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2727a510-94fc-4508-ab50-c9ff1e806a0e",
+    "data": [
+      {
+        "text": "Sai dirmi tutti i ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": " che stanno a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "003004ff-07ae-4c7f-aeda-6f25fc272e4b",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": " mi consigli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "48d495ec-bc01-4f4d-923d-0a03fa323ec7",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cornetto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2fca579f-6e9b-46b2-92b9-d7cf3869fae8",
+    "data": [
+      {
+        "text": "Dove posso acquistare una bottiglietta di ",
+        "userDefined": false
+      },
+      {
+        "text": "acqua gassata",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3ef8af93-24cb-46bb-9a8e-8d947c9df7c5",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bottiglia d\u0027acqua",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "aac22ba7-8b42-4bf1-aee8-5c224a9d7fad",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coca cola",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1d775a2b-d28a-402f-8542-650144f2a33a",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "te",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "20abf6a1-03d3-427a-b4e1-3952c5a332be",
+    "data": [
+      {
+        "text": "Desidero un ",
+        "userDefined": false
+      },
+      {
+        "text": "muffin",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e7942658-2ffb-4f0f-9a39-64c202763bc7",
+    "data": [
+      {
+        "text": "Caffè",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "24d4a2fc-eec9-4659-9de0-c0d9a6aed6ec",
+    "data": [
+      {
+        "text": "Focaccia",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2938921d-129e-436a-b791-070313e0ccc9",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " bottiglia d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "acqua",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bd68feb9-a239-442a-a4d7-57bb38282ed9",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheesecake",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b17a6b43-86ba-47ef-8530-eae0e6fb3fcf",
+    "data": [
+      {
+        "text": "Ti andrebbe di andare insieme ",
+        "userDefined": false
+      },
+      {
+        "text": "ad un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eac464f3-47b4-438b-9253-eb6058ea2ca7",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "panzerotto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "769eab96-97cd-49c8-ad8a-f01134d982e3",
+    "data": [
+      {
+        "text": "Colazione",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "33c068e0-55a7-4761-908b-c6445f24c5d4",
+    "data": [
+      {
+        "text": "Portami al ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c42496e2-3e47-4759-b38f-4de8be1147d8",
+    "data": [
+      {
+        "text": "Dove posso prendere un ",
+        "userDefined": false
+      },
+      {
+        "text": "caffè",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1885e840-7b43-4128-bdd1-22038be5d201",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "caffé",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9f1eaab0-8aae-4327-8f19-2b52930ce930",
+    "data": [
+      {
+        "text": "Desiro un ",
+        "userDefined": false
+      },
+      {
+        "text": "muffin",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "94fb6100-c109-443d-b7d7-348119140e0b",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "83683e25-53a5-4417-9ed4-dd18c2b1d3f4",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " bottiglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "acqua naturale",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7832b564-f75a-4c35-82ad-714c33cfde70",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bel ",
+        "userDefined": false
+      },
+      {
+        "text": "cornetto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "caffé",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5932d65-9c56-4aa0-bde8-2525ba3b2744",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "panzerotto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f5c37555-9fa3-44fd-a4b6-594e3e291779",
+    "data": [
+      {
+        "text": "Cioccolato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fcf0329d-e2a6-4b06-9488-08a024f455dd",
+    "data": [
+      {
+        "text": "Caffè",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      },
+      {
+        "text": " macchiato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "73876e48-c954-45d1-b13c-353abdd087e2",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "cappuccino",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "da64c97a-2f2d-49e4-8e5f-5837b48330be",
+    "data": [
+      {
+        "text": "Sai dove si trovano i ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f84192d3-76de-415a-8fcb-ffd48d2b53ee",
+    "data": [
+      {
+        "text": "Piccolo ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9e5cb949-6786-4485-84cf-68291fc1caea",
+    "data": [
+      {
+        "text": "Bevande",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eeecc304-00e0-4a94-8411-1b35f176e2c0",
+    "data": [
+      {
+        "text": "Ho detto ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c0a2fcbb-0afe-4438-bdbf-6baa6ba65698",
+    "data": [
+      {
+        "text": "Dove posso comprare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gelato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e96e3ba2-8a05-4067-9b4e-57c15691bd45",
+    "data": [
+      {
+        "text": "Dedidero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cono",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "25912cf2-67ff-4941-b5fa-d2a232e6d7b9",
+    "data": [
+      {
+        "text": "Voglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "camomilla",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8c25981a-2af0-438f-9e00-8008e5fdf6e5",
+    "data": [
+      {
+        "text": "Cornetto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3bdd1ec0-7ab8-4b82-bb98-02b5e837ac4e",
+    "data": [
+      {
+        "text": "CoRnEtTo",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bed99fb8-c846-4039-ba04-1d6db7e9bb6b",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "bel cornetto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "62f8cfdd-077a-49a1-8d01-90233b4b6d13",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e0eaf968-7d76-4565-ae01-946cb89105d5",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "cono gelato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d8b7e776-6c06-4966-8874-c094eb735a47",
+    "data": [
+      {
+        "text": "Sto sudando, ho bisogno di acqua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "33dad7de-0228-4eae-9905-a14953fbd3c7",
+    "data": [
+      {
+        "text": "Un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": " qualsiasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "088d5bbc-513b-44db-92d6-20748f21d3c4",
+    "data": [
+      {
+        "text": "Voglio mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheesecake",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a16d443e-f6e9-4f8a-a811-2574d8dbb74f",
+    "data": [
+      {
+        "text": "Bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "164754b8-892a-48fa-8028-dde31cda507d",
+    "data": [
+      {
+        "text": "Desidero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cappuccino",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "90d697aa-caf6-4687-8e5a-a83792361635",
+    "data": [
+      {
+        "text": "Altri ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b2e6e61d-2277-4f56-9db7-5d6d270d2459",
+    "data": [
+      {
+        "text": "Anche un ",
+        "userDefined": false
+      },
+      {
+        "text": "caffè",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8e456101-b585-4cd1-a1a2-8ef397d2d778",
+    "data": [
+      {
+        "text": "vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "colazione",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b014da9b-8cbf-4652-9e95-2eba8fb1078e",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bel ",
+        "userDefined": false
+      },
+      {
+        "text": "gelato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      },
+      {
+        "text": " alla ",
+        "userDefined": false
+      },
+      {
+        "text": "crema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "21d39148-dd42-4829-8af9-4b790103eacf",
+    "data": [
+      {
+        "text": "Quale ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": " mi consigli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a28884c1-ba96-413e-bf71-72ce85c728de",
+    "data": [
+      {
+        "text": "Coppetta gelato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c72f1436-4107-4950-8f2a-27a17778462e",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "estathe",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a11d44fb-1000-46fa-beb0-e0b93d061d9c",
+    "data": [
+      {
+        "text": "In questo momento vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gelato",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3761a068-b01e-4046-bb29-01b6c2bf046e",
+    "data": [
+      {
+        "text": "Desidero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8f570dd4-10e5-44d6-9df9-19ba9361bd16",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "caffé",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "17da5d00-dc79-4718-9886-7351c81cf3ff",
+    "data": [
+      {
+        "text": "CORnetto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "856a4f01-2701-4db4-9c2d-42c29a9886f2",
+    "data": [
+      {
+        "text": "Dove posso fare ",
+        "userDefined": false
+      },
+      {
+        "text": "colazione",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a013242f-954a-4713-a7a6-5ea5ece2ffba",
+    "data": [
+      {
+        "text": "cornetto",
+        "meta": "@Bar",
+        "alias": "Bar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  }
+]

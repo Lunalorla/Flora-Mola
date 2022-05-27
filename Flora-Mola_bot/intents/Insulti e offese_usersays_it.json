@@ -1,0 +1,730 @@
+[
+  {
+    "id": "20b16dfc-cd4f-4bc6-8cd0-d1d5cd5bdc60",
+    "data": [
+      {
+        "text": "Mi sa che non hai capito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5c36238e-1681-4a5f-8299-2981f34eab85",
+    "data": [
+      {
+        "text": "Vaffammoc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a71eda85-9180-4314-ae8d-98632bc9f7fa",
+    "data": [
+      {
+        "text": "Schiava",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6ce141cd-32f6-424a-8c5b-597c5aa61be9",
+    "data": [
+      {
+        "text": "Siri pt2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9ce527cb-e896-4ac6-974a-ec383edc2921",
+    "data": [
+      {
+        "text": "Vaffanculo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 13,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "73272d3b-f971-43d8-8cb4-0f5609c3b053",
+    "data": [
+      {
+        "text": "trmon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f79909c2-15b5-43c3-b740-994493d617fe",
+    "data": [
+      {
+        "text": "Ma vaffancul tu e mamt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1e5e9e53-1d7e-4eee-8057-8a2ea95df81f",
+    "data": [
+      {
+        "text": "È caz me ",
+        "userDefined": false
+      },
+      {
+        "text": "ne",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " fott",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d6a54cdb-cc94-4ce3-96df-b40b9eb892a0",
+    "data": [
+      {
+        "text": "Wtf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eaf64205-eabc-46d3-be83-023267e543e3",
+    "data": [
+      {
+        "text": "Murt ca tinn, we say in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b53b6c3e-4d1c-42e2-8464-583af05bdc11",
+    "data": [
+      {
+        "text": "Cosa cazz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fb78a167-cd38-4607-b7c6-90af1ad7cdbe",
+    "data": [
+      {
+        "text": "Ma che vuoi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3a67eb1b-09e6-47e0-ac45-6178de957a37",
+    "data": [
+      {
+        "text": "Non capisci ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " sega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eb50a610-2416-4bf1-bdba-c740414690aa",
+    "data": [
+      {
+        "text": "Strunz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1722913c-fc2f-46c3-b908-b7b058f8e5ba",
+    "data": [
+      {
+        "text": "Sono caduto e mi sono rotto il cazzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "780701b4-f266-4b03-a803-26d155dca823",
+    "data": [
+      {
+        "text": "Ma sei scemo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3b73bb49-523c-4bcd-bb0a-da87ac95aa89",
+    "data": [
+      {
+        "text": "Fanculo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1e51fad0-3a95-4508-b1dd-eee10901e1da",
+    "data": [
+      {
+        "text": "Porco dio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e1f6c540-7af0-487f-b332-60ff94d9c58d",
+    "data": [
+      {
+        "text": "Mamt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a5cbdc24-8fe5-4d83-a04a-2a2c3eed107e",
+    "data": [
+      {
+        "text": "Sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5b4549b-aeef-4458-ab28-4aa60232bc6b",
+    "data": [
+      {
+        "text": "Fuck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7f2e35e5-3263-43ec-9b6c-a6c9fb00e1bf",
+    "data": [
+      {
+        "text": "Vacci tu a piedi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c26ee0c4-ee7b-4a36-9566-fdaebd9b99df",
+    "data": [
+      {
+        "text": "Sei una zoccola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7a6f2397-05c3-4ed7-b943-9de80170a1cb",
+    "data": [
+      {
+        "text": "Puttana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9adc5c34-3535-4900-824e-a5c4cf763396",
+    "data": [
+      {
+        "text": "Figlia di puttana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c5cdd3ee-470c-43e8-b758-0be1049c2249",
+    "data": [
+      {
+        "text": "Capra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "93360f6d-aebe-4717-8c30-c718bc641cfb",
+    "data": [
+      {
+        "text": "Mi hai rotto il cazzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5129feef-f511-4436-84cd-bca504e99ac4",
+    "data": [
+      {
+        "text": "Struuunnnnnzzzzz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "493c1891-f476-468e-8248-2ddc8d30c560",
+    "data": [
+      {
+        "text": "Na ma si stubt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9efcdc2d-818a-428c-b04b-69f672ea64d8",
+    "data": [
+      {
+        "text": "Tu stai male",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2f62aeb3-309d-47f1-b322-59e71757c3c8",
+    "data": [
+      {
+        "text": "Stai male",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8d6997c6-8eee-419a-8e45-c64c1aa43dd0",
+    "data": [
+      {
+        "text": "Vaffa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e7e81c93-fd54-4ce9-9e79-b041fbbf9986",
+    "data": [
+      {
+        "text": "Stai impazzendo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "43b808f9-6fd5-438a-bb7b-ff5f46099b51",
+    "data": [
+      {
+        "text": "Sei pazza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ebda5433-e0bc-443b-b8ac-c71d0f54d30f",
+    "data": [
+      {
+        "text": "Cazzo dici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "67e981d0-3c46-4448-8973-e9996e8d0024",
+    "data": [
+      {
+        "text": "Che cazzo dici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b060f44-a212-409c-8ede-488cf1646943",
+    "data": [
+      {
+        "text": "Non scassare il cazzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8d262001-a85d-46ad-940f-654fea8f97f5",
+    "data": [
+      {
+        "text": "zoccola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8f2f0f70-fdf6-4718-b0bf-46e2d2cd3d40",
+    "data": [
+      {
+        "text": "Cogliona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f1771deb-be34-45ce-95e8-785987ac344c",
+    "data": [
+      {
+        "text": "Coglione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dd1ae474-205f-4850-9f71-732d12b4776d",
+    "data": [
+      {
+        "text": "Mi hai rotto i coglioni con questa domanda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1446a19a-8780-43b6-aa80-61a23567fcb7",
+    "data": [
+      {
+        "text": "ktm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3271d73c-214a-420b-94d5-2df19f5bfe31",
+    "data": [
+      {
+        "text": "Sei fuori di testa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "716e3f06-d77d-41ec-b42e-b9ec23bdf3d0",
+    "data": [
+      {
+        "text": "scema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "17cf19a5-9492-4bd3-a360-b3164ec6aa27",
+    "data": [
+      {
+        "text": "Stronza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5713df15-e717-41f5-a649-2dbf8992ca82",
+    "data": [
+      {
+        "text": "Fai schifo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "42d811a2-defb-40a1-a3ec-a84cab45bd91",
+    "data": [
+      {
+        "text": "Stonza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9370122f-e7a7-48f5-863b-044a04ad41d7",
+    "data": [
+      {
+        "text": "Vai via",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3762d99a-4c72-4886-aa60-f2817c784807",
+    "data": [
+      {
+        "text": "Sei scema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "722b19de-332d-4c53-bd45-7ee45f8abbb3",
+    "data": [
+      {
+        "text": "Non servi a niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9c4a458b-b870-490d-93bf-dd481a7f26a1",
+    "data": [
+      {
+        "text": "Stronzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8aca2c6f-ee0b-40e9-b1b6-f65284e069a7",
+    "data": [
+      {
+        "text": "Cretino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "586d9c31-becf-4eab-b1d9-e04d2515e61c",
+    "data": [
+      {
+        "text": "Sei cretina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bcf06c47-6794-4c5e-a09a-63bf1535f9a6",
+    "data": [
+      {
+        "text": "Vai a fare in culo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

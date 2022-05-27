@@ -1,0 +1,365 @@
+[
+  {
+    "id": "2f79f64e-9667-40e5-bd12-3282a1ba901b",
+    "data": [
+      {
+        "text": "Calamite",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": true
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1145b5b9-2bdb-439e-ac77-18c272436ce5",
+    "data": [
+      {
+        "text": "Vorrei fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "regalo alla mia famiglia",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1aef58cd-0865-4975-a68f-4dbb14f447ab",
+    "data": [
+      {
+        "text": "Vorrei comprare una ",
+        "userDefined": false
+      },
+      {
+        "text": "bomboniera",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "586b0a3f-4a47-49af-945f-acf77d7921b8",
+    "data": [
+      {
+        "text": "bomboniera",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "04dee1bf-55ca-4f9b-b6fe-13e400a6bfa9",
+    "data": [
+      {
+        "text": "Dove comprare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pensierino",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "14770c43-9631-432b-9671-ca48dfa5005e",
+    "data": [
+      {
+        "text": "Souvenir",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "428f6a5a-5865-4e7b-8928-9f5019ab4b87",
+    "data": [
+      {
+        "text": "Voglio comprare qualcosa per i miei figli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9918cdc2-cc81-41ec-b09b-3d49aaf4054c",
+    "data": [
+      {
+        "text": "Dove posso comprare un ",
+        "userDefined": false
+      },
+      {
+        "text": "souvenir",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d5a2ea48-88c0-4e16-bff3-3870601a0d80",
+    "data": [
+      {
+        "text": "Gadget",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      },
+      {
+        "text": " di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "00f9bb14-bcda-4599-809f-e79123fcd0ed",
+    "data": [
+      {
+        "text": "Devo fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "regalo",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bcb479fc-eaa9-480e-ba54-905450d8542d",
+    "data": [
+      {
+        "text": "Vorrei comprare un ",
+        "userDefined": false
+      },
+      {
+        "text": "costume da bagno",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "da35230f-6d42-4504-afab-426439d1b7db",
+    "data": [
+      {
+        "text": "Sai dirmi dove si trova ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " negozio per poter comprare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "regalo",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6d18f496-00fe-4786-ade6-05433a44c2b0",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "souvenir",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "96d9944c-00de-4f22-9486-7912ba46605b",
+    "data": [
+      {
+        "text": "Souvenir",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c658f826-7b70-4068-9fcd-36b112a61cfd",
+    "data": [
+      {
+        "text": "Devo fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "regalo",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      },
+      {
+        "text": " per i miei famigliari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6344f36f-fdee-45d1-aa77-41d8f5ea8a4b",
+    "data": [
+      {
+        "text": "Dove posso comprare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "regalo",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3993ce57-639d-4322-9d62-a96d2329dee5",
+    "data": [
+      {
+        "text": "Regalo",
+        "meta": "@Souvenir",
+        "alias": "Souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

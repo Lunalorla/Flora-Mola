@@ -1,0 +1,71 @@
+{
+  "id": "d28ab8ae-26e0-4a18-914f-086598433e89",
+  "name": "Selezione direzione malattie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40f65303-53fe-403c-9fab-15d1a0ff9696",
+          "name": "Malattia",
+          "required": false,
+          "dataType": "@Malattia",
+          "value": "$Malattia",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Di cosa hai bisogno in particolare? Ospedale o farmacia?",
+          "replies": [
+            "Ospedale🏨",
+            "Farmacie🏥"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Di cosa hai bisogno in particolare? Ospedale o farmacia?",
+          "replies": [
+            "Ospedale",
+            "Farmacie"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,180 @@
+[
+  {
+    "id": "4dff12ea-afce-4e03-b708-c5a4e12bcb80",
+    "data": [
+      {
+        "text": "Servizi sanitari",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "00019e5a-f4d3-413a-9274-5c8f29fa5479",
+    "data": [
+      {
+        "text": "Servizio sanitario",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e6aebea-3583-40e2-a673-a4ba4f42e775",
+    "data": [
+      {
+        "text": "Sanitari",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3cb6c7da-6432-4eae-bf90-6ea6acd2efdb",
+    "data": [
+      {
+        "text": "Sanitario",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bf22444d-f5ca-4b47-981f-52800098dc56",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " mostri i ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi sanitari",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "831c4ce5-3042-4279-a8b9-3ac95bab0b20",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "servono",
+        "userDefined": false
+      },
+      {
+        "text": " i ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi sanitari",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bca854cb-3d59-4cc3-9ff4-170d7c97320e",
+    "data": [
+      {
+        "text": "Quali sono i ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi sanitari",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola di Bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8ecb9ba3-eb30-47cf-b871-cb254bfb927e",
+    "data": [
+      {
+        "text": "Fammi vedere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "servizio sanitario",
+        "meta": "@Servizi_Sanitari",
+        "alias": "Servizi_Sanitari",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

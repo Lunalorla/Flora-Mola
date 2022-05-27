@@ -1,0 +1,475 @@
+[
+  {
+    "id": "2137ca6f-3e6e-4278-b1c0-a7f4aaaa3d76",
+    "data": [
+      {
+        "text": "beb",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f62a3b18-c799-49c4-8ca1-522a3154de9a",
+    "data": [
+      {
+        "text": "B\u0026B",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7d28db0b-ddf3-4b95-9539-fbd899d74de8",
+    "data": [
+      {
+        "text": "Avrei bisogno di dormire, preferirei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B\u0026B",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "67f7b1ae-b51f-417b-85ca-04776c25521a",
+    "data": [
+      {
+        "text": "B\u0026b",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "de1b82ff-2be0-4592-a020-c059e3c5eb98",
+    "data": [
+      {
+        "text": "Cerca ",
+        "userDefined": false
+      },
+      {
+        "text": "b\u0026b",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d9ebaa28-f4af-49a1-a8c7-31e77404b1d8",
+    "data": [
+      {
+        "text": "Conosci dei ",
+        "userDefined": false
+      },
+      {
+        "text": "B\u0026B",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7a53b666-e952-4fe1-a260-bcfdd5673e55",
+    "data": [
+      {
+        "text": "Bed and Breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "54747a40-07c4-4dda-9452-b12d843f2eb7",
+    "data": [
+      {
+        "text": "Devo rimanere qui ",
+        "userDefined": false
+      },
+      {
+        "text": "per dei giorni",
+        "userDefined": false
+      },
+      {
+        "text": ", mostrami dei ",
+        "userDefined": false
+      },
+      {
+        "text": "bed and breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ad339a4d-c2e0-44a8-8e29-b38d4d9d2748",
+    "data": [
+      {
+        "text": "Vorrei dormire in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "b\u0026b",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "84ab7a2f-0b61-49c9-b65b-d49db6bb49c4",
+    "data": [
+      {
+        "text": "Vorrei dormire in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " bad and ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "21548cc1-38af-4c7d-b85b-3e7278777b56",
+    "data": [
+      {
+        "text": "Vorrei dormire in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "beb",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "45e90101-5a9f-420d-8e73-17b732e7d3f9",
+    "data": [
+      {
+        "text": "bed and breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5d21ed9a-6140-4da8-9e49-e5ddce93e4e8",
+    "data": [
+      {
+        "text": "Bed and breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b42e0916-399a-48a4-bad7-d9d79e6c706c",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "beb",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "965b4c8a-f098-432f-81b1-290976bd7d53",
+    "data": [
+      {
+        "text": "Beb",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9e4b3463-a983-4853-bd43-c58d8ee1681a",
+    "data": [
+      {
+        "text": "Vorrei dormire in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B\u0026B",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1b8c5e19-4da5-4714-a189-2eaad058411b",
+    "data": [
+      {
+        "text": "cerco un ",
+        "userDefined": false
+      },
+      {
+        "text": "bed and breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9fca69ce-f7bf-49ce-a150-6b8604e25bfa",
+    "data": [
+      {
+        "text": "Avrei bisogno di dormire in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bed e breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "301e7e4d-598e-4b9b-8b32-6741e5c18872",
+    "data": [
+      {
+        "text": "Cerco ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "beb",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      },
+      {
+        "text": " in qeusto ",
+        "userDefined": false
+      },
+      {
+        "text": "paese",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "47a8b92d-82d1-45b8-83aa-e8aaa64dc3aa",
+    "data": [
+      {
+        "text": "Esistono dei ",
+        "userDefined": false
+      },
+      {
+        "text": "B\u0026B",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": false
+      },
+      {
+        "text": " in questo ",
+        "userDefined": false
+      },
+      {
+        "text": "paese",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c81643ed-7222-4db2-8a4e-50f71263b505",
+    "data": [
+      {
+        "text": "cerco ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bed and breakfast",
+        "meta": "@BeB",
+        "alias": "BeB",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

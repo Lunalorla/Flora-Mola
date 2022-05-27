@@ -1,0 +1,198 @@
+[
+  {
+    "id": "0f7f8acb-b355-4df3-b631-32d4f0babb83",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " aiuti ad arrivare a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f02e15bb-db3c-45e3-8404-800412d30428",
+    "data": [
+      {
+        "text": "Come arrivo a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f9e79cc3-4778-47c2-b456-7af0b59b21fb",
+    "data": [
+      {
+        "text": "Quanto ci vuole per arrivare a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "436269df-798e-4e89-a06e-35fefb90c16e",
+    "data": [
+      {
+        "text": "Distanza da ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ffa183d1-cd1d-449b-934a-afac380c44e9",
+    "data": [
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " distanza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "988c7bf6-0595-42b2-a8f3-53ee689c320a",
+    "data": [
+      {
+        "text": "Quanto disto da ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fffc2377-cbef-4ddd-8b30-5b864d329987",
+    "data": [
+      {
+        "text": "Come posso arrivare a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "895baf00-f6ce-4b92-bde3-cff0b1a1b944",
+    "data": [
+      {
+        "text": "La mia posizione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4e51b6ba-0ff4-46c7-b02f-c73d02c7f686",
+    "data": [
+      {
+        "text": "Condividi posizione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cb6fdc39-9965-49b7-8c5d-0337cc2dcb84",
+    "data": [
+      {
+        "text": "Dove mi trovo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

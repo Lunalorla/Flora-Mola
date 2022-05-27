@@ -1,0 +1,762 @@
+[
+  {
+    "id": "19abf0f3-6905-4788-8193-a365297393ac",
+    "data": [
+      {
+        "text": "Vorrei alzare ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pesi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "27bef2dd-f4a5-4b1b-92f2-90236c1d50ea",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "sala pesi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8a6404c4-69e6-46f7-bc7e-4ebb037321a5",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "attrezzi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "214f865b-981a-46c9-bfc8-67655b03b1a3",
+    "data": [
+      {
+        "text": "Palestre",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2431e031-124c-42a0-bfb6-825e59fd2170",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "step",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "35f008ff-931d-43e3-a07c-86e15fc61ced",
+    "data": [
+      {
+        "text": "Sono ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027 ",
+        "userDefined": false
+      },
+      {
+        "text": "sovrappeso",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      },
+      {
+        "text": ", mi consiglieresti ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "palestra",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1bb98701-1d22-443f-8552-2ead8647ca8c",
+    "data": [
+      {
+        "text": "Se ",
+        "userDefined": false
+      },
+      {
+        "text": "volessi allenarmi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d0d639db-5502-47ff-ab2b-02bda242ae73",
+    "data": [
+      {
+        "text": "Vorrei fare un po\u0027di ",
+        "userDefined": false
+      },
+      {
+        "text": "tapis roulant",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "de127a0b-3455-41ac-8846-d5ebde396fe7",
+    "data": [
+      {
+        "text": "temprare ",
+        "userDefined": false
+      },
+      {
+        "text": "i muscoli",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bea70d7d-e8de-42cd-bef4-d554e56467da",
+    "data": [
+      {
+        "text": "Voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "step",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "694a7e66-b5a7-4339-9ea7-e9334fec26b6",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "allenarmi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4c17a5c5-ce55-4c3a-bd1e-d60d391597ca",
+    "data": [
+      {
+        "text": "Sala attrezzi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "51a45f82-bdb4-4e85-8c01-9a6148deb7c3",
+    "data": [
+      {
+        "text": "impratichire i ",
+        "userDefined": false
+      },
+      {
+        "text": "muscoli",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fb457a61-dfc7-4cd0-94b2-b64fb7d05271",
+    "data": [
+      {
+        "text": "Sono grosso",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "288387bd-772d-4fb3-9a5f-9bbd703736a1",
+    "data": [
+      {
+        "text": "Devo perdere peso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c2e799ea-aab0-4c7e-9e18-118d2ec13ee6",
+    "data": [
+      {
+        "text": "palestre",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      },
+      {
+        "text": " a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5fc27f81-ac77-44e2-9229-5676928216d4",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "allenarmi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4b94584c-c5bb-4768-aef5-6ba2fedf1b64",
+    "data": [
+      {
+        "text": "voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "spinning",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "57da56ce-be6c-4d6a-9407-6c8eb5b5fef2",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "fare pesi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c7e59643-c318-4639-97b7-01bbc02960a4",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "spinning",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7c92b2d8-7289-450f-bf61-dce2080ab65d",
+    "data": [
+      {
+        "text": "Vorrei andare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027in ",
+        "userDefined": false
+      },
+      {
+        "text": "palestra",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0b40a46c-88d4-4ec8-a69d-20e0c6a7081b",
+    "data": [
+      {
+        "text": "Vorrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "tapis roulant",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ed2f65cd-17b4-41fb-bfb3-6f109e0daa1c",
+    "data": [
+      {
+        "text": "esercitare i ",
+        "userDefined": false
+      },
+      {
+        "text": "muscoli",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "19e84ab3-9cde-4b2a-82c2-c88a0eed9a2c",
+    "data": [
+      {
+        "text": "palestra",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ffa338fe-99da-447a-b241-6d4dc682a5ca",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "dimagrire",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e7a351ba-12e3-4c4b-b7fa-685e470fc86e",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "perdere peso",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9f8ebfb6-6661-421a-a28d-8412bbbda881",
+    "data": [
+      {
+        "text": "Zumba",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "91e4c5e7-6046-4851-92d9-56f6f46d0f0f",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "allenarmi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7f47221d-beb7-4081-a0db-2b2d08572c6f",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare pesi",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "79e80ba5-fe1e-4c4b-91fc-05927d3bc3fa",
+    "data": [
+      {
+        "text": "Corsi di ",
+        "userDefined": false
+      },
+      {
+        "text": "zumba",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bf3c68e3-71b3-4f84-8483-e172d713f021",
+    "data": [
+      {
+        "text": "Esistono ",
+        "userDefined": false
+      },
+      {
+        "text": "palestre",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      },
+      {
+        "text": " qui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2d5a7743-e5bd-428d-b757-aec99f308414",
+    "data": [
+      {
+        "text": "Dove posso fare ",
+        "userDefined": false
+      },
+      {
+        "text": "zumba",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "db8d6a0d-b627-4cda-95de-d296aa10b2b6",
+    "data": [
+      {
+        "text": "corsi di ",
+        "userDefined": false
+      },
+      {
+        "text": "spinning",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "69066740-51ac-42fe-ae12-ac81e08c45c7",
+    "data": [
+      {
+        "text": "Esistono ",
+        "userDefined": false
+      },
+      {
+        "text": "palestra",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      },
+      {
+        "text": " qui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "139ef43c-aa2d-49a9-9e13-edab31ba2b22",
+    "data": [
+      {
+        "text": "Devo fare ",
+        "userDefined": false
+      },
+      {
+        "text": "step",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2da77a41-ac11-4799-a03b-e0018aaaa566",
+    "data": [
+      {
+        "text": "Grazie ma voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "palestra",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ef269532-0211-4b3c-a802-6373ab24a357",
+    "data": [
+      {
+        "text": "Voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "fitness",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "de01cd04-4928-48d0-bd3a-ec8d43e9e7b9",
+    "data": [
+      {
+        "text": "Voglio fare ",
+        "userDefined": false
+      },
+      {
+        "text": "zumba",
+        "meta": "@Palestra",
+        "alias": "Palestra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

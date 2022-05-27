@@ -1,0 +1,366 @@
+[
+  {
+    "id": "193c043f-9555-4e37-af9b-7aae96863dab",
+    "data": [
+      {
+        "text": "Comunione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "12561395-0a72-477a-b304-5daf9c59ef05",
+    "data": [
+      {
+        "text": "Ostia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "da3170d6-3eb6-452e-bab7-5377b41e64da",
+    "data": [
+      {
+        "text": "Ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "chiese",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      },
+      {
+        "text": " che si possono ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e1b7b036-efab-4e9c-a53d-b0de9b5bacfa",
+    "data": [
+      {
+        "text": "Dove sposarsi a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ef2f72df-d5bc-4075-843a-1217f8ce0b29",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " devo sposare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c120ce38-6d18-423c-81aa-99e1ec3986d8",
+    "data": [
+      {
+        "text": "Catechismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b68b2d16-380c-45e5-b5c6-b13086087ff3",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " devo confessare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0b99d485-7b48-47c3-abf0-9be48d4569cf",
+    "data": [
+      {
+        "text": "Confessione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0d10e3e4-87d2-4333-9aa3-4b59da83fdf1",
+    "data": [
+      {
+        "text": "Prete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0cf58846-1816-430f-90bb-60fd97f12f7d",
+    "data": [
+      {
+        "text": "Sacerdote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7ee4a110-9058-4076-a78b-782afbcd70a7",
+    "data": [
+      {
+        "text": "Cattedrale",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f5ffb51c-4df0-40a2-b9a1-a65956f5aad1",
+    "data": [
+      {
+        "text": "Basilica",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "73262bd2-6e67-4404-a637-9c87b8dc2897",
+    "data": [
+      {
+        "text": "Parrocchia",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "332940b2-ae98-4d6c-a4a2-2d5ba44a230d",
+    "data": [
+      {
+        "text": "Messa della ",
+        "userDefined": false
+      },
+      {
+        "text": "domenica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8912489d-adae-4b25-a15d-bf9ad1ee1c63",
+    "data": [
+      {
+        "text": "Dove si tiene la messa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "94dcd53b-3161-4dc7-a55a-67dde2ccfe4a",
+    "data": [
+      {
+        "text": "Ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "chiese",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      },
+      {
+        "text": " che posso ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0ba1b821-8275-4180-bf6c-aa10d2a9d9cf",
+    "data": [
+      {
+        "text": "chiesa",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a0d098e3-b82d-433a-a92c-7a2c434fe907",
+    "data": [
+      {
+        "text": "chiese",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a2e6af00-56e5-448f-8be1-25527b221e8b",
+    "data": [
+      {
+        "text": "dammi una ",
+        "userDefined": false
+      },
+      {
+        "text": "chiesa",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "856046f3-e05f-4f92-8c95-4c1f13124b4e",
+    "data": [
+      {
+        "text": "Quali sono le ",
+        "userDefined": false
+      },
+      {
+        "text": "chiese",
+        "meta": "@Chiesa",
+        "alias": "Chiesa",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola di Bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

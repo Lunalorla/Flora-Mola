@@ -1,0 +1,9 @@
+{
+  "id": "afe7390e-b71c-4d43-9c75-01adbe0d5e93",
+  "name": "Tabacchi",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

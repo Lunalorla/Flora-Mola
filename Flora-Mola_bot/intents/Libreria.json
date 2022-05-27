@@ -1,0 +1,144 @@
+{
+  "id": "2a7158c0-c09d-42de-a945-815984e72e79",
+  "name": "Libreria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "de2b7647-64ed-48b3-9965-6917a88aa0de",
+          "name": "Libreria",
+          "required": false,
+          "dataType": "@Libreria",
+          "value": "$Libreria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.moladibaritv.it/images/presentazione_libro_26_aprile_2018.jpg",
+          "title": "Libreria Culture Club Cafè",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?ei\u003dgGJIW_6hNMTp6ASyhrTYDg\u0026q\u003dlibrerie%20mola%20di%20bari\u0026oq\u003dlibreri\u0026gs_l\u003dpsy-ab.3.0.35i39k1l2j0i67k1l8.164192.165903.0.166595.9.8.1.0.0.0.148.798.1j6.7.0....0...1.1.64.psy-ab..1.8.799...0j0i131k1j0i131i67k1j0i20i263k1.0.wrD3TMl9vOA\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41062373,17089051,65\u0026tbm\u003dlcl\u0026rldimm\u003d14962542810625269402\u0026ved\u003d2ahUKEwjj76nY1JvcAhVHIpoKHd8GCGcQvS4wAHoECAYQFA\u0026rldoc\u003d1\u0026tbs\u003dlrf:!2m1!1e2!3sIAE,lf:1,lf_ui:10#rlfi\u003dhd:;si:14962542810625269402;mv:!1m3!1d423.0425699289868!2d17.08905115!3d41.062373199999996!2m3!1f0!2f0!3f0!3m2!1i32!2i27!4f13.1;tbs:lrf:!2m1!1e2!3sIAE,lf:1,lf_ui:10",
+              "text": "PORTAMI LI\u0027!"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://librerie.tuttosuitalia.com/images/pictures/luoghi/librerie9.jpg",
+          "title": "Culture Club Afa\u0027 Di Sparno Domenico",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?ei\u003dgGJIW_6hNMTp6ASyhrTYDg\u0026q\u003dlibrerie%20mola%20di%20bari\u0026oq\u003dlibreri\u0026gs_l\u003dpsy-ab.3.0.35i39k1l2j0i67k1l8.164192.165903.0.166595.9.8.1.0.0.0.148.798.1j6.7.0....0...1.1.64.psy-ab..1.8.799...0j0i131k1j0i131i67k1j0i20i263k1.0.wrD3TMl9vOA\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41062373,17089051,65\u0026tbm\u003dlcl\u0026rldimm\u003d14962542810625269402\u0026ved\u003d2ahUKEwjj76nY1JvcAhVHIpoKHd8GCGcQvS4wAHoECAYQFA\u0026rldoc\u003d1\u0026tbs\u003dlrf:!2m1!1e2!3sIAE,lf:1,lf_ui:10#rlfi\u003dhd:;si:12225741306674422888;mv:!1m3!1d423.0425699289868!2d17.08905115!3d41.062373199999996!2m3!1f0!2f0!3f0!3m2!1i32!2i27!4f13.1",
+              "text": "PORTAMI LI\u0027!"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Queste sono tutte le  librerie di Mola. Buona lettura :)",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Libreria Culture Club Cafè",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/sisAFb8znqEv72AF6",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Culture Club Afa\u0027 Di Sparno Domenico",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Sx6D6NREa5dbDgzh7",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.bookdealer.it/timthumb.php?src\u003dhttps://cdn.bookdealer.it/m/414/static/images/4d58688054aee173ca6fea24526e5a90.JPG\u0026h\u003d400\u0026w\u003d1200\u0026zc\u003d1",
+          "title": "Per fare un libro",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/ZpprY7AdEt8VgCF36",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Queste sono tutte le  librerie di Mola. Buona lettura! Io attendo qui qualsiasi tua richiesta!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,97 @@
+{
+  "id": "5a23be6b-abcc-48a9-9004-a25561cfbb18",
+  "name": "Selezione direzione hotel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Hotel",
+          "lifespan": 1
+        },
+        {
+          "name": "B_and_B",
+          "lifespan": 2
+        },
+        {
+          "name": "Ostello",
+          "lifespan": 3
+        },
+        {
+          "name": "Selezionedirezionehotel-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "selezione",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6d4d6e19-2d60-4111-b5ca-36a1d23e855f",
+          "name": "Dormire",
+          "required": true,
+          "dataType": "@Dormire",
+          "value": "$Dormire",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Dove vorresti riposarti?",
+          "replies": [
+            "Hotel",
+            "Bed and Breakfast",
+            "Ostello",
+            "Annulla"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Dove vorresti riposare?",
+          "replies": [
+            "Hotel",
+            "B\u0026B"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Dove vorresti riposarti?\nHotel\nBed and Breakfast"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

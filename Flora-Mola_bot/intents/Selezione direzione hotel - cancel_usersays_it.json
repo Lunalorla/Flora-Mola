@@ -1,0 +1,145 @@
+[
+  {
+    "id": "b6dfa77d-4adc-443a-839f-d579b18b9db7",
+    "data": [
+      {
+        "text": "fermati",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "63f7be49-9872-44d9-95ca-28dd8ab5cc62",
+    "data": [
+      {
+        "text": "annulla tutto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "05aa7a8c-a1c6-4d29-b1cb-8b35f49fcb95",
+    "data": [
+      {
+        "text": "non serve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cac81b67-5214-4ff7-a390-5a07abe1484e",
+    "data": [
+      {
+        "text": "non fare niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d74350cb-3f4c-4ec5-bfee-0af7efaad749",
+    "data": [
+      {
+        "text": "Annulla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "77c7315f-5165-49e7-8c8b-c5456e042cc7",
+    "data": [
+      {
+        "text": "salta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8a6b7b92-e3ce-4da5-a0d8-9b384fbf384c",
+    "data": [
+      {
+        "text": "lascia stare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4ef18489-10ed-4f99-9c87-005898e6e398",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0775a3fe-079f-4111-bea8-b6a0aac589ee",
+    "data": [
+      {
+        "text": "ignora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "806922b5-1e4f-4021-99eb-947a50e83fad",
+    "data": [
+      {
+        "text": "non importa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9fd063e0-df3a-457e-9268-9649032adb87",
+    "data": [
+      {
+        "text": "annulla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

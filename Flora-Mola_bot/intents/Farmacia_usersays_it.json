@@ -1,0 +1,635 @@
+[
+  {
+    "id": "2f434e33-15c0-43fc-afd8-97709956de24",
+    "data": [
+      {
+        "text": "pillole",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2c9787c1-f56c-4bdd-b9e1-b34af85bb0d8",
+    "data": [
+      {
+        "text": "farmacie",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "06ffe0bd-2c5e-481d-bdb0-688039614baf",
+    "data": [
+      {
+        "text": "altre ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacie",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "27cd8961-2cdf-488b-8a44-e0008c137538",
+    "data": [
+      {
+        "text": "Devo comprare delle ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e2b2f2d0-76d4-44f5-bb5d-72f449bbaf16",
+    "data": [
+      {
+        "text": "ho bisogno di comprare una crema solare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1db0e45c-cc3a-421d-a65c-a05206c76140",
+    "data": [
+      {
+        "text": "Ho bisogna della ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bf5d2826-f94b-4313-8be8-72f1a0c0026a",
+    "data": [
+      {
+        "text": "Oki",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "382f6b5c-409c-400c-8295-7f10549d49b8",
+    "data": [
+      {
+        "text": "voglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9c3833eb-6b37-47fd-b99b-9f35760e7cd1",
+    "data": [
+      {
+        "text": "Meglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fdc08ffc-3159-4fff-bb5a-2efaea7226d0",
+    "data": [
+      {
+        "text": "Ho bisogno di una ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e5498fec-3213-4731-92e5-26d5be1f1c60",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d2f082ce-ce95-4a5f-9855-e2aa94e18e33",
+    "data": [
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f6c3bc9b-4374-49e2-b2e2-288df4be8602",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aulin",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4f836c5a-533a-492f-9c65-f1c88e0d870b",
+    "data": [
+      {
+        "text": "medicinali",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8980d13a-a544-49a7-aff5-6d56094438f7",
+    "data": [
+      {
+        "text": "mi trovi ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fa34113c-5e55-4a72-bd55-4ced551d43d5",
+    "data": [
+      {
+        "text": "Mi serve ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tachipirina",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "26a98ba1-ba47-4ac2-8e32-6dc1f7030414",
+    "data": [
+      {
+        "text": "Ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "farmaci",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b01e8d26-e927-4890-940a-24e4c2156fa9",
+    "data": [
+      {
+        "text": "Dov\u0027è la ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "407bd847-d68f-4fae-afad-664528935a7f",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "medicinali",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "24f5bd8b-a532-4f23-8f78-3598089563aa",
+    "data": [
+      {
+        "text": "ho bisono di ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ab8e9b19-1f09-4434-8dea-0519b8427cf9",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "moment",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7b4d759f-875b-4eb0-8756-3b8c8f264ae0",
+    "data": [
+      {
+        "text": "Devo comprare dei ",
+        "userDefined": false
+      },
+      {
+        "text": "preservativi",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "872adfd5-8bbb-4a04-a85e-1b34346a0bad",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tachipirina",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "db87854d-9d44-4c61-98e2-f34cdc807de8",
+    "data": [
+      {
+        "text": "dove posso trovare una ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "785a2efd-ae38-418a-9440-a6f57364213b",
+    "data": [
+      {
+        "text": "Sai dirmi tutte le farmacie di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e44737d8-ef92-45f8-9300-d0ed49981971",
+    "data": [
+      {
+        "text": "Preservativi",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ce001c41-bb7e-44dd-a990-ad8babdc4848",
+    "data": [
+      {
+        "text": "trovami ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "acb49a0d-b3bc-485f-941a-82146d1baa40",
+    "data": [
+      {
+        "text": "Mi trovi ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "farmacia",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d9478ddd-f86a-4040-96b3-f4c5325c0cdf",
+    "data": [
+      {
+        "text": "Ho bisogno del ",
+        "userDefined": false
+      },
+      {
+        "text": "viagra",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a7b63c07-a3d8-49de-b806-e5951141440e",
+    "data": [
+      {
+        "text": "Mi serve il ",
+        "userDefined": false
+      },
+      {
+        "text": "viagra",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d0b3ddeb-445d-4947-b58b-e27290c3a5de",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oki",
+        "meta": "@Medicinali",
+        "alias": "Medicinali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

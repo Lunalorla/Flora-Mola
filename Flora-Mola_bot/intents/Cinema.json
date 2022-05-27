@@ -1,0 +1,106 @@
+{
+  "id": "d6c93b4b-c023-4475-a1a2-6c3f06f4e661",
+  "name": "Cinema",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9bb057ee-464d-4376-b446-aafe1dda9bfc",
+          "name": "Cinema",
+          "required": false,
+          "dataType": "@Cinema",
+          "value": "$Cinema",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://lh6.ggpht.com/xtszzwjW8bJCXiYhM0qvkVokEWmBtmjG0fzlRfpFyOlbTaCWqrrrSKB1KykS74gPq6G3nCIUyp9AvN7ALhPycYrgbB0ILoHHpN-1kwMXvpPh58rGcg",
+          "subtitle": "Ultime uscite e rassegne cinematografiche in un multisala moderno che trasmette anche eventi teatrali in diretta.",
+          "title": "Metropolis",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Metropolis+Multicine/@41.062298,17.0780103,17z/data\u003d!3m1!4b1!4m5!3m4!1s0x1347c5984a08996b:0x17e8ee26998514b9!8m2!3d41.062298!4d17.080199",
+              "text": "PORTAMI LI!"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "L\u0027unico cinema presente è questo, buona visione :)",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://cdnimp.18tickets.it/multicine-logo.png",
+          "subtitle": "Ultime uscite e rassegne cinematografiche in un multisala moderno che trasmette anche eventi teatrali in diretta.",
+          "title": "Metropolis Multicine",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/zPtT99GSHJV6GYS89",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "L\u0027unico cinema presente è questo, buona visione :)",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

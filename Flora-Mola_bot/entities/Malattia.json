@@ -1,0 +1,9 @@
+{
+  "id": "867b31e7-27f6-4b81-9acf-059d77203ebc",
+  "name": "Malattia",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "09b2cf1c-edf8-4766-a0d2-436ee5767645",
+  "name": "Servizi Pubblici",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe426b1d-623e-47d0-9271-26ec63bbefe4",
+          "name": "servizi",
+          "required": false,
+          "dataType": "@Servizi_Pubblici",
+          "value": "$servizi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "91ca48ae-99ff-4e51-a4d8-aee1ff13518b",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono i servizi pubblici di cui puoi usufruire:  • municipio • forze dell\u0027ordine • banche • poste • supermercati • tabaccherie • stazione ferroviaria • stazioni di benzina • noleggio auto • bagni pubblici",
+          "replies": [
+            "Municipio",
+            "Forze dell\u0027ordine",
+            "Banche"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

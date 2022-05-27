@@ -1,0 +1,171 @@
+{
+  "id": "a91defa9-23f6-41f8-844f-86a5773cd039",
+  "name": "Farmacia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "Farmacia-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b7d31951-11bb-47f3-9db0-14bcce037750",
+          "name": "Medicinali",
+          "required": true,
+          "dataType": "@Medicinali",
+          "value": "$Medicinali",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Orari:   sabato\t08:30–13, 16:30–20:30 domenica\tChiuso lunedì\t08:30–13, 16:30–20:30 martedì\t08:30–13, 16:30–20:30 mercoledì\t08:30–13, 16:30–20:30 giovedì\t08:30–13, 16:30–20:30 venerdì\t08:30–13, 16:30–20:30",
+          "title": "Farmacia Mangiolino",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003d7z8\u0026q\u003dfarmacie+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41059469,17082678,665\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwjbtMe28ozcAhUNGuwKHeh-CnMQjGoITw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:12688757437126459584;mv:!1m3!1d12630.534418496678!2d17.08217294734493!3d41.05232164583957!3m2!1i1500!2i806!4f13.1",
+              "text": "PORTAMI LI!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Orari:  sabato\t08:30–13, 16:30–21 domenica\tChiuso lunedì\t08:30–13, 16:30–21 martedì\t08:30–13, 16:30–21 mercoledì\t08:30–13, 16:30–21 giovedì\t08:30–13, 16:30–21 venerdì\t08:30–13, 16:30–21",
+          "title": "Farmacia Dr. Vincenzo Fornari",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003d7z8\u0026q\u003dfarmacie+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41059469,17082678,665\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwjbtMe28ozcAhUNGuwKHeh-CnMQjGoITw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:8456875933062196841;mv:!1m3!1d12630.534418496678!2d17.08217294734493!3d41.05232164583957!3m2!1i1500!2i806!4f13.1",
+              "text": "PORTAMI LI!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "Orari:sabato\t08:27–20 domenica\tChiuso lunedì\t08:27–20 martedì\t08:27–20 mercoledì\t08:27–20 giovedì\t08:27–20 venerdì\t08:27–20",
+          "title": "Farmacia Di Zonno Dr. Nicola",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003d7z8\u0026q\u003dfarmacie+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41059469,17082678,665\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwjbtMe28ozcAhUNGuwKHeh-CnMQjGoITw\u0026tbs\u003dlrf:!2m1!1e3!3sIAE,lf:1,lf_ui:3\u0026rldoc\u003d1#rlfi\u003dhd:;si:10857134464295037789;mv:!1m3!1d12630.534418496678!2d17.08217294734493!3d41.05232164583957!3m2!1i1500!2i806!4f13.1",
+              "text": "PORTAMI LI!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Puoi cercare altre farmacie o darmi un feedback :)",
+          "replies": [
+            "Altre Farmacie",
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMjyiAoQVct2W-0NvbJsRFTCOKc7oYs-DenmaJ2\u003dw408-h304-k-no",
+          "subtitle": "Orari:   sabato\t08:30–13, 16:30–20:30 domenica\tChiuso lunedì\t08:30–13, 16:30–20:30 martedì\t08:30–13, 16:30–20:30 mercoledì\t08:30–13, 16:30–20:30 giovedì\t08:30–13, 16:30–20:30 venerdì\t08:30–13, 16:30–20:30",
+          "title": "Farmacia Mangiolino",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/vYTfGyBeWqMV1xAR6",
+              "text": "PORTAMI LI!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid\u003dmgEd3zJUDBZTa6dC0qz2SA\u0026cb_client\u003dsearch.gws-prod.gps\u0026w\u003d408\u0026h\u003d240\u0026yaw\u003d66.00936\u0026pitch\u003d0\u0026thumbfov\u003d100",
+          "subtitle": "Orari:sabato\t08:27–20 domenica\tChiuso lunedì\t08:27–20 martedì\t08:27–20 mercoledì\t08:27–20 giovedì\t08:27–20 venerdì\t08:27–20",
+          "title": "Farmacia Di Zonno Dr. Nicola",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/545GC4DyPcRDNcXX8",
+              "text": "PORTAMI LI!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Orari:  sabato\t08:30–13, 16:30–21 domenica\tChiuso lunedì\t08:30–13, 16:30–21 martedì\t08:30–13, 16:30–21 mercoledì\t08:30–13, 16:30–21 giovedì\t08:30–13, 16:30–21 venerdì\t08:30–13, 16:30–21",
+          "title": "Farmacia Dr. Vincenzo Fornari",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/1pjG4tuVYgwrnn2n9",
+              "text": "PORTAMI LI!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Puoi cercare altre farmacie utilizzando il bottone sottostante :)",
+          "replies": [
+            "Altre Farmacie"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

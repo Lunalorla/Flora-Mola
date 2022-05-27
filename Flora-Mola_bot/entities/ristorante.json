@@ -1,0 +1,9 @@
+{
+  "id": "4dd72844-0f67-4875-ba94-abbdeea8744e",
+  "name": "ristorante",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

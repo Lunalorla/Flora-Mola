@@ -1,0 +1,213 @@
+[
+  {
+    "id": "db69bfdc-40d8-44d2-99c9-fcf1250a8eb9",
+    "data": [
+      {
+        "text": "eventi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "81492028-5776-407b-b49c-94e1a3609ec8",
+    "data": [
+      {
+        "text": "Che faccio stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "17c9b4e2-01d1-4b20-8f12-6598fa4df53c",
+    "data": [
+      {
+        "text": "Vorrei vedere gli eventi di stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "074644fb-ee32-42af-87a7-efbb15d9507e",
+    "data": [
+      {
+        "text": "Cosa posso fare ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "50870156-cbae-4098-a321-933c67d37bb7",
+    "data": [
+      {
+        "text": "Che eventi ci sono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e5fa19e0-ffea-443f-8353-99c9dcc401d1",
+    "data": [
+      {
+        "text": "E gli eventi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2b21d077-db92-4464-ac75-37522dae12ec",
+    "data": [
+      {
+        "text": "Eventi nel weekend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "276a29c7-cbe9-4277-909c-5e7a2f4383f6",
+    "data": [
+      {
+        "text": "Eventi ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e8b9c707-9106-406e-ad8a-b0203dbf8394",
+    "data": [
+      {
+        "text": "Vorrei gli eventi di ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "userDefined": false
+      },
+      {
+        "text": " a mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1f210c18-7c63-4967-8f4e-ba39f096916b",
+    "data": [
+      {
+        "text": "Cosa posso fare ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5523a17f-512b-461f-983d-4543d1160534",
+    "data": [
+      {
+        "text": "Ci sono eventi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c9ae9f7b-ed0c-4bc5-be8e-a20448138271",
+    "data": [
+      {
+        "text": "Vorrei sapere cosa fare ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " a mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "906d1567-0f60-46ec-ae60-79e17b90622d",
+    "data": [
+      {
+        "text": "Quali eventi ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

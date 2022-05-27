@@ -1,0 +1,298 @@
+[
+  {
+    "id": "0f90223f-2e9b-4785-94e1-be5fb15b9694",
+    "data": [
+      {
+        "text": "dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare la spesa",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      },
+      {
+        "text": "  a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a5b32ea4-b2a3-4a2f-a050-1fde26de3ff2",
+    "data": [
+      {
+        "text": "alimentari",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a96baf04-acba-4718-ae4f-db7190b78283",
+    "data": [
+      {
+        "text": "ho bisogno di ",
+        "userDefined": false
+      },
+      {
+        "text": "fare la spesa",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fbb6fc2e-7e95-4359-9c40-a5f25a5e6afd",
+    "data": [
+      {
+        "text": "Dovrei andare a ",
+        "userDefined": false
+      },
+      {
+        "text": "fare la spesa",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "711496d9-b3f7-4d1b-bdad-206792235e9b",
+    "data": [
+      {
+        "text": "Devo ",
+        "userDefined": false
+      },
+      {
+        "text": "fare la spesa",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2f292711-4157-4205-a335-b54360f516ce",
+    "data": [
+      {
+        "text": "Dove ",
+        "userDefined": false
+      },
+      {
+        "text": "comprare pasta",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9dd9d6b5-85cf-4c67-87c0-796fdc1fe7d9",
+    "data": [
+      {
+        "text": "Dovrei ",
+        "userDefined": false
+      },
+      {
+        "text": "comprare delle cose",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d531270f-ea80-443e-b1eb-b056fefc92b9",
+    "data": [
+      {
+        "text": "Dovrei fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " po\u0027di ",
+        "userDefined": false
+      },
+      {
+        "text": "spesa",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3e09f98e-6f8f-4ab3-a1d8-8aa86ca935ff",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "fare la spesa",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "35a8d390-2cd2-4628-af95-3f50a76c21b8",
+    "data": [
+      {
+        "text": "Dove posso comprare della ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fa623027-cad5-4000-9e4f-8076141c4b95",
+    "data": [
+      {
+        "text": "punto vendita",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "475d255f-d721-4fb8-ac56-30cae4897fbd",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "fare la spesa",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e9f56ee2-c0e9-4480-80d1-b2cf865ffae9",
+    "data": [
+      {
+        "text": "ipermercato",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dcaec181-461c-47b5-95b5-94e55dfcdbe1",
+    "data": [
+      {
+        "text": "Supermercato",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8d99416c-7b88-4e27-8805-5f620b67f455",
+    "data": [
+      {
+        "text": "supermercati",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "de349b77-5f6c-4965-9f75-136d74834cd5",
+    "data": [
+      {
+        "text": "market",
+        "meta": "@Supermercato",
+        "alias": "Supermercato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

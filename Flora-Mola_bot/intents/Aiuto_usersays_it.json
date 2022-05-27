@@ -1,0 +1,145 @@
+[
+  {
+    "id": "83e91c42-4d96-49c7-ab75-57a0f389f266",
+    "data": [
+      {
+        "text": "Aiutami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7af6dc39-9653-4cb4-afd4-2ac4c14f311c",
+    "data": [
+      {
+        "text": "Cosa sai fare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8262f175-3934-4642-8011-bfdd6e4413a4",
+    "data": [
+      {
+        "text": "Cosa puoi cercare per me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "913a3541-817d-46f7-ab62-61b63486f4a7",
+    "data": [
+      {
+        "text": "Dove puoi aiutarmi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "23981514-1fdb-48ee-a1d0-e9af7f5e0012",
+    "data": [
+      {
+        "text": "Quali sono le tue abilità?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b1ccf83-1230-48bf-9b48-623db50a8679",
+    "data": [
+      {
+        "text": "Cosa posso chiederti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5b03788f-2179-41e6-9ef8-568527c6666f",
+    "data": [
+      {
+        "text": "Cosa posso chiederti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fcc7736c-bd98-4f9f-84c9-c6ba6ee3d23f",
+    "data": [
+      {
+        "text": "Aiuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e3a31a84-c3c0-4b0e-8a02-90fb28f4b9fe",
+    "data": [
+      {
+        "text": "Cosa sai fare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6d2a1519-3162-4dda-a3fa-aa104463d7ec",
+    "data": [
+      {
+        "text": "In cosa puoi aiutarmi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a2dd51cf-a3b0-41be-9cd7-57832c1b3afa",
+    "data": [
+      {
+        "text": "Che sai fare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

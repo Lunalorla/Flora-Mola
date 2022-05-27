@@ -1,0 +1,173 @@
+{
+  "id": "792c31ec-55be-4ffc-9ba7-48aceb145389",
+  "name": "PersonaggiIllustri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1e362997-309b-419e-aec7-e90ee69c4eac",
+          "name": "PersonaggiFamosi",
+          "required": false,
+          "dataType": "@PersonaggiFamosi",
+          "value": "$PersonaggiFamosi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Niccol%C3%B2VanWesterhout.jpg",
+          "subtitle": "Niccolò van Westerhout (Mola di Bari, 1857 - Napoli, 1898) Musicista e compositore, nato a Mola da una famiglia di origine fiamminga trasferitasi in Puglia agli inizi del XVIII secolo. Dopo gli studi a Napoli, si affermò come valente compositore. Nonostante la prematura scomparsa, ha lasciato una produzione prolifica; la sua opera più importante è Doña Flor, più volte rappresentata. Le sue spoglie, dopo un impegno costante e duraturo, sono state traslate da Napoli al cimitero comunale di Mola di Bari.",
+          "title": "Niccolò van Westerhout",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Niccol%C3%B2_van_Westerhout",
+              "text": "Dimmi di più"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.citta-nostra.it/wp-content/uploads/2017/02/Bruno-Calvani-1904-1985-218x300.jpg",
+          "subtitle": "Scultore e pittore che operò in l\u0027Italia e Parigi. Dopo gli studi presso l\u0027Istituto fisico-matematico di Bari, si iscrive alla scuola di nudo dell\u0027Accademia di Belle Arti di Roma, dove inizia a frequentare i principali ambienti artistici, stringendo amicizia con importanti pittori del tempo. A partire dal 1932 si intensificano le occasioni per esibire le sue opere: grazie alle esposizioni al Parc des Expositions, al Salon des Tuleries, alla Cameraderie Française ed entra stabilmente nella cerchia artistica nota come école italienne de Paris. Nel 1942 rientra in Italia e prende residenza a Milano, che elegge a sua città d\u0027adozione.",
+          "title": "Bruno Calvani",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Bruno_Calvani",
+              "text": "Dimmi di più"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.emanuelecavalli.org/FotoFotografie/cavalb_martinelli_1960.jpg",
+          "subtitle": "Pittore. Dopo gli studi classici a Firenze, raggiunse Parigi nel 1925, legandosi a Filippo de Pisis e Giorgio De Chirico. Tornato in Italia, si trasferì a Firenze dove ottenne una cattedra all\u0027Accademia di Belle Arti. Accanto all\u0027attività di pittore, che lo vide partecipare a numerose esposizioni (Biennale di Venezia, Quadriennale di Roma), si dedicò attivamente anche all\u0027organizzazione di mostre. Sposò Adriana Pincherle, sorella di Alberto Moravia.",
+          "title": "Onofrio Martinelli",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Onofrio_Martinelli",
+              "text": "Dimmi di più"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Ti ho mostrato tutti i personaggi illustri di Mola.",
+          "replies": [
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Niccol%C3%B2VanWesterhout.jpg",
+          "subtitle": "Niccolò van Westerhout (Mola di Bari, 1857 - Napoli, 1898) Musicista e compositore, nato a Mola da una famiglia di origine fiamminga trasferitasi in Puglia agli inizi del XVIII secolo. Dopo gli studi a Napoli, si affermò come valente compositore. Nonostante la prematura scomparsa, ha lasciato una produzione prolifica; la sua opera più importante è Doña Flor, più volte rappresentata. Le sue spoglie, dopo un impegno costante e duraturo, sono state traslate da Napoli al cimitero comunale di Mola di Bari.",
+          "title": "Niccolò van Westerhout",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Niccol%C3%B2_van_Westerhout",
+              "text": "Dimmi di più"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.citta-nostra.it/wp-content/uploads/2017/02/Bruno-Calvani-1904-1985-218x300.jpg",
+          "subtitle": "Scultore e pittore che operò in l\u0027Italia e Parigi. Dopo gli studi presso l\u0027Istituto fisico-matematico di Bari, si iscrive alla scuola di nudo dell\u0027Accademia di Belle Arti di Roma, dove inizia a frequentare i principali ambienti artistici, stringendo amicizia con importanti pittori del tempo. A partire dal 1932 si intensificano le occasioni per esibire le sue opere: grazie alle esposizioni al Parc des Expositions, al Salon des Tuleries, alla Cameraderie Française ed entra stabilmente nella cerchia artistica nota come école italienne de Paris. Nel 1942 rientra in Italia e prende residenza a Milano, che elegge a sua città d\u0027adozione.",
+          "title": "Bruno Calvani",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Bruno_Calvani",
+              "text": "Dimmi di più"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.emanuelecavalli.org/FotoFotografie/cavalb_martinelli_1960.jpg",
+          "subtitle": "Pittore. Dopo gli studi classici a Firenze, raggiunse Parigi nel 1925, legandosi a Filippo de Pisis e Giorgio De Chirico. Tornato in Italia, si trasferì a Firenze dove ottenne una cattedra all\u0027Accademia di Belle Arti. Accanto all\u0027attività di pittore, che lo vide partecipare a numerose esposizioni (Biennale di Venezia, Quadriennale di Roma), si dedicò attivamente anche all\u0027organizzazione di mostre. Sposò Adriana Pincherle, sorella di Alberto Moravia.",
+          "title": "Onofrio Martinelli",
+          "buttons": [
+            {
+              "postback": "https://it.wikipedia.org/wiki/Onofrio_Martinelli",
+              "text": "Dimmi di più"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Ti ho mostrato tutti i personaggi illustri di Mola. Vuoi cercare altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

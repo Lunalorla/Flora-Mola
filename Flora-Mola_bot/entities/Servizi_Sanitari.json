@@ -1,0 +1,9 @@
+{
+  "id": "d9d87151-30ac-4c62-97ca-97d9cf1d2f52",
+  "name": "Servizi_Sanitari",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

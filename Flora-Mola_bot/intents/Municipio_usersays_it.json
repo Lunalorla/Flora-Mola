@@ -1,0 +1,188 @@
+[
+  {
+    "id": "b53e436a-eff9-456e-9544-078e090fb13c",
+    "data": [
+      {
+        "text": "Esiste il ",
+        "userDefined": false
+      },
+      {
+        "text": "comune",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": false
+      },
+      {
+        "text": " qui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5703779e-b16f-451a-9e9f-919fe02e8e93",
+    "data": [
+      {
+        "text": "Sindaco",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": true
+      },
+      {
+        "text": " colonna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "17016c5c-39ab-4f87-947d-ad17d5a97a86",
+    "data": [
+      {
+        "text": "sindaco",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": true
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "30aea9f2-ad9d-49df-b8ae-393391db95cd",
+    "data": [
+      {
+        "text": "Municipio",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "56c7de4e-33e9-47b9-8e29-f66da3bba0fd",
+    "data": [
+      {
+        "text": "Sindaco",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "37fe1f39-d21f-4b47-bc36-7860a6accbdb",
+    "data": [
+      {
+        "text": "giunta comunale",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "006f40a9-c219-4204-a6ba-7f1bd166a06e",
+    "data": [
+      {
+        "text": "Dov è il ",
+        "userDefined": false
+      },
+      {
+        "text": "comune",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "25117d4e-c045-4fe0-9990-4027e06e938b",
+    "data": [
+      {
+        "text": "Va bene, ci vediamo al ",
+        "userDefined": false
+      },
+      {
+        "text": "municipio",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": false
+      },
+      {
+        "text": ", ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "106c9e56-f809-4b74-83b4-157d7ce0c976",
+    "data": [
+      {
+        "text": "Comune",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": false
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d03cf1f4-12f8-483e-9e92-5fdb85c9763a",
+    "data": [
+      {
+        "text": "Palazzo di città",
+        "meta": "@Comune",
+        "alias": "Comune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

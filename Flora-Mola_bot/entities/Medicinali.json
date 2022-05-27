@@ -1,0 +1,9 @@
+{
+  "id": "828ba093-2bc6-42cf-a1cf-a400e0ee6ab7",
+  "name": "Medicinali",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

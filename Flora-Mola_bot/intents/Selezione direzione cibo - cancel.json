@@ -1,0 +1,75 @@
+{
+  "id": "02f9c67d-0bff-4b44-b7b7-54c2e934bb64",
+  "parentId": "6e752daf-026d-42e9-8d94-32b429bb2da4",
+  "rootParentId": "6e752daf-026d-42e9-8d94-32b429bb2da4",
+  "name": "Selezione direzione cibo - cancel",
+  "auto": true,
+  "contexts": [
+    "Mangiare",
+    "Selezionedirezionecibo-followup",
+    "Selezionedirezione-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Selezionedirezionecibo.Selezionedirezionecibo-cancel",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c3e3dbbb-f910-425d-b5f3-a0b3ea97dfa1",
+          "name": "negazione",
+          "required": false,
+          "dataType": "@negazione",
+          "value": "$negazione",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Certo, fammi sapere se hai bisogno di aiuto!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

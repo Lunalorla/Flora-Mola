@@ -1,0 +1,65 @@
+[
+  {
+    "id": "c436788a-a16a-475c-a375-53a4bead0047",
+    "data": [
+      {
+        "text": "Quali ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi",
+        "meta": "@Servizi",
+        "alias": "servizi",
+        "userDefined": false
+      },
+      {
+        "text": " posso trovare a ",
+        "userDefined": false
+      },
+      {
+        "text": "mola di bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0b1adc1e-8cb0-4100-838a-68fe5cf27273",
+    "data": [
+      {
+        "text": "Servizio",
+        "meta": "@Servizi",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "24ced0e7-e454-4247-a227-7dd8331ea75f",
+    "data": [
+      {
+        "text": "Servizi",
+        "meta": "@Servizi",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

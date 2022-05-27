@@ -1,0 +1,9 @@
+{
+  "id": "9df59faf-e4cd-4b3e-87ee-a3ddb16fc252",
+  "name": "Stazione",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

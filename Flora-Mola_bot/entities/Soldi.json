@@ -1,0 +1,9 @@
+{
+  "id": "a1b6b436-c037-4054-b32f-d8e271135f49",
+  "name": "Soldi",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,171 @@
+{
+  "id": "12e83770-0365-4e7e-a2b0-9032725e0306",
+  "parentId": "2c1784ca-47d1-43a6-85b5-a28c02e78560",
+  "rootParentId": "2c1784ca-47d1-43a6-85b5-a28c02e78560",
+  "name": "Supermercato - next",
+  "auto": true,
+  "contexts": [
+    "Supermercato-followup",
+    "riuso"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Supermercato.Supermercato-next",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "no_riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.wir-essen-gesund.de/wp-content/uploads/2017/01/LIDL.jpg",
+          "subtitle": "ORARI :sabato\t08–20:30 domenica\t09–21 lunedì\t08–20:30 martedì\t08–20:30 mercoledì\t08–20:30 giovedì\t08–20:30 venerdì\t08–20:30",
+          "title": "Lidl",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dsdn\u0026q\u003dsupermercati+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41058905,17081495,584\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwjAxIPB6IzcAhUNsqQKHe53DVkQtgMIKg\u0026tbs\u003dlrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:10\u0026rldoc\u003d1#rlfi\u003dhd:;si:11830756728906511671;mv:!1m3!1d5296.189312216761!2d17.087470449999998!3d41.058361049999995!2m3!1f0!2f0!3f0!3m2!1i604!2i338!4f13.1",
+              "text": "PORTAMI Li\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABfVBMVEX//////f////7///z8/Pz9AAD8//8AAAD///v3+Pjq6ur+AABuAAD//f38/v///vs+AACoqKj3AABDAADv7++BgYHLy8uTAADm5uZqAADf39+LAAB0AABNAADR0dFTU1NJSUl8AACaAABdAACxsbF3d3enAAA3AAC5AACcnJxJAACfAAC7u7tZAABSAAB6AABiYmLyBgZBQUFZWVmQkJBUIiJybm3CtbfYDg/mDwsvAADHFBLjDg4lJSWPWFk5OTmUgoOUDBKoDxOnk43ZyMdgOzzSFBNgHh5hMzG2q6dGEA6xAABQKSTIwbm+DxPm2NZQQEFvS0iFameBXWDAo6mcfXPOurx1QUFAHRyegoX87POddHXp1N9uIx2ueHbZv7rCkpprWFDQ1s+JRkVzLSnDo5siAAAvKiHNzNd/cXNtFResc3IZGRllT005Mzo2HyD55d01FQCnGR1DKywLExeQaGiaW1i+HiOIeHdnODkXAAPAkI6caWlrKSxWSEkN9jC+AAANxElEQVR4nO2Z+X/aRhbARwcywhYyIIMAmxtsbGwjcDAK8k2UuG4gsb2kJvfR7DppNt1e6SZN//Z9bwY3aZvtbhP9sPv5vK+HazyM3pt3zQjGCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgiP8n1I8Yrf6uJziCm08VDzVoCf/TVXVLV21btTMROwckk7lGI9moNJI5iw9QA9Px/XnsZCVWicXq8Aw0YjFsFWyVSh3/8+tWb2BvvR7DtgGtXt/YiG1swPPGxtycaL+nWoVWrTY71Xa72s43m/lCIb+zg895eGp1YhaKFZSO3IR8plizXWi14BJ4xR1orfxOq90u5AutfL5VaO1gy2ODQTvtfKvdLORhLEjY6eSb1Xaz2mzOVdtzc83qRrVa36jW63OoPS4TGgdslIT2Hmg5Dn/JZHjLNdpzkUC9XuUKxlpbdTtjR6yIbUUAO/IL7719hyUe2CzRODo0/eJFB1RofzIC1Fy+wQMnMA3RhnNTDfXi40fM8InjVfYud+Fr/atMcCryiazmlPUu2aDKhqEaqorLj+ji70IK0aWq76cnLpqqfySWPpGE8YvkdnIfXImPQ1Fkfa4V4dNJzIgM7w/f3L735t5Pb+5t/wTt+fb2ve3H29tvXzR5dCjm4fe3fnj+ePveT6cHMcas4XCY0ZnGZHV4e21hYWEN2/LCQmJhYTmxnEgs4/NsYnl2Fl9msfGHYHERHtBOLbz8hEw+GYxyXKdwOFzfyqGmcIHI5pXl8nyxmIXGSaVSpVJpZaVUSiXaFi6BfP3aeqqGHamZ17uZ5MnC2tpiXQ8z83B2/ajnA90evvT8breLjwk+p+t5/BN/xvfwgNZbPTEkSYoKwyW3grOhyszwo1YF3skK0/vfl1MDLtjglcD3ENd1/f23Ob7KkfOijx0g1t6lze10dtDr7a/tRsYHC/tdN+7E447r93q9waDXdeFTPB4KxZ3u0tERdPmuE5rgdmEJvDi+nZ6edl9dGjGDKUKrWCHDgqqHUSbr1Sp4iKaZ5sHbVNdx4g6IWCrOA8XigMsIUvfKB7qmRSXpcHUgBI+7xW/LWb4E3cHCj2flgefEQ9DvHa3PzKTT8PWli297K6tXHz9LPyl2Ha5TKO4urc/Mz6c88Xna6WY7TFPCMqqlz8VE7glCR9lg9R2bSZKmsYNyzXP4gtbK26ebwGl5xQmhCHEvdR5hUQ1C5NYKLvz0dCjk1LLfvNrPwkpk9/drtZ6L0k7H3aO3X14fjUb3v1zzJxbzVrZH/f5o9LzcxTWAUW7tycFotPlDtuvgVGDlWocp4bCJQiULPAyDsaEBeSsDCkoa210bcB+KO0s3+zb/7/0y2hAFGqxu4i",
+          "subtitle": "ORARI :  sabato\t08–13:30, 16:30–20:30 domenica\t08:30–13:30 lunedì\t08–13:30, 16:30–20:30 martedì\t08–13:30, 16:30–20:30 mercoledì\t08–13:30, 16:30–20:30 giovedì\t08–13:30, 16:30–20:30 venerdì\t08–13:30, 16:30–20:30",
+          "title": "Argo Srl",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026q\u003dsupermercati+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41058905,17081495,584\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiw66qN44zcAhXG16QKHSa6BzMQjGoIYQ\u0026tbs\u003dlrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:10\u0026rldoc\u003d1#rlfi\u003dhd:;si:16470628823223232426;mv:!1m3!1d5296.189312216761!2d17.087470449999998!3d41.058361049999995!2m3!1f0!2f0!3f0!3m2!1i604!2i338!4f13.1",
+              "text": "PORTAMI Li\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.canale8news.it/wp-content/uploads/2015/09/SUPERMERCATO-ROSS.jpg",
+          "subtitle": "ORARI :sabato\t08–21 domenica\t08:30–13 lunedì\t08–21 martedì\t08–21 mercoledì\t08–21 giovedì\t08–21 venerdì\t08–21",
+          "title": "Epica S.r.l.",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026hs\u003dsdn\u0026q\u003dsupermercati+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41058905,17081495,584\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwjAxIPB6IzcAhUNsqQKHe53DVkQtgMIKg\u0026tbs\u003dlrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:10\u0026rldoc\u003d1#rlfi\u003dhd:;si:7605819125888894290;mv:!1m3!1d5296.189312216761!2d17.087470449999998!3d41.058361049999995!2m3!1f0!2f0!3f0!3m2!1i604!2i338!4f13.1",
+              "text": "PORTAMI Li\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono i principali supermercati presenti a Mola di Bari,premi il pulsante qui sotto per ringraziarmi e proseguire.",
+          "replies": [
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.wir-essen-gesund.de/wp-content/uploads/2017/01/LIDL.jpg",
+          "subtitle": "ORARI: sabato 08–20:30 domenica 09–21 lunedì 08–20:30 martedì 08–20:30 mercoledì 08–20:30 giovedì 08–20:30 venerdì 08–20:30",
+          "title": "Lidl",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/ArcY961oJpNdxBbG7",
+              "text": "PORTAMI Li\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.canale8news.it/wp-content/uploads/2015/09/SUPERMERCATO-ROSS.jpg",
+          "subtitle": "ORARI : martedì 08–13:30 16:30–20:30  mercoledì 08–13:30 16:30–20:30  giovedì 08–13:30 16:30–20:30  venerdì 08–13:30 16:30–20:30  sabato 08–13:30 16:30–20:30  domenica 08:30–13  lunedì 08–13:30 16:30–20:30",
+          "title": "Supermercato Dok",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/gKEYM8S6MTqge3REA",
+              "text": "PORTAMI Li\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABPCAMAAADmzqp4AAAAq1BMVEX///8lT5vCABa9AADAAAAhTZocSpkYSJgAOJIAPJMAP5UQRZcJQ5YAQZVgeK/CABL5+vx+kLzBAAr9+flHZqY8XqJtgrTz9Pj67/Dn6vKptNHi5e8vVZ6jr87W2+g4WqCGl8DN1OTkq63Uc3b14OHpu73NW13HP0PFLTKzvNXw0tPYhYfrxcbfnJ7JRkq/x9zRZmoAK42Vo8fCFx/ckJMAMY/LUFPGNztTbqpN0XrPAAAEX0lEQVRoge2aa3eiMBCGEyBcBESsYrW61dp2q725vfr/f9lyUUkyEyoS9ew5O98aUh/JZeadGQn5b3vZcBS328l09Ouk1FnP9R3bdpyg5SazY1FuLqSB2LXpzhy3x5M7I13YuSn+3en5VDDmJdzTz1gPdmXeigN9h8rmjzu7x7M/CdFgK/NOHGj7AEupvS4nxK4G8L05FwcWHoKltLXYzRiEQbsp9sV6EAcGPkO5NoeaBP6aNLHL35YlbW6MrXLG5dfWZ05v0AD7bVkf4tCwhWOpy9+lt4A2AF++W11plclU8brugp81DNMFoAeCb42uYS6lQRfHtibitLadgYcHYaOuYa2kwVd8mX3ZVYyCbMvZ1QFYs2tEssfI3wMa47xGYb+CfLxVG7w0I8OwHqXRgY1eotYr+P9iIvNqhqsnK8VG1qU0PEOXmY3hB/SLL8jCWsHqKXtbw5rL4/hp9ifwE3Yb4sK1UNpNjjXA7pI1uswusovxLnaIN2wPbPdLfjAI8O2VT5XApd6eAfnZNHKT41B6ShW3F+EmXKz0kH2A9rHBRpGsMlJ/jx4rH+H2+JXx3n7GPm6wyKniF0/YX8QviRfOm+6NNcwn8BA/VjSAJ2cWilO8H7TPfIeNIvnyEqKIRawPZoKVaVVKkJW1xRrdF/C084lzqSff0SEUB1Xg+xJrWM/g8ZXiOFPGpJCHuXGl9rl44bDY9uJeMjO7L4CnITbJXyPnPsV+81jDhNu7QK9RAWZlAOjEiu/n9BDw5YOAjSw4ZaLQGvlSt+KCPByNldOcPpAgqabhsYiTTFUTfn23HxrQdpxc+7gv3cwZS+BM0wgGQi9Ruo3SbNtmFdRsBhN8TKZpJC48ziRBxUY9YzYXvJYAa5g3kIuLnLpgZ3cCl0XcE7nwGom+/nCwuwXLe5tzZQFLdtqlMZgVH3dnQiyiNbRxtync3MK40G2Qa01cpwhOX8gyH5W7SR3P9b7n2l9iwGt0ivN8tvtLll3or4CITeWVZn91Uv/sCMkFjEcfkBv/xK0dj5D4ew+50+r4G6bxtz2uF3/PpjegvgJZClmoufvpqz4u7EQ9CS+worhBm+nJ1L6q9bMqHaRMLhnV0s9EzBegsBs0yRfCykSljBHRO4wMivfdJz+qxvKJGeIpFQ46bJ4PVue/CoelI/8twdE7zPfRi6Qn3+fqG2ChZ3jJW099IwPncdECrnKgKLXrqeeU9StwovEIrKt+lUmfvF4HciQ8Qwp01euU9UncU1bWJ2tht/VYOQgPHXShgb8q67G1e3h5/Rm8MC51NNafN/V22Xcs0Eijs95egEE0VIQGjf2Fop/yLY2pcn7YT3EO7acU/SMpDF8pXJbUP/JxTbM3GPbLEsULC/0yp1m/LNc+UudqqNCLWvuDBOmHTnCVxfdDg7BxPzQDSynLGltpu1dO0NL/hf3uzjV0Hkfod8P+/qB/kv4+/D1DJ3G5w3W03zMgdprfb2B2nt+r/LP2FxW0U/V+VEkCAAAAAElFTkSuQmCC",
+          "subtitle": "ORARI :martedì 08:30–20:30  mercoledì 08:30–20:30  giovedì 08:30–20:30  venerdì 08:30–20:30  sabato 08:30–20:30  domenica 09–13  lunedì 08:30–20:30",
+          "title": "Carrefour Market",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Zh7cXFwCeLW5F3fD7",
+              "text": "PORTAMI Li\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono i principali supermercati presenti a Mola di Bari. Ti serve altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

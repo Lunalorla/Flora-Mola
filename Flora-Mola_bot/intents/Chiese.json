@@ -1,0 +1,126 @@
+{
+  "id": "a97b23dc-ae7b-43e0-b166-6790a0bcfc71",
+  "name": "Chiese",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "84911ae6-e20e-4530-9d5f-f5d165d2a5f0",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4dcd29c3-ad5b-437c-8713-1797845688e1",
+          "name": "Chiesa",
+          "required": false,
+          "dataType": "@Chiesa",
+          "value": "$Chiesa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/10/f0/4c/cc/chiesa-matrice.jpg",
+          "title": "CHIESA MATRICE",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/2KMqcjWUZTT2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://telegra.ph/Chiesa-Matrice-09-12",
+              "text": "VOGLIO SAPERNE DI PIÙ ℹ️"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/39/df/6a/la-stupenda-facciata.jpg?w\u003d1100\u0026h\u003d-1\u0026s\u003d1",
+          "title": "Parrocchia Santa Maria Maddalena",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/A5CVTcutP3HTKjoz9",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i1.trekearth.com/photos/6754/loreto_resized.jpg",
+          "title": "Chiesa parrocchiale di S.Maria di Loreto",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/dHcn6vNY8V187VvF9",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Eccoti alcune delle chiese e parrocchie di Mola! Se hai altro da chiedermi, sono qui.",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

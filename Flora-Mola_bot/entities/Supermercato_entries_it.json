@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Fare la spesa",
+    "synonyms": [
+      "Fare la spesa"
+    ]
+  },
+  {
+    "value": "Supermercati",
+    "synonyms": [
+      "Supermarket",
+      "Supermercati",
+      "Supermercato",
+      "market",
+      "negozio di alimentari",
+      "punto vendita"
+    ]
+  },
+  {
+    "value": "pasta",
+    "synonyms": [
+      "alimentari",
+      "mozzarella",
+      "pasta",
+      "pomodori",
+      "surgelati"
+    ]
+  }
+]

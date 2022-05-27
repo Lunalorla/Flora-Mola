@@ -1,0 +1,9 @@
+{
+  "id": "150deee3-381a-46c8-ac80-365a51bda677",
+  "name": "Parco",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,179 @@
+{
+  "id": "2c1784ca-47d1-43a6-85b5-a28c02e78560",
+  "name": "Supermercato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "Supermercato-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "no_riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d65aa5ac-2c46-40ad-958c-0842adf92f68",
+          "name": "Supermercato",
+          "required": false,
+          "dataType": "@Supermercato",
+          "value": "$Supermercato",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.materdominivolley.it/public/pagine/Partners/imagross.png",
+          "subtitle": "ORARI: sabato\t08–13:30, 16:15–20:45 domenica\t08–13 lunedì\t08–13:30, 16:15–20:45 martedì\t08–13:30, 16:15–20:45 mercoledì\t08–13:30, 16:15–20:45 giovedì\t08–13:30, 16:15–20:45 venerdì\t08–13:30, 16:15–20:45",
+          "title": "Supermercato Imagross 7",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026q\u003dsupermercati+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41058905,17081495,584\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiw66qN44zcAhXG16QKHSa6BzMQjGoIYQ\u0026tbs\u003dlrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:10\u0026rldoc\u003d1#rlfi\u003dhd:;si:17126748967642839672;mv:!1m3!1d5296.189312216761!2d17.087470449999998!3d41.058361049999995!2m3!1f0!2f0!3f0!3m2!1i604!2i338!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.materdominivolley.it/public/pagine/Partners/imagross.png",
+          "subtitle": "ORARI:  sabato\t08–13:30, 16:15–20:30 domenica\tChiuso lunedì\t08–13:30, 16:15–20:30 martedì\t08–13:30, 16:15–20:30 mercoledì\t08–13:30, 16:15–20:30 giovedì\t08–13:30, 16:15–20:30 venerdì\t08–13:30, 16:15–20:30",
+          "title": "Supermercato Imagross 13",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026q\u003dsupermercati+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41058905,17081495,584\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiw66qN44zcAhXG16QKHSa6BzMQjGoIYQ\u0026tbs\u003dlrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:10\u0026rldoc\u003d1#rlfi\u003dhd:;si:3077840569039467566;mv:!1m3!1d5296.189312216761!2d17.087470449999998!3d41.058361049999995!2m3!1f0!2f0!3f0!3m2!1i604!2i338!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.gdoweek.it/wp-content/uploads/sites/7/2014/10/Sigma_logo_free.jpg",
+          "subtitle": "ORARI:  sabato\t08–13:30, 17–20:30 domenica\t09–13 lunedì\t08–13:30, 17–20:30 martedì\t08–13:30, 17–20:30 mercoledì\t08–13:30, 17–20:30 giovedì\t08–13:30, 17–20:30 venerdì\t08–13:30, 17–20:30",
+          "title": "Sigma Tatò Paride S.P.A.",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/search?client\u003dubuntu\u0026q\u003dsupermercati+mola+di+bari\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d0\u0026rllag\u003d41058905,17081495,584\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiw66qN44zcAhXG16QKHSa6BzMQjGoIYQ\u0026tbs\u003dlrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:10\u0026rldoc\u003d1#rlfi\u003dhd:;si:,41.06231489217832,17.068801310467506;mv:!1m3!1d5296.189312216761!2d17.087470449999998!3d41.058361049999995!2m3!1f0!2f0!3f0!3m2!1i604!2i338!4f13.1",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Puoi cercare \"Altri Supermercati\" o ringraziarmi",
+          "replies": [
+            "Altri supermercati",
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.materdominivolley.it/public/pagine/Partners/imagross.png",
+          "subtitle": "ORARI: sabato\t08–13:30, 16:15–20:45 domenica\t08–13 lunedì\t08–13:30, 16:15–20:45 martedì\t08–13:30, 16:15–20:45 mercoledì\t08–13:30, 16:15–20:45 giovedì\t08–13:30, 16:15–20:45 venerdì\t08–13:30, 16:15–20:45",
+          "title": "Supermercato Imagross 7",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/AzjTh4QSxzRNpsS67",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "http://www.materdominivolley.it/public/pagine/Partners/imagross.png",
+          "subtitle": "ORARI:  sabato\t08–13:30, 16:15–20:30 domenica\tChiuso lunedì\t08–13:30, 16:15–20:30 martedì\t08–13:30, 16:15–20:30 mercoledì\t08–13:30, 16:15–20:30 giovedì\t08–13:30, 16:15–20:30 venerdì\t08–13:30, 16:15–20:30",
+          "title": "Supermercato Imagross 13",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Fs5eeQiJH8opjrfh7",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.gdoweek.it/wp-content/uploads/sites/7/2014/10/Sigma_logo_free.jpg",
+          "subtitle": "ORARI:  sabato\t08–13:30, 17–20:30 domenica\t09–13 lunedì\t08–13:30, 17–20:30 martedì\t08–13:30, 17–20:30 mercoledì\t08–13:30, 17–20:30 giovedì\t08–13:30, 17–20:30 venerdì\t08–13:30, 17–20:30",
+          "title": "Sigma Tatò Paride S.P.A.",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/gWNnrYxQg7w5qQU76",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Puoi cercare \"Altri Supermercati\" o chiedermi qualsiasi cosa tu voglia!",
+          "replies": [
+            "Altri supermercati"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

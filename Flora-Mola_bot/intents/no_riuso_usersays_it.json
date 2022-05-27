@@ -1,0 +1,556 @@
+[
+  {
+    "id": "4eb4fb3c-f61b-42b1-ac10-6a4c89fffc07",
+    "data": [
+      {
+        "text": "Addio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "189484bb-18fd-4383-bc56-42731339883d",
+    "data": [
+      {
+        "text": "Vabbè va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "167b2dbc-65a9-4e74-a490-ecf826691eed",
+    "data": [
+      {
+        "text": "Io ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "77241c2e-85dd-4667-a01d-d6a3fd9e5c51",
+    "data": [
+      {
+        "text": "Nope",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "007ea463-8206-42a1-be1b-d1bc8ef722a3",
+    "data": [
+      {
+        "text": "Nono",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "59dbed04-c715-4d6a-a1a3-22ab737d7335",
+    "data": [
+      {
+        "text": "Non",
+        "userDefined": false
+      },
+      {
+        "text": " ringrazio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "062fe825-e116-4def-a915-13a67e3ccb57",
+    "data": [
+      {
+        "text": "fine",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0f8d2bd7-cc28-4136-8b79-f98f8ba1e6c8",
+    "data": [
+      {
+        "text": "Hai sbagliato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b34f8b92-8961-4ecf-8315-3778c6b34138",
+    "data": [
+      {
+        "text": "Ci si vede",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fd22495e-912f-4061-8a57-efc0bb493316",
+    "data": [
+      {
+        "text": "Non",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " ti ringrazieró mai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d8b089f9-cfed-42b3-a583-e730be9ed953",
+    "data": [
+      {
+        "text": "Per niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "acda868a-dc33-4d95-ab61-3c18c7ba53c9",
+    "data": [
+      {
+        "text": "Sbagli",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ce7a869a-2dfb-4b87-9fbb-b8a75e79098e",
+    "data": [
+      {
+        "text": "Sarà per la prossima volta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "211cc0c7-3590-4feb-918f-2a92512e69d2",
+    "data": [
+      {
+        "text": "Se ",
+        "userDefined": false
+      },
+      {
+        "text": "vabbe",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f0c3a08d-5b02-4bb1-ba01-8b05bc3c39ef",
+    "data": [
+      {
+        "text": "Ancora?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "67cc1fd6-9cc6-44f7-aa59-644a5f4d5c51",
+    "data": [
+      {
+        "text": "Basta così",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "436407d4-de9e-4941-bbec-a2e3ccf00c46",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " grazie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a1e5f421-82aa-455d-adab-fca9d7f55ead",
+    "data": [
+      {
+        "text": "☹",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0a03e2e0-5567-4880-884e-6566b9c23932",
+    "data": [
+      {
+        "text": "bho",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "44f3e3a5-9dbd-4e86-848c-18aca833a89d",
+    "data": [
+      {
+        "text": "No",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "niente",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "01870e7e-1bfd-4012-9c13-5981417a29f4",
+    "data": [
+      {
+        "text": "Bhe avast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2509e241-1bb9-4278-b5c1-f6c0710fbfa2",
+    "data": [
+      {
+        "text": "No",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "790f435b-10da-40cd-850d-efb690dd1e0f",
+    "data": [
+      {
+        "text": "Nessuna",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      },
+      {
+        "text": " delle due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f415e05f-66a5-4752-b1f8-0a86b9697977",
+    "data": [
+      {
+        "text": "forse",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "160eba00-8c25-489f-860c-b7bbb2bf7994",
+    "data": [
+      {
+        "text": "Nessuna delle due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "37691bf6-d5ef-4922-98cc-44042f3bf4be",
+    "data": [
+      {
+        "text": "Ma ",
+        "userDefined": false
+      },
+      {
+        "text": "non",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " voglio disturbarti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "135f6854-ea42-4e15-b489-c41826e7ad0b",
+    "data": [
+      {
+        "text": "Nono",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b55653d6-c5ac-40c5-9d17-b876aa0d225b",
+    "data": [
+      {
+        "text": "Non",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " voglio ringraziarti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "004b5918-5956-42de-8505-f8bed958fa3e",
+    "data": [
+      {
+        "text": "non",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "25453ef2-d750-4ba3-80ee-a9b81bb4d96f",
+    "data": [
+      {
+        "text": "Ehm no",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "99bfe80e-cf51-452b-ae84-bb4dce601d63",
+    "data": [
+      {
+        "text": "Non",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " me lo ricordo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6f4afd84-c876-448e-b429-c4cf467b4de3",
+    "data": [
+      {
+        "text": "Basta",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fe1f7140-6d28-428a-8cb5-544b93210f02",
+    "data": [
+      {
+        "text": "No",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      },
+      {
+        "text": " per niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f5dc9f0b-e189-4c90-89d4-dde6fa9fc148",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@negazione",
+        "alias": "negazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

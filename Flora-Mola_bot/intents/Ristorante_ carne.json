@@ -1,0 +1,197 @@
+{
+  "id": "ee087d9b-cb9f-4fcc-9d68-43ca8a0b831b",
+  "name": "Ristorante_ carne",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "Ristorante_carne-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "30d4db45-4b3b-456a-a5ef-19e97d9600ec",
+          "name": "Carne",
+          "required": false,
+          "dataType": "@Carne",
+          "value": "$Carne",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0b/9f/dd/cb/imag1589-largejpg.jpg",
+          "subtitle": "Atmosfera di altri tempi con vista sul porto: un luogo dove gustare i sapori del mare e della terra della Puglia .",
+          "title": "Il Galeone",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Il+Galeone/@41.0624159,17.0932959,15z/data\u003d!4m2!3m1!1s0x0:0x429e87c735d8e92b?sa\u003dX\u0026ved\u003d0ahUKEwjGua6n1IrcAhUDuxQKHY9IDkMQ_BIIdDAK",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3244425-Reviews-Il_Galeone-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/21557863_466057393793298_3268348365720615142_n.jpg?_nc_cat\u003d0\u0026oh\u003dc60cae09c646f48abbdf45ea595cbd3e\u0026oe\u003d5BD46DDF",
+          "subtitle": "Macelleria con annessa braceria dove degustare carne di buona qualità, degustato straccetti, salsiccia, polpette, straccetti e tartare di manzo. Ottimo rapporto qualità prezzo",
+          "title": "Braceria Steakhouse Cisternino",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Macelleria+Braceria+Steakhouse+Cisternino/@41.063555,17.07798,15z/data\u003d!4m2!3m1!1s0x0:0xe049232c5bd88adb?sa\u003dX\u0026ved\u003d0ahUKEwiiqp6C1IrcAhXFVxQKHQ7TCugQ_BIInAEwCg",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1411748-d1903956-Reviews-Braceria_Macelleria-Casalini_di_Cisternino_Province_of_Brindisi_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://img1.afabuloustrip.com/img/sud/en/gl/f/ministero-della-brace-di-anna-cristino-213877.jpg",
+          "subtitle": "Grande cura nella selezione delle materie prime, accostamenti molto ben pensati, anche i profumi sono inebrianti. Piatti con un occhio a quelli della tradizione molese, in ultimo degli ottimi liquori fatti in casa.",
+          "title": "Ministero Della Brace",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Ministero+Della+Brace+Di+Anna+Cristino/@41.0620729,17.0919692,15z/data\u003d!4m5!3m4!1s0x0:0x8c6f34b19978d741!8m2!3d41.0620729!4d17.0919692",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d2179669-Reviews-Ministero_della_Brace-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Puoi vedere altri ristoranti che cucinano carne o se hai già scelto pui ringraziarmi.",
+          "replies": [
+            "Altri ristoranti car",
+            "Grazie 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0b/9f/dd/cb/imag1589-largejpg.jpg",
+          "subtitle": "Atmosfera di altri tempi con vista sul porto: un luogo dove gustare i sapori del mare e della terra della Puglia .",
+          "title": "Il Galeone",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Il+Galeone/@41.0624159,17.0932959,15z/data\u003d!4m2!3m1!1s0x0:0x429e87c735d8e92b?sa\u003dX\u0026ved\u003d0ahUKEwjGua6n1IrcAhUDuxQKHY9IDkMQ_BIIdDAK",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d3244425-Reviews-Il_Galeone-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Macelleria con annessa braceria dove degustare carne di buona qualità, degustato straccetti, salsiccia, polpette, straccetti e tartare di manzo. Ottimo rapporto qualità prezzo.",
+          "title": "Braceria Steakhouse Cisternino",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Macelleria+Braceria+Steakhouse+Cisternino/@41.063555,17.07798,15z/data\u003d!4m2!3m1!1s0x0:0xe049232c5bd88adb?sa\u003dX\u0026ved\u003d0ahUKEwiiqp6C1IrcAhXFVxQKHQ7TCugQ_BIInAEwCg",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1411748-d1903956-Reviews-Braceria_Macelleria-Casalini_di_Cisternino_Province_of_Brindisi_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Grande cura nella selezione delle materie prime, accostamenti molto ben pensati, anche i profumi sono inebrianti. Piatti con un occhio a quelli della tradizione molese, in ultimo degli ottimi liquori fatti in casa.",
+          "title": "Ministero Della Brace",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/place/Ministero+Della+Brace+Di+Anna+Cristino/@41.0620729,17.0919692,15z/data\u003d!4m5!3m4!1s0x0:0x8c6f34b19978d741!8m2!3d41.0620729!4d17.0919692",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d2179669-Reviews-Ministero_della_Brace-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Puoi vedere altri ristoranti che cucinano carne.",
+          "replies": [
+            "Altri ristoranti 🍗"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

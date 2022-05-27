@@ -1,0 +1,230 @@
+{
+  "id": "ca8b52f4-ed87-483c-ad1f-1bf76b2a097a",
+  "name": "B\u0026B",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "BB-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aede4a0a-8426-46f2-b354-23884bc74947",
+          "name": "BeB",
+          "required": true,
+          "dataType": "@BeB",
+          "value": "$BeB",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2c4f28ae-4f9b-412b-bc65-270f0a07d8c7",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5a530771-8074-456a-ac07-e10f1b293df4",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://exp.cdn-hotels.com/hotels/24000000/23520000/23517400/23517348/5fcd48ac_z.jpg",
+          "subtitle": "Vicino i luoghi più rinomati e seducenti della Puglia, a soli 35 Km dall\u0027 Aeroporto di Bari, in un palazzo del 900 interamente ristrutturato, sorge il B\u0026B Terra di Puglia. In una breve passeggiata raggiungerai il suggestivo lungomare e l\u0027affascinante Castello Angioino. La tua vacanza in Puglia comincia con il mare limpido e invitante della città.",
+          "title": "B\u0026B TERRA DI PUGLIA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/McvU3DibZKF2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.terradipugliabeb.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://bebleterrazzemoladibari.files.wordpress.com/2017/09/stanza-mare-bb-le-terrazze-mola-di-bari.jpeg?w\u003d1500\u0026h\u003d",
+          "subtitle": "Il tuo soggiorno nel B\u0026B Le Terrazze a Mola di Bari, ti regalerà gustosi risvegli da assaporare con gli occhi e col palato! Sorge tra le antiche mura del centro storico di Mola di Bari: le terrazze affacciate sul caratteristico porto cittadino ti faranno innamorare dell’eccezionale vista mare.",
+          "title": "B\u0026B LE TERRAZZE",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/8qirsvAiqBG2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://bebleterrazzemoladibari.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.bbmolasandomenico.it/wp-content/uploads/2017/09/DSCF0811.jpg",
+          "subtitle": "Antica abitazione recentemente ristrutturata, nel centro storico di Mola di Bari, ubicata nella  monumentale villa comunale “a San Domenico” prende il nome dalla omonima chiesa convento adiacente. L’azienda agricola proprietaria, offre prodotti tipici, olio extravergine di oliva, frutta di stagione, visite e percorsi nella tenuta di campagna.",
+          "title": "B\u0026B A SAN DOMENICO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/z2UvPHhHjYM2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.bbmolasandomenico.it/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Premi il pulsante sotto per vedere altri B\u0026B o ringraziarmi.",
+          "replies": [
+            "Altri B\u0026B",
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://terradipugliabeb.com/images/20151211083714.jpg",
+          "subtitle": "Vicino i luoghi più rinomati e seducenti della Puglia, a soli 35 Km dall\u0027 Aeroporto di Bari, in un palazzo del 900 interamente ristrutturato, sorge il B\u0026B Terra di Puglia. In una breve passeggiata raggiungerai il suggestivo lungomare e l\u0027affascinante Castello Angioino. La tua vacanza in Puglia comincia con il mare limpido e invitante della città.",
+          "title": "B\u0026B TERRA DI PUGLIA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/McvU3DibZKF2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.terradipugliabeb.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh6.googleusercontent.com/proxy/ENSym9jIOyO6FpofFkwE5oYc6qS6InKSVcEjbClkXgVsHJ2HwoTC6r3TL28w8pHbNExbHItzv0V1mzev2dPHqp17gsWbSt9_n3rG5rDDGCNL0ixgLkYJahvnhOw7culWn8qpeDcbGHmMEd5AbKCfuOofPEomZw\u003dw437-h240-k-no",
+          "subtitle": "Il tuo soggiorno nel B\u0026B Le Terrazze a Mola di Bari, ti regalerà gustosi risvegli da assaporare con gli occhi e col palato! Sorge tra le antiche mura del centro storico di Mola di Bari: le terrazze affacciate sul caratteristico porto cittadino ti faranno innamorare dell’eccezionale vista mare.",
+          "title": "B\u0026B LE TERRAZZE",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/uZCznY5wDyCytmBi9",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://bebleterrazzemoladibari.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.bbmolasandomenico.it/wp-content/uploads/2019/05/logo.png",
+          "subtitle": "Antica abitazione recentemente ristrutturata, nel centro storico di Mola di Bari, ubicata nella  monumentale villa comunale “a San Domenico” prende il nome dalla omonima chiesa convento adiacente. L’azienda agricola proprietaria, offre prodotti tipici, olio extravergine di oliva, frutta di stagione, visite e percorsi nella tenuta di campagna.",
+          "title": "B\u0026B A SAN DOMENICO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/z2UvPHhHjYM2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.bbmolasandomenico.it/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Premi il pulsante sotto per vedere altri B\u0026B :)",
+          "replies": [
+            "Altri B\u0026B"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Ecco a te i miglior B\u0026B di Mola :D :\nhttps://www.google.it/maps/search/B%26Bl+mola+di+bari/@41.0600986,17.0899481,16.12z\n\nPosso fare altro per te?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Gente famosa",
+    "synonyms": [
+      "Gente famosa",
+      "Gente importante",
+      "Gente importante di Mola",
+      "gente che ha fatto la storia di Mola di Bari"
+    ]
+  },
+  {
+    "value": "Personaggi Famosi",
+    "synonyms": [
+      "Persona illustre",
+      "Personaggi Famosi",
+      "Persone famose",
+      "persona che ha fatto la storia di Mola di Bari",
+      "persona importante"
+    ]
+  },
+  {
+    "value": "Personaggi illustri",
+    "synonyms": [
+      "Persona illustre",
+      "Personaggi illustri",
+      "Persone illustri"
+    ]
+  }
+]

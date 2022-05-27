@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "f0f4a073-631e-4fe6-a897-aad8e2954966",
+    "data": [
+      {
+        "text": "Dove si ",
+        "userDefined": false
+      },
+      {
+        "text": "riuniscono i ragazzi",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": " a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0efe4cad-7bf6-4464-b1eb-28e3ffcf829f",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "cocktail",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e35992d5-5d28-403d-a6f8-04de1a5940ab",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": " qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "96f90c3b-c96c-44db-af7b-6ff6425730c4",
+    "data": [
+      {
+        "text": "Uno",
+        "userDefined": false
+      },
+      {
+        "text": " stuzzichino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "58abb51c-8c61-4e86-855b-043df6028175",
+    "data": [
+      {
+        "text": "Cocktail",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9eb33f96-b9c3-44fa-bd26-194715794f35",
+    "data": [
+      {
+        "text": "E se voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "cocktail",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f0692dfc-31f4-4e88-a01c-c98b1aa40d7e",
+    "data": [
+      {
+        "text": "Avrei voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "gin tonic",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "47ee3b88-a8f2-459b-a9ca-7245e61ad712",
+    "data": [
+      {
+        "text": "Sai indicarmi dei ",
+        "userDefined": false
+      },
+      {
+        "text": "locali",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": " per andare a ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "451477fc-35f1-4726-b84d-820710df7584",
+    "data": [
+      {
+        "text": "Dove fare ",
+        "userDefined": false
+      },
+      {
+        "text": "baldoria",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d6a55d3e-a25d-403e-bc0b-9cee94fff150",
+    "data": [
+      {
+        "text": "Voglio prendere un ",
+        "userDefined": false
+      },
+      {
+        "text": "cocktail",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "738b148a-6a7b-4ed3-8036-94541ae88d9c",
+    "data": [
+      {
+        "text": "birra",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bionda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0190ab1e-0564-4c0b-ae89-9c3b887b54e9",
+    "data": [
+      {
+        "text": "Night ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "eae0109d-56d5-4a00-958c-f74bccff719b",
+    "data": [
+      {
+        "text": "Un buon ",
+        "userDefined": false
+      },
+      {
+        "text": "moscow mule",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "986955a5-ef6d-477c-95f7-05ae3af29c97",
+    "data": [
+      {
+        "text": "Dove fare baldoria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "44a3d9dc-2be9-4871-ab5f-9d51d4bde3df",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "alcolici",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e7b9f2ae-fb8f-4051-86e0-d389a3e65fe2",
+    "data": [
+      {
+        "text": "Voglio ballare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d44fb957-6693-4bb1-ba35-3397b565f4d5",
+    "data": [
+      {
+        "text": "Mi serve da ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dde315a3-058f-41b7-bec3-3948b22541e3",
+    "data": [
+      {
+        "text": "Sai dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "trovare la gioia",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8f4cc36b-b239-4ebc-9ddb-b21cff5d8f1b",
+    "data": [
+      {
+        "text": "voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "alcool",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d7fb0e4a-e645-4cff-8d56-ff93fbae9485",
+    "data": [
+      {
+        "text": "Sai dirmi dove ",
+        "userDefined": false
+      },
+      {
+        "text": "passano le serate i ragazzi",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": " a Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "559eebeb-30fc-46a6-8ce7-9c2ca6160088",
+    "data": [
+      {
+        "text": "Bar giovanili",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b50fa57-bc9f-44c8-be74-ba3735187d65",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "passare la serata",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a9e3a158-9cc7-4a00-bd71-50b9f4373406",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "alcolizzarmi",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "63d397c2-1595-4c6c-995c-d8b5ee2db0f7",
+    "data": [
+      {
+        "text": "Bar giovanili",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5a7b4db9-1da5-4c1f-80aa-d6010bc3577f",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "ubriacarmi",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b51657df-7649-447c-ab42-11106c81044d",
+    "data": [
+      {
+        "text": "Vino",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5244799b-a976-434a-89e3-b0de3792f5b3",
+    "data": [
+      {
+        "text": "Grazie, ma ci sono posti per trascorrere la ",
+        "userDefined": false
+      },
+      {
+        "text": "serata",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ebf52e9e-44df-45b7-97cf-aad81f865414",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "drink",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ae8bc6d4-9ae4-4cff-a519-146f23a4c963",
+    "data": [
+      {
+        "text": "Voglio uno ",
+        "userDefined": false
+      },
+      {
+        "text": "spritz",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9c7d0584-7861-4945-bf69-66155be7b726",
+    "data": [
+      {
+        "text": "Apericena",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3b9088ac-f28c-4385-85ba-0ea2ffda6a3e",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "drink",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "70e00d08-4475-4d1b-8bd3-43d5e2f6d519",
+    "data": [
+      {
+        "text": "Birra",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e2ac3f29-6e5f-4764-91c4-2e32ba9303e3",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "birra",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b966dd13-d502-4004-a606-971b0d57b844",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": " qualcosa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7fc9fe89-bf51-4ab5-9b87-04862c75a9c2",
+    "data": [
+      {
+        "text": "Voglio fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "aperitivo",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8a799d89-bcf4-474e-8c12-8211a6ddbadd",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "alcool",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "60ef7af1-481a-4f3c-b758-ff79c3695508",
+    "data": [
+      {
+        "text": "Meglio",
+        "userDefined": false
+      },
+      {
+        "text": " un ",
+        "userDefined": false
+      },
+      {
+        "text": "aperitivo",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "84d04c99-5cda-4167-9524-e8d1f3e845d9",
+    "data": [
+      {
+        "text": "Bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "339e23a4-a757-4ff9-8e10-c1a9944125ad",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "ubriacarmi",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2f0f3c3a-8be2-4abd-8c18-9c6f9781ab09",
+    "data": [
+      {
+        "text": "Vorrei fare un ",
+        "userDefined": false
+      },
+      {
+        "text": "aperitivo",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "34eb08ff-a793-4a15-9d91-a4311eaf27ca",
+    "data": [
+      {
+        "text": "Drink",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "59311e07-a79d-445f-aad2-36d272304b9c",
+    "data": [
+      {
+        "text": "Vorrei un ",
+        "userDefined": false
+      },
+      {
+        "text": "mojito",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c078ced1-51b2-42d6-9f83-a03827bec382",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aperitivo",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e9e60210-d96b-4f58-8894-0063913a17e9",
+    "data": [
+      {
+        "text": "Aperitivo",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "29eada07-3d3e-4aa2-beae-55cdbb30972a",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "706d4121-1113-429f-87e3-c6afee40a18b",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "ubriacarmi",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "25b55429-592e-453a-b45c-0b6be3c0ce86",
+    "data": [
+      {
+        "text": "Dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": " una ",
+        "userDefined": false
+      },
+      {
+        "text": "birra",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "30c8bba4-2b08-424e-a8ed-f83a87d4bbd7",
+    "data": [
+      {
+        "text": "Dove posso fare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aperitivo",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0a7bec69-ef6c-44fa-aab0-ec58719ab15b",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bicchiere di vino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dc8d6955-982d-4b24-8736-1e67b6f6be6e",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "bere",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  }
+]

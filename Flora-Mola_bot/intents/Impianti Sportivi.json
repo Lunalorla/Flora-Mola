@@ -1,0 +1,169 @@
+{
+  "id": "93e15e67-3bae-4491-832e-354de12884b5",
+  "name": "Impianti Sportivi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "abde84d6-b92f-4e88-bf72-10a779fd4e6a",
+          "name": "Impianti_Sportivi",
+          "required": true,
+          "dataType": "@Impianti_Sportivi",
+          "value": "$Impianti_Sportivi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "130814c4-e2ad-4900-ad77-f0102d11e4e2",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.playbasket.it/images/content/TrofeoVitoPinto2015_2015-09-14_LaVBCChiudeAlQuartoPosto.jpg",
+          "title": "Palasport Vito Pinto",
+          "buttons": [
+            {
+              "postback": "https://www.google.it/maps/dir/Via+Cerulli,+70042+Mola+di+Bari+BA/@41.0604335,17.0791322,15z/data\u003d!4m7!4m6!1m5!1m1!1s0x1347c59a985d1497:0xae4e92e14434ccbe!2m2!1d17.087887!2d41.0604338",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.faxonline.it/images/stories/mola/stadio.jpg",
+          "title": "Stadio Comunale “Caduti di Superga”",
+          "buttons": [
+            {
+              "postback": "https://mapcarta.com/it/32911548",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono tutti gli impianti sportivi disponibili a Mola. Posso fare altro?",
+          "replies": [
+            "Grazie!😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPTLHair6MH2Y9bBxtj1egJticGyImB9w4s6Bwa\u003dw427-h240-k-no",
+          "subtitle": "Luogo ideale per gli appassionati di basket.",
+          "title": "Palasport Vito Pinto",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Rpii1fYsWetceweZ7",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMIJsuoKsqH92RKuzd9A6V2DCUhNfkxAfKexXWi\u003dw408-h240-k-no-pi-10-ya80-ro-0-fo100",
+          "title": "Campo Sportivo Comunale \"Caduti di Superga\"",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/7eX4YAiHddHV4M4B6",
+              "text": "PORTAMI LI\u0027!🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.6435-1/56848166_10156650490806896_1602650382029291520_n.jpg?stp\u003ddst-jpg_p200x200\u0026_nc_cat\u003d106\u0026ccb\u003d1-5\u0026_nc_sid\u003d1eb0c7\u0026_nc_ohc\u003dDYY46SPv3BMAX_LMAwS\u0026_nc_ht\u003dscontent-mxp1-1.xx\u0026oh\u003d00_AT926LVP-wI3gEORMrvBbVAFvh9Nb4PYvjTSxIMRJxwN-Q\u0026oe\u003d628639F4",
+          "subtitle": "Affiliata CSAIN dal 2010 si prodiga da anni nello sviluppo dello sport e dei suoi valori, partendo dalle attività riservate ai più piccoli fino a giungere ai tornei amatoriali per i più grandi, sempre cercando di esaltare i principi più nobili delle varie discipline sportive",
+          "title": "Centro Sportivo La Serra",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/WmydRWEHxo32",
+              "text": "PORTAMI LI!🎯"
+            },
+            {
+              "postback": "http://www.laserracamp.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono tutti gli impianti sportivi disponibili a Mola. Posso fare altro?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

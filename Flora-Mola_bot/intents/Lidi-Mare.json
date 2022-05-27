@@ -1,0 +1,199 @@
+{
+  "id": "51d82380-fd47-4403-add1-7c46d75925dc",
+  "name": "Lidi-Mare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "478f297d-4e45-41b4-b524-04b53d58c7a9",
+          "name": "Mare",
+          "required": false,
+          "dataType": "@Mare",
+          "value": "$Mare",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4115f5dd-0444-4019-a829-3c7b63816e0c",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/08/bb/d1/fe/lido-calarena.jpg",
+          "subtitle": "Lido carino e accogliente con tutti i servizi. Mare splendido sia per chi ama gli scogli che p",
+          "title": "LIDO CALANERA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/qsnpJNSGnYQ2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Attraction_Review-g1078047-d6991250-Reviews-Lido_Calarena-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.wonderbeachclub.it/images/portfolio/wonder.jpg",
+          "subtitle": "Il Wonder Beach Club dispone di ampi e confortevoli spazi esterni con splendida vista panoramica del mare adriatico dal suo colore blu intenso. La sensazione di comfort che avvolge il cliente è sempre accompagnata da scenari mozzafiato.",
+          "title": "WONDER BEACH",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/zcu8ejs7osS2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.wonderbeachclub.it/lido",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.cocovillage.it/foto2016/1_beachclub/luxury/1%20area%20luxury%202.jpg",
+          "subtitle": "Tra i luoghi più esclusivi della costa pugliese c’è sicuramente il Beach Club del Coco village, una location sul mare che diventa un naturale punto di incontro di chi vuole vivere l’estate in un ambiente raffinato. Il beach club è apprezzato non solo da coloro che amano prendere la tintarella sulla spiaggia o a bordo piscina, ma anche da chi vuole dedicarsi alle diverse attività di svago o relax offerte dal Coco Village, dallo sport ai percorsi benessere alle attività nautiche.",
+          "title": "COCO BEACH",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/N94LdQpX7Ht",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.cocovillage.it/it/home/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Fai un bagno anche per me, buon divertimento. 😘",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/08/bb/d1/fe/lido-calarena.jpg",
+          "subtitle": "Lido carino e accogliente con tutti i servizi. Mare splendido sia per chi ama gli scogli che per chi preferisce la sabbia.",
+          "title": "LIDO CALANERA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/qsnpJNSGnYQ2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Attraction_Review-g1078047-d6991250-Reviews-Lido_Calarena-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1b/05/84/64/location.jpg",
+          "subtitle": "Il Wonder Beach Club dispone di ampi e confortevoli spazi esterni con splendida vista panoramica del mare adriatico dal suo colore blu intenso. La sensazione di comfort che avvolge il cliente è sempre accompagnata da scenari mozzafiato.",
+          "title": "WONDER BEACH",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/zcu8ejs7osS2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.tripadvisor.it/Restaurant_Review-g1078047-d8496436-Reviews-Wonder_Beach_Club-Mola_di_Bari_Province_of_Bari_Puglia.html",
+              "text": "RECENSIONI"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Oltre questi lidi c\u0027è anche la possibilità di usufruire di alcune spiagge libere. La maggior parte delle spiagge di trovano tra Mola e Cozze."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Fai un bagno anche per me e buon divertimento! Io intanto sono qui a tua disposizione.",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

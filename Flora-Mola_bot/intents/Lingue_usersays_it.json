@@ -1,0 +1,275 @@
+[
+  {
+    "id": "60510ba8-71c4-49b4-866d-7a6fe681538d",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "lingue",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sai parlare",
+        "meta": "@Lingue",
+        "alias": "Lingue1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "05c4cb91-5026-416f-855c-b0f299e08419",
+    "data": [
+      {
+        "text": "Quali ",
+        "userDefined": false
+      },
+      {
+        "text": "lingue",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": " conosci?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b7af02ff-4aa0-4420-a493-82ebd16e0fac",
+    "data": [
+      {
+        "text": "Dou you speak ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "95e0ea35-7f0b-44ac-943e-bda97fd328bc",
+    "data": [
+      {
+        "text": "Posso scriverti qualcosa in ",
+        "userDefined": false
+      },
+      {
+        "text": "francese",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2f07c943-8dfc-46a7-b727-146bda764481",
+    "data": [
+      {
+        "text": "Conosci il ",
+        "userDefined": false
+      },
+      {
+        "text": "tedesco",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1f0e4144-3c82-49bb-baa0-d8a716a013a3",
+    "data": [
+      {
+        "text": "Ma se ti chiedo qualcosa in ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027altra ",
+        "userDefined": false
+      },
+      {
+        "text": "lingua",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a31dbbc6-1de5-453b-99be-91983a25e1c3",
+    "data": [
+      {
+        "text": "Posso scrivere anche in ",
+        "userDefined": false
+      },
+      {
+        "text": "inglese",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ec4e0440-d8ab-429a-a598-d61236f2429b",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "lingue",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": " conosci?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9e47311f-6df5-4f2e-bfd7-5b8c4403b7d1",
+    "data": [
+      {
+        "text": "Solo l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "italiano",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": true
+      },
+      {
+        "text": " capisci?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "73eb15c6-1b9d-48ba-b14d-fc006bfe9ef5",
+    "data": [
+      {
+        "text": "Solo in italiano ",
+        "userDefined": false
+      },
+      {
+        "text": "sai parlare",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ebe8553f-19c5-487a-bb77-dce2ea5d83e1",
+    "data": [
+      {
+        "text": "Do you speak ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "meta": "@Lingue",
+        "alias": "Lingue",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "d11ff35f-3a83-4e91-a1f7-87d02e5ddeaf",
+  "name": "Riuso",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

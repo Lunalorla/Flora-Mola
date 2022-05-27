@@ -1,0 +1,90 @@
+{
+  "id": "6e0da885-d53b-43e7-b1db-d26a587f1286",
+  "name": "Polizia_Carabinieri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "55c330c3-9fa2-4c4f-8109-83fe34536748",
+          "name": "Polizia_Carabinieri",
+          "required": false,
+          "dataType": "@Polizia_Carabinieri",
+          "value": "$Polizia_Carabinieri",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.sudestonline.it/wp-content/uploads/2018/07/IMG-20180416-WA0007-800x445.jpg",
+          "subtitle": "Ti ricordo che il numero dei carabinieri è il 112.",
+          "title": "COMANDO CARABINIERI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/8BpEN2TfaSS2",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.ilgiunco.net/photogallery_new/images/2015/12/polizia-municipale-generica-2015-165059.660x368.jpg",
+          "subtitle": "Ti ricordo che il numero della polizia munincipale qui è il 080-4732428.",
+          "title": "POLIZIA MUNICIPALE",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/yxJKwXiTHC62",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

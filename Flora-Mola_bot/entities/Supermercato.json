@@ -1,0 +1,9 @@
+{
+  "id": "7d91c706-038f-4bff-94c2-92112a55a4d6",
+  "name": "Supermercato",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

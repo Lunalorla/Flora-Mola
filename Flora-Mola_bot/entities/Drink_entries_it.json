@@ -1,0 +1,55 @@
+[
+  {
+    "value": "Bere",
+    "synonyms": [
+      "Bere"
+    ]
+  },
+  {
+    "value": "Drink",
+    "synonyms": [
+      "Alcolici",
+      "Alcool",
+      "Aperitivo",
+      "Birra",
+      "Cocktail",
+      "Drink",
+      "Mojito",
+      "Spriz",
+      "amaro",
+      "aperol",
+      "assenzio",
+      "bloody mary",
+      "ciccetto",
+      "cicchetti",
+      "corona",
+      "disaronno",
+      "gin",
+      "gin tonic",
+      "happy hour",
+      "ichnusa",
+      "liquore",
+      "london mule",
+      "long island",
+      "manat",
+      "manhattan",
+      "martini",
+      "moscow mule",
+      "negroni",
+      "negroni sbagliato",
+      "punch",
+      "rum",
+      "spritz",
+      "tennent\u0027s",
+      "tennents",
+      "whishy"
+    ]
+  },
+  {
+    "value": "Ubriacare",
+    "synonyms": [
+      "Ubriacare",
+      "Ubriacarmi"
+    ]
+  }
+]

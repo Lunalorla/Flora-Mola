@@ -1,0 +1,187 @@
+[
+  {
+    "id": "c70c3211-f845-4f90-956b-a3f63a38e65a",
+    "data": [
+      {
+        "text": "Vorrei vedere ",
+        "userDefined": false
+      },
+      {
+        "text": "uno spettacolo",
+        "userDefined": false
+      },
+      {
+        "text": " teatrale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0852f6ed-a15a-4458-b128-bc4fbcae7144",
+    "data": [
+      {
+        "text": "Vorrei andare a ",
+        "userDefined": false
+      },
+      {
+        "text": "teatro",
+        "meta": "@Teatro",
+        "alias": "Teatro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ec02fa1e-1766-4629-9309-debcd3f1ef12",
+    "data": [
+      {
+        "text": "Ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "teatri",
+        "meta": "@Teatro",
+        "alias": "Teatro",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cc2c942f-ec2d-473d-9a54-b4208853f2fb",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "teatri",
+        "meta": "@Teatro",
+        "alias": "Teatro",
+        "userDefined": false
+      },
+      {
+        "text": " ci sono a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6947367f-6c08-42df-b61d-08b05ecc458f",
+    "data": [
+      {
+        "text": "Spettacolo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "teatrale",
+        "meta": "@Teatro",
+        "alias": "Teatro",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a0886aad-330a-40e4-94f7-2402dbbf3f4a",
+    "data": [
+      {
+        "text": "Opera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e92f05c6-deae-4df9-a96e-a935afc803e0",
+    "data": [
+      {
+        "text": "Spettacolo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "070d2a41-33ca-443a-a12a-737d541d7453",
+    "data": [
+      {
+        "text": "Teatri",
+        "meta": "@Teatro",
+        "alias": "Teatro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9deebcb9-b861-42ea-9c6a-3e95e5818d87",
+    "data": [
+      {
+        "text": "Teatro",
+        "meta": "@Teatro",
+        "alias": "Teatro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

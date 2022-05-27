@@ -1,0 +1,69 @@
+{
+  "id": "12180837-6648-4f20-9c2c-25ce78dcb1a7",
+  "parentId": "5a23be6b-abcc-48a9-9004-a25561cfbb18",
+  "rootParentId": "5a23be6b-abcc-48a9-9004-a25561cfbb18",
+  "name": "Selezione direzione hotel - cancel",
+  "auto": true,
+  "contexts": [
+    "Ostello",
+    "Selezionedirezionehotel-followup",
+    "Hotel",
+    "B_and_B"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Selezionedirezionehotel.Selezionedirezionehotel-cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Certo, fammi sapere se hai bisogno di aiuto! 😊"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Certo, fammi sapere se hai bisogno di aiuto!",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

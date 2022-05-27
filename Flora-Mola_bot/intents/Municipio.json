@@ -1,0 +1,105 @@
+{
+  "id": "2667933c-fbdf-423f-acf4-0f18713fe87c",
+  "name": "Municipio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c6ca8a20-45f5-487d-930c-a55f84e39672",
+          "name": "Comune",
+          "required": false,
+          "dataType": "@Comune",
+          "value": "$Comune",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.faxonline.it/images/stories/mola/municipiomola.jpg",
+          "title": "Municipio Mola di Bari",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/mDA6WJj5nsL2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.comune.moladibari.ba.it/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Nel sito web del comune, raggiungibile tramite bottone, sono disponibili tante altre informazioni."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.molalibera.it/wp-content/uploads/2019/03/Municipio-2.jpg",
+          "title": "Municipio Mola di Bari",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/LNvP8iRKtBm3uFSu7",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.comune.moladibari.ba.it/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Nel sito web del comune sono disponibili tante altre informazioni.",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

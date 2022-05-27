@@ -1,0 +1,9 @@
+{
+  "id": "e56fb0d9-9c0c-4cb0-bfc8-2d42756ca1a2",
+  "name": "Carburanti",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

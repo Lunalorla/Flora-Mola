@@ -1,0 +1,9 @@
+{
+  "id": "70be53d1-2a39-4c96-b4fd-4c82ac54b42b",
+  "name": "Monumenti",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

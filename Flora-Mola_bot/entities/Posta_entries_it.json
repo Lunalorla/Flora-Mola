@@ -1,0 +1,36 @@
+[
+  {
+    "value": "cartolina",
+    "synonyms": [
+      "cartolina",
+      "francobollo",
+      "inviare una lettera",
+      "lettera",
+      "missiva",
+      "postepay",
+      "raccomandata",
+      "spedire un pacco",
+      "telegramma"
+    ]
+  },
+  {
+    "value": "francobolli",
+    "synonyms": [
+      "francobolli"
+    ]
+  },
+  {
+    "value": "pacco",
+    "synonyms": [
+      "pacco"
+    ]
+  },
+  {
+    "value": "posta",
+    "synonyms": [
+      "posta",
+      "poste",
+      "ufficio postale"
+    ]
+  }
+]

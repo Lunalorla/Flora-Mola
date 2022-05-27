@@ -1,0 +1,9 @@
+{
+  "id": "17a13633-32c6-4425-8a03-ef799fcda1c6",
+  "name": "Bar",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,817 @@
+[
+  {
+    "id": "40e1b277-5402-448a-b946-e75a0e68a25d",
+    "data": [
+      {
+        "text": "cosa posso ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ca8094db-a64e-4afd-888d-864ce9907206",
+    "data": [
+      {
+        "text": "Dove posso scattare belle foto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d5bbc105-7e9b-4ec4-b3a9-dab71e9c13f3",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ce0b9e72-db6f-4e5a-a186-eb598718df21",
+    "data": [
+      {
+        "text": "cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5fdd5065-a124-4587-b5fa-da6435160d46",
+    "data": [
+      {
+        "text": "Cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "189285ee-70da-4fff-853a-66c9033f663c",
+    "data": [
+      {
+        "text": "Dove posso fare belle foto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "682de38b-3a65-4373-af2c-596339068a5b",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b622c389-af96-49a6-98ea-1cc95b192ceb",
+    "data": [
+      {
+        "text": "Da visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "984e2dbc-0411-46d3-9c3d-ac6850ad867f",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " questo paese",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "098a86f9-1d3d-489b-acf2-82a7447ecdba",
+    "data": [
+      {
+        "text": "Cosa c\u0027è di storico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e22cfe0a-5ca3-429c-803c-3e9a34a31aa5",
+    "data": [
+      {
+        "text": "Cerco qualcosa di caratteristico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d16e4324-0bed-4704-b6ac-fec9df3a87f0",
+    "data": [
+      {
+        "text": "Posto da visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0b6fae68-bcce-44e3-b9d1-1a2f79ae79f8",
+    "data": [
+      {
+        "text": "Luoghi con vista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cfda4ac7-6ebe-4fae-ae91-64c064ff38bb",
+    "data": [
+      {
+        "text": "Visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c431eea1-e705-452a-ae0a-cc85e6b1c49b",
+    "data": [
+      {
+        "text": "cosa posso ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "72f2f280-62b0-4531-a5b1-988995a08fcf",
+    "data": [
+      {
+        "text": "Ci sono dei posti caratteristici a ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3699fe5d-9c7a-4a0e-b9e0-4eec92982b7b",
+    "data": [
+      {
+        "text": "Posti da visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fba0c40d-c437-4bbe-b818-1753448dc082",
+    "data": [
+      {
+        "text": "Visitare ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "204777e0-5f13-4019-9da9-8beb8e73aeff",
+    "data": [
+      {
+        "text": "Domani",
+        "userDefined": false
+      },
+      {
+        "text": " voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " qualcosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "91d6f921-b9bf-4ffe-a5b3-1f922e54661c",
+    "data": [
+      {
+        "text": "Luoghi da visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e6948938-0351-49e4-947f-084a3bfcc802",
+    "data": [
+      {
+        "text": "Cosa ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "25b970be-4d9d-43e9-b4af-84e640871e69",
+    "data": [
+      {
+        "text": "Voglio ",
+        "userDefined": false
+      },
+      {
+        "text": "visitare",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6d1b0c17-2c57-4065-975f-764bd618a0af",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " consigli qualcosa da vedere a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3a2bbb38-7105-4318-9c75-6a3385e642d0",
+    "data": [
+      {
+        "text": "Cosa posso vedere",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "79d883cc-faba-4514-a081-f61d8c34b777",
+    "data": [
+      {
+        "text": "Mi puoi scaricare la ",
+        "userDefined": false
+      },
+      {
+        "text": "Guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bdcc2c6f-7082-416d-a2e3-a1ea28843174",
+    "data": [
+      {
+        "text": "Hai una ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "593710f3-13b2-4425-bd51-1cf5a3a339cb",
+    "data": [
+      {
+        "text": "Dammi la ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "87052f52-73bf-4046-b529-3f0efec9232d",
+    "data": [
+      {
+        "text": "Mi piacerebbe avere un ",
+        "userDefined": false
+      },
+      {
+        "text": "Guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " su Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "58625f42-b203-4b88-8120-df46eb6b1e1d",
+    "data": [
+      {
+        "text": "Mi puoi dare una ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e7f0960c-56b6-45af-9cf9-1d72cbcc2d96",
+    "data": [
+      {
+        "text": "Scarica la ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "66361383-9276-4eab-9ab6-a11cf6bb23a6",
+    "data": [
+      {
+        "text": "Hai una ",
+        "userDefined": false
+      },
+      {
+        "text": "Guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " su Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dc91a0c4-0e25-48c6-bff0-125e00e3ba29",
+    "data": [
+      {
+        "text": "Vorrei una ",
+        "userDefined": false
+      },
+      {
+        "text": "Guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " su Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "16eb24df-3977-452c-9447-1cc3bb96392e",
+    "data": [
+      {
+        "text": "Avresti una ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " su Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b699014e-9ede-435c-9fae-8b40d12a069c",
+    "data": [
+      {
+        "text": "Vorrei avere una ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0142949a-050c-4669-a9a1-f5ee456e03f1",
+    "data": [
+      {
+        "text": "Dammi la ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di mola di bari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d3f456e3-f1c6-4ec2-a4c9-04c3712e03f4",
+    "data": [
+      {
+        "text": "Guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e37b460-d7c3-4557-8b05-c84c7f649ae9",
+    "data": [
+      {
+        "text": "C\u0027è una ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f927a97c-129c-4d55-8467-0ca73690c788",
+    "data": [
+      {
+        "text": "Mi trovi un\u0027immagine del porto di Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fe5e7e50-2c87-4545-80aa-156caa1bb543",
+    "data": [
+      {
+        "text": "Scaricare la ",
+        "userDefined": false
+      },
+      {
+        "text": "guida",
+        "meta": "@Turismo",
+        "alias": "Turismo",
+        "userDefined": true
+      },
+      {
+        "text": " di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

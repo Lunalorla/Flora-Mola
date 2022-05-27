@@ -1,0 +1,210 @@
+[
+  {
+    "id": "3bf4d9c0-f139-4540-a80e-e9054b107d54",
+    "data": [
+      {
+        "text": "Pubblico",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a3305090-3912-47fe-8ad9-acf9a239433d",
+    "data": [
+      {
+        "text": "Servizi pubblici",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "98a8306e-0a57-4128-8bbc-e00887e87cae",
+    "data": [
+      {
+        "text": "Servizio pubblico",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c6d1f30d-1d16-4296-8a8a-19c337e406c5",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "servono",
+        "userDefined": false
+      },
+      {
+        "text": " i ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi pubblici",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6b126ce4-f257-41b1-9b20-94163fe2ef23",
+    "data": [
+      {
+        "text": "Mi",
+        "userDefined": false
+      },
+      {
+        "text": " mostri i ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi pubblici",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2e5e44df-d8e1-4010-8c5f-947de1ad2f66",
+    "data": [
+      {
+        "text": "Quali sono i ",
+        "userDefined": false
+      },
+      {
+        "text": "servizi pubblici",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "Mola di Bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5132a8e-e426-4333-ac9c-62477886833c",
+    "data": [
+      {
+        "text": "Fammi vedere ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "servizio pubblico",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fe1d297e-3ed7-42bb-9ff5-948d5011ef94",
+    "data": [
+      {
+        "text": "Pubblici",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1468dede-74c8-410b-8887-539ab776832b",
+    "data": [
+      {
+        "text": "Pubblica",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "21ddde92-61f7-4f8a-94de-91b80f19a9bb",
+    "data": [
+      {
+        "text": "Attività pubblica",
+        "meta": "@Servizi_Pubblici",
+        "alias": "servizi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

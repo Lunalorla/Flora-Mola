@@ -1,0 +1,141 @@
+{
+  "id": "e77c9b29-68e9-454f-9287-0f1bf3510d57",
+  "parentId": "ceae312a-c557-4965-a68d-63ca9ffc58e2",
+  "rootParentId": "ca8b52f4-ed87-483c-ad1f-1bf76b2a097a",
+  "name": "B\u0026B - next1 - next",
+  "auto": true,
+  "contexts": [
+    "BB-next1-followup",
+    "riuso"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BB.BB-next.BB-next1-next",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e23f222-b2f9-4cd1-9883-7e1b716ebb16",
+          "name": "Dormire",
+          "required": false,
+          "dataType": "@Dormire",
+          "value": "$Dormire",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "http://www.locandadegliangioini.it/images/camera_Vaaz/3camera_Vaaz.JPG",
+          "subtitle": "La locanda degli Angioini sLa locanda degli Angioini nasce in una tipica abitazione del centro storico di Mola di Bari; uno degli alloggi realizzati dagli Angioini nel 1200 durante la ripopolazione di Mola e, secondo le cronache dell’epoca, utilizzato sin da subito per ospitare soldati e viandanti. La locanda degli Angioini si compone di quattro stanze, di cui due matrimoniali e due quadruple (matrimoniale e doppia), tutte con bagno privato, aria condizionata e riscaldamento autonomo, TV digitale 32’’, asciugacapelli, connessione Wi-Fi, minifrigo e colazione inclusa.oniali e due quadruple (matrimoniale e doppia), tutte con bagno privato, aria condizionata e riscaldamento autonomo, TV digitale 32’’, asciugacapelli, connessione Wi-Fi, minifrigo e colazione inclusa.",
+          "title": "B\u0026B LOCANDA DEGLI ANGIOINI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/oMag3L91TBA2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.locandadegliangioini.it/",
+              "text": "SITO WEB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Questi sono tutti i B\u0026B che conosco, se ti va, lasciami un feedback.",
+          "replies": [
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.locandadegliangioini.it/wp-content/uploads/2019/07/logo.png",
+          "subtitle": "La Locanda degli Angioini dispone anche di una spettacolare terrazza panoramica da cui si può ammirare il Castello Angioino - Aragonese che dista solo pochi metri ed il lungomare molese anch\u0027esso vicinissimo.",
+          "title": "B\u0026B LOCANDA DEGLI ANGIOINI",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/d9wbdkRcypaXrooLA",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "http://www.locandadegliangioini.it/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.palazzointrona.com/wp-content/uploads/2020/03/logo_palazzointrona_versione2.png",
+          "subtitle": "Con i suoi quasi tre secoli di vita densi di storia e cultura, Palazzo Introna é la cornice originale ed elegante per soggiorni indimenticabili ed eventi personalizzati.",
+          "title": "Palazzo Introna",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/gfx7vatWBXsTR8fe8",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.palazzointrona.com/",
+              "text": "SITO WEB 🌐"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Questi sono tutti i B\u0026B che conosco. Posso aiutarti in altri modi?",
+          "replies": [
+            "Nuova Ricerca"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

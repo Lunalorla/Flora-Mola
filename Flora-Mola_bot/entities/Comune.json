@@ -1,0 +1,9 @@
+{
+  "id": "84c83763-959a-4260-ba82-aee90ebb404b",
+  "name": "Comune",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

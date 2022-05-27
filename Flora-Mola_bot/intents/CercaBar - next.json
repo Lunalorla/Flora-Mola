@@ -1,0 +1,183 @@
+{
+  "id": "f9e9bca2-683d-45e0-8215-5650d8103ff5",
+  "parentId": "4f69b0e4-25c7-424c-bf90-31e72ce7dac7",
+  "rootParentId": "4f69b0e4-25c7-424c-bf90-31e72ce7dac7",
+  "name": "CercaBar - next",
+  "auto": true,
+  "contexts": [
+    "CercaBar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CercaBar.CercaBar-next",
+      "affectedContexts": [
+        {
+          "name": "riuso",
+          "lifespan": 5
+        },
+        {
+          "name": "CercaBar-next-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/33540716_1793552264070743_4757742548900904960_n.jpg?_nc_cat\u003d0\u0026oh\u003defac7591dd18b39fc769a2c7363a4c36\u0026oe\u003d5BA54869",
+          "subtitle": "Luogo dove il dolce,il salato,il drink la musica e la gentilezza,regnano sovrane!!",
+          "title": "VISTAMAR CAFFE\u0027",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/R27RPfeTpBF2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/Vistamar-caf%C3%A8-601532453272736/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/29694744_1465535376909072_5729392347439955968_n.jpg?_nc_cat\u003d0\u0026oh\u003d13be6f828ecb93a4099463a61f44e0f9\u0026oe\u003d5BD7F13A",
+          "subtitle": "Il sistema Caffè A\u0027Roma, oltre all\u0027uso privato (caffè e uffici), è eccellente per soddisfare le esigenze dell\u0027uso commerciale e professionale. Hai un bar, ristorante, B\u0026B, agriturismo? Scopri la proposta più adatta alle tue esigenze.",
+          "title": "CAFFE\u0027 A\u0027ROMA",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/5BFNP8RidpJ2",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/caffe.aroma.1/",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/cf/59/84/bar-la-stazione.jpg",
+          "subtitle": "Piccolo e antico bar di Mola di Bari. Situato appena a qualche metro dal porto della città, saprà accontentare qualsiasi vostro desiderio: caffè, dolcetti, succhi.",
+          "title": "BAR DEL PORTO",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/t5XVMtNkJHy",
+              "text": "PORTAMI LI! 🎯"
+            },
+            {
+              "postback": "https://www.facebook.com/pages/Bar-Del-Porto-Mola-Di-Bari/234142873381969",
+              "text": "PAGINA FB"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Se vuoi, posso mostrartene altri...",
+          "replies": [
+            "Altri bar",
+            "Grazie! 😘"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKgDCsRR9q8XdVULcDythcGMcgkFSFT_w9_O0h\u003dw408-h544-k-no",
+          "subtitle": "Adatto a trascorrere momenti in buona compagnia e tranquillità.",
+          "title": "MOOD",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/haTEK4Yq9WfPhhXM7",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMd0wdjor0ahZ2Z8pjde_HMkV_zj0n-jzx41c9Y\u003dw426-h240-k-no",
+          "subtitle": "Locale carino e pet friendly con staff cordiale",
+          "title": "Bar-Bà",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/kh6YnLrSV96w73Jh7",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNfAXGd05Sc8Io1XuvnGOEp4ZW1jF97e6fTk_CM\u003dw408-h544-k-no",
+          "subtitle": "Ottima pasticceria e proprietari gentili e disponibili",
+          "title": "Caffè Italiano",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/MLYAPbDqX2DaYw8b6",
+              "text": "PORTAMI LI! 🎯"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Se ti interessa, posso mostrarti altri bar :)",
+          "replies": [
+            "Altri bar"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "357e7599-6089-44f6-b44e-bfee0811ad5a",
+    "data": [
+      {
+        "text": "Stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "33ae4ad8-c64c-49d7-b5af-587714e056c8",
+    "data": [
+      {
+        "text": "Vorrei prenotare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bus",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": true
+      },
+      {
+        "text": " per ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "292e141b-eb74-4390-86cd-b46f2c11c8ae",
+    "data": [
+      {
+        "text": "Dove posso andare per prenotare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bus per",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8352f3de-d13c-40b5-a826-3369a4b26072",
+    "data": [
+      {
+        "text": "Ho bisogno della ",
+        "userDefined": false
+      },
+      {
+        "text": "stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ddd1452d-aab8-450e-90da-f04bede3931a",
+    "data": [
+      {
+        "text": "Dei ",
+        "userDefined": false
+      },
+      {
+        "text": "trasporti",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": true
+      },
+      {
+        "text": " che mi dici?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e510d52-96c3-4add-8572-2d6ad82f1234",
+    "data": [
+      {
+        "text": "Dov\u0027è la ",
+        "userDefined": false
+      },
+      {
+        "text": "stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "29c7b2fc-daab-4d84-a98b-d91ee90b500e",
+    "data": [
+      {
+        "text": "devo prendere il ",
+        "userDefined": false
+      },
+      {
+        "text": "treno",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bfd9a8cc-0310-482c-8a5d-2f29ccbbe248",
+    "data": [
+      {
+        "text": "Sai dove si trova la ",
+        "userDefined": false
+      },
+      {
+        "text": "stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3e077b92-7c84-4c90-b0cf-fd9d882d046b",
+    "data": [
+      {
+        "text": "Fermate ",
+        "userDefined": false
+      },
+      {
+        "text": "autobus",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fb0d9e6b-5fea-4bc1-8075-3796b2f3d4c1",
+    "data": [
+      {
+        "text": "A mola c\u0027è ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " strazione?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1412108b-2862-4265-b359-724ae7887f76",
+    "data": [
+      {
+        "text": "C\u0027È una ",
+        "userDefined": false
+      },
+      {
+        "text": "stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": " a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b1085c74-56e7-4c03-a4d4-8c7b9795500a",
+    "data": [
+      {
+        "text": "Ci sono pullman o ",
+        "userDefined": false
+      },
+      {
+        "text": "treni per",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alberobello",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1518544c-eeda-4f90-8100-9b92d4ad4948",
+    "data": [
+      {
+        "text": "trenitalia",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e2176731-5ade-4821-883a-d31a78912476",
+    "data": [
+      {
+        "text": "Me ",
+        "userDefined": false
+      },
+      {
+        "text": "ne",
+        "userDefined": false
+      },
+      {
+        "text": " voglio andare da mola! Voglio andare a ",
+        "userDefined": false
+      },
+      {
+        "text": "Bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1611bccc-fccc-41ff-b92a-e6454c9333a5",
+    "data": [
+      {
+        "text": "Treni",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "57420dd3-dc18-429e-9a46-93a4f32762af",
+    "data": [
+      {
+        "text": "Stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": true
+      },
+      {
+        "text": " mola di Bari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "acf8bc06-1fae-4be1-a66f-04cc6ec1c67b",
+    "data": [
+      {
+        "text": "Stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mola di Bari",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3c65eb3e-0177-40ae-af14-efbe22b79990",
+    "data": [
+      {
+        "text": "Orari ",
+        "userDefined": false
+      },
+      {
+        "text": "treni",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6bebc493-5bb2-4be0-87ed-8a0e886a5bdf",
+    "data": [
+      {
+        "text": "C\u0027È ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": " a Mola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6af56711-4eae-445e-b810-741a1187d029",
+    "data": [
+      {
+        "text": "corse treni",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fec04539-58d3-49fe-ac39-077640689baa",
+    "data": [
+      {
+        "text": "Mezzi pubblici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bbd6b4c4-a92c-4fcc-834e-14fceb3ce734",
+    "data": [
+      {
+        "text": "Bus",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": " per Bari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2b95ef41-9b62-422c-b77f-1783f30824db",
+    "data": [
+      {
+        "text": "Stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": " a mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "55ea89ff-9622-429a-b6a6-2a25f1972371",
+    "data": [
+      {
+        "text": "A mola c\u0027è una ",
+        "userDefined": false
+      },
+      {
+        "text": "stazione",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3ed3a6ef-738e-4c1d-9c93-8e4ce83ff658",
+    "data": [
+      {
+        "text": "Treni",
+        "meta": "@Stazione",
+        "alias": "Stazione",
+        "userDefined": false
+      },
+      {
+        "text": " per Mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "022c8a67-3d09-4ce4-88fe-b3ef235434e1",
+    "data": [
+      {
+        "text": "carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8650a79b-30b3-4a0c-b5a4-5ca0d385dfd0",
+    "data": [
+      {
+        "text": "Petto di pollo",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b5ff81ef-d083-45e4-980b-764c06fdca84",
+    "data": [
+      {
+        "text": "Voglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta al forno",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b981b577-4716-4aff-a287-17195eada93d",
+    "data": [
+      {
+        "text": "Carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      },
+      {
+        "text": " arrosto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "668dd21d-bb36-4c5f-9e20-a5f71ea9347a",
+    "data": [
+      {
+        "text": "Voglio mangiare la ",
+        "userDefined": false
+      },
+      {
+        "text": "carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "68cb716b-b860-466d-8e4c-a2a1a3c33aaa",
+    "data": [
+      {
+        "text": "Preferirei della ",
+        "userDefined": false
+      },
+      {
+        "text": "carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f635b2cf-7067-46cd-a4bd-77cc8242fe93",
+    "data": [
+      {
+        "text": "Dove posso mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bistecca",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9f59e1eb-1f99-4748-98b5-9190e8ec069f",
+    "data": [
+      {
+        "text": "Dove si mangia la ",
+        "userDefined": false
+      },
+      {
+        "text": "carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a294d4a1-77b7-48b2-ba7d-9b74b3a7246a",
+    "data": [
+      {
+        "text": "La ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta al forno",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "00f12b08-3e97-4923-a093-70e0868f34e2",
+    "data": [
+      {
+        "text": "Voglio un ",
+        "userDefined": false
+      },
+      {
+        "text": "petto di pollo",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31389752-f338-425c-bdb6-b603bbb88ab1",
+    "data": [
+      {
+        "text": "Arrosto",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b82b9184-1192-4356-bd49-8882de249061",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bistecca",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "042dfc1d-464f-45bd-b28b-81db8059eb7d",
+    "data": [
+      {
+        "text": "E se vorrei mangiare della ",
+        "userDefined": false
+      },
+      {
+        "text": "carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9b1b2cd4-2cc8-47b9-adf0-8df273af875a",
+    "data": [
+      {
+        "text": "Carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      },
+      {
+        "text": "©",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f3821543-5af8-46f6-8af0-c75843e0e4f1",
+    "data": [
+      {
+        "text": "Dove posso mangiare la ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta al forno",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "292e962d-da87-4ba1-81b1-8f20faea4ea7",
+    "data": [
+      {
+        "text": "Oggi ",
+        "userDefined": false
+      },
+      {
+        "text": "carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1349e5a1-9dc3-4dea-8288-10151693b1e2",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f8007c93-5dfc-4a78-a1e5-f573ee1875f3",
+    "data": [
+      {
+        "text": "Voglio la ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta al forno",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      },
+      {
+        "text": " a pranzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e0bc402-e82a-4e75-8936-5791ed901013",
+    "data": [
+      {
+        "text": "Ho voglia di una ",
+        "userDefined": false
+      },
+      {
+        "text": "bistecca",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "164de4c3-e5a6-4908-93d4-cce1b8f17af1",
+    "data": [
+      {
+        "text": "Carne",
+        "meta": "@Carne",
+        "alias": "Carne",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  }
+]

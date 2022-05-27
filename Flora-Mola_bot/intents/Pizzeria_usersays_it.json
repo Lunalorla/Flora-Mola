@@ -1,0 +1,887 @@
+[
+  {
+    "id": "d02912e8-27d6-4103-8b08-a6ec13e68315",
+    "data": [
+      {
+        "text": "Vorrei mangiare una ",
+        "userDefined": false
+      },
+      {
+        "text": "bufala e funghi",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e8cff67b-8dcc-46b6-b85d-4325c3ba5fa7",
+    "data": [
+      {
+        "text": "Voglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "4 stagioni",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "722bd314-5c91-4400-8ae1-f9870d33d9a7",
+    "data": [
+      {
+        "text": "Pizzerie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f64f0e24-373a-4e95-8243-ac25a08da3a8",
+    "data": [
+      {
+        "text": "Pizzq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bdb0a87b-ebba-4166-a56c-60eabc9dfed5",
+    "data": [
+      {
+        "text": "vorrei mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d6f73387-18b4-4049-a4ff-4c34774509b7",
+    "data": [
+      {
+        "text": "Ho detto ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "def0923f-88a9-43d5-ac82-6ca4d39fa52c",
+    "data": [
+      {
+        "text": "Ciao dove posso mangiare la ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "75de5818-029a-4eca-aeec-2dbc1e48dbe5",
+    "data": [
+      {
+        "text": "Forno a legna",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "91d30337-8249-4579-9a79-db0f45b5054b",
+    "data": [
+      {
+        "text": "Voglio una ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e1f90348-5efc-4c54-9de8-1f17d2a9e6ba",
+    "data": [
+      {
+        "text": "Pizzeria",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c4a4b24a-295a-4617-a09a-866d05b2507d",
+    "data": [
+      {
+        "text": "Pizzeria",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": " migliore di mola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4d044ad0-afbb-4e63-acfc-89c62da23b8c",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "panzerotto",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "57f904d6-7422-44d9-ad87-9dba8a884d50",
+    "data": [
+      {
+        "text": "Ciao vorrei sapere dove ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare una pizza stasera",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d8efb416-fbae-4b0f-87d5-91ee84c5536f",
+    "data": [
+      {
+        "text": "Voglio la ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": " con la ",
+        "userDefined": false
+      },
+      {
+        "text": "norcia",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "bufala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "75edc556-1306-4875-bcff-4847974c82d0",
+    "data": [
+      {
+        "text": "Trova ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzeria",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": " economca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2add2c02-2e4a-4a7c-a56e-6c977fa3c116",
+    "data": [
+      {
+        "text": "dove posso mangiare una ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2613fe38-e82f-459a-8254-76b31ae083c4",
+    "data": [
+      {
+        "text": "ho voglia di una ",
+        "userDefined": false
+      },
+      {
+        "text": "diavola",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e3a56f98-29ef-42a0-a750-1cbe26332e30",
+    "data": [
+      {
+        "text": "Portami in ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzeria",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "df8ce053-7c48-4028-a5d0-053b88fc6bbd",
+    "data": [
+      {
+        "text": "vorrei mangiare una pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      },
+      {
+        "text": " stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9cf9bada-8229-4cd3-8045-21da01c9c406",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare una pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f5f50b84-fde9-4df5-a888-2cca8901b300",
+    "data": [
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "diavola",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "09b4a27a-c8cd-47f6-abb7-2dd7b778aa22",
+    "data": [
+      {
+        "text": "Che ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzeria",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      },
+      {
+        "text": " mi consiglia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "aebf17bc-2283-4c4f-ad9b-ef23d7cc3543",
+    "data": [
+      {
+        "text": "dove posso mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "14efcac4-ea0a-468b-873e-7ab05259e9ea",
+    "data": [
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "af002684-7ccf-4be3-8ca5-bb6fd4374d92",
+    "data": [
+      {
+        "text": "Voglio mangiare una ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "614466c4-ba9f-4e95-862f-c9e7549717a3",
+    "data": [
+      {
+        "text": "Ciao pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e4968b81-1886-424e-8b40-b80651a46109",
+    "data": [
+      {
+        "text": "vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare una pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      },
+      {
+        "text": " stasera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d0278410-2eb2-4e09-94c7-953cd1a85549",
+    "data": [
+      {
+        "text": "Una buona ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzeria",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f436950c-7759-4ed7-ae3c-71826e0a2d34",
+    "data": [
+      {
+        "text": "pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f35d754b-39ba-4a8d-b86d-f817b6e6dd82",
+    "data": [
+      {
+        "text": "dove posso ",
+        "userDefined": false
+      },
+      {
+        "text": "mangiare una pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      },
+      {
+        "text": " stasera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 16,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "abfe3bfa-ad41-4508-9a7c-fff9e15753e8",
+    "data": [
+      {
+        "text": "Pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1369349c-e476-434e-9a7b-fefeeb387c32",
+    "data": [
+      {
+        "text": "oggi",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "af2e65a3-a1da-45b6-b178-430725f13592",
+    "data": [
+      {
+        "text": "Ho voglia di ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "286f6046-3b3c-4a44-9f46-7e20c358601e",
+    "data": [
+      {
+        "text": "Trova ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzeria",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": " economica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b4528780-4b5f-40a3-b591-0aa5e27f6ea6",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": " fritta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a2d325fc-0b43-48b4-8900-8fe63658c823",
+    "data": [
+      {
+        "text": "Una pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2505f17a-55c1-4b8a-9173-cb7f884621e6",
+    "data": [
+      {
+        "text": "Voglio solo una ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ea364605-aa38-4d74-b92a-d967baaede6f",
+    "data": [
+      {
+        "text": "Pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": "©",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 19,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b04e105b-603d-498f-b78d-29ffff76352d",
+    "data": [
+      {
+        "text": "panzerotti",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f237d5c3-a719-4e7f-a2ca-28ea0831960a",
+    "data": [
+      {
+        "text": "Vorrei ",
+        "userDefined": false
+      },
+      {
+        "text": "una pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4513997f-8218-4aea-bbe0-f7cbbdc970b0",
+    "data": [
+      {
+        "text": "dove posso mangiare ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Pizzeria",
+        "alias": "Pizzeria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stasera",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "it",
+    "updated": 0
+  }
+]

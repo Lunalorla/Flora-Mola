@@ -1,0 +1,138 @@
+{
+  "id": "e2f9e715-38bf-47ae-bc22-292caf288196",
+  "name": "Mangiare Ristorante",
+  "auto": true,
+  "contexts": [
+    "Mangiare"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ristorante_pesce",
+          "lifespan": 1
+        },
+        {
+          "name": "ristorante_carne",
+          "lifespan": 1
+        },
+        {
+          "name": "MangiareRistorante-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Mangiare",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "27c260ff-a4c0-4e27-9739-b3df6be346cf",
+          "name": "ristorante",
+          "required": false,
+          "dataType": "@ristorante",
+          "value": "$ristorante",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ae64179f-6f83-4211-aef0-bb8acc154212",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fa8d7f2c-6eca-46aa-960d-9c1216fea2a3",
+          "name": "Cibo",
+          "required": false,
+          "dataType": "@Cibo",
+          "value": "$Cibo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3917ca5f-7d9e-497b-b83a-b743a7e7e0ca",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Preferisci mangiare pesce o carne?",
+          "replies": [
+            "Carne🍗",
+            "Pesce🐟"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Preferisci mangiare pesce, carne, vegano o asiatico?",
+          "replies": [
+            "Carne",
+            "Pesce",
+            "Vegano",
+            "Asiatico"
+          ],
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "it",
+          "speech": [
+            "Perfetto, preferiresti carne o pesce? O vegano? O anche giaponese",
+            "D\u0027accordo, scegli la portata principale tra carne, pesce oppure specifica se ne cerchi uno di tipo vegano, o anche giapponese!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
