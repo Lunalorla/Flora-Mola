@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0"
-}
-
-"scripts": {
-    "start": "node your-script.js"
+  "name": "flora-mola",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node agent.js"
+  }
 }
