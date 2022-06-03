@@ -8,8 +8,13 @@ app.use(express.static(path.join(__dirname, './public')));
 
 
 app.get('/', function(req, res) {
-  res.send('Hello World!')
+  res.send('Hello World!');
 });
+
+app.get('/prova', function(req, res){
+res.send(req);
+});
+
 
 app.listen(PORT, function(){
   console.log('Server in ascolto sulla porta: ' + PORT);
