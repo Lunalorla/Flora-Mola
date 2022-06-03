@@ -12,12 +12,20 @@ app.get('/', function(req, res) {
 });
 
 app.post('/fullfillment', function(req, res){
+
+  const hotelToSearch =
+  req.body.queryResult && req.body.queryResult.parameters && req.body.queryResult.parameters.Hotel
+    ? req.body.result.parameters.Hotel
+    : ''
+
   res.json({
-    fullfillmentText: "Hotel Gabbiano",
+    fullfillmentText: "La keyword in input è" + hotelToSearch,
     source: "fullfillment"
   });
 
   });
+
+
 
 
 app.listen(PORT, function(){
