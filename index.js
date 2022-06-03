@@ -11,8 +11,12 @@ app.get('/', function(req, res) {
   res.send('Hello World!');
 });
 
-app.get('/fullfillment', function(req, res){
-  res.send('Fullfillment for Heroku');
+app.post('/fullfillment', function(req, res){
+  res.json({
+    fullfillmentText: "Hotel Gabbiano",
+    source: "fullfillment"
+  });
+
   });
 
 
