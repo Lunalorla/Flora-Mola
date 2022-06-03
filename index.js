@@ -11,12 +11,8 @@ app.get('/', function(req, res) {
   res.send('Hello World!');
 });
 
-app.get('/prova', function(req, res){
-res.send(JSON.stringify(req));
-});
-
 app.get('/fullfillment', function(req, res){
-  console.log("Fullfillment for Heroku");
+  res.send('Fullfillment for Heroku');
   });
 
 
