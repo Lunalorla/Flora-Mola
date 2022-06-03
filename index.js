@@ -15,6 +15,10 @@ app.get('/prova', function(req, res){
 res.send(JSON.stringify(req));
 });
 
+app.get('/fullfillment', function(req, res){
+  console.log("Fullfillment for Heroku");
+  });
+
 
 app.listen(PORT, function(){
   console.log('Server in ascolto sulla porta: ' + PORT);
