@@ -5,29 +5,28 @@ const app = express();
 
 
 app.use(express.static(path.join(__dirname, './public')));
+app.use(express.urlencoded({ extended: true, }));
+app.use(express.json());
 
-
-app.get('/', function(req, res) {
+app.get('/', function (req, res) {
   res.send('Hello World!');
 });
 
-app.post('/fullfillment', function(req, res){
+app.post('/fullfillment', function (req, res) {
 
-  const hotelToSearch =
-  req.body.queryResult && req.body.queryResult.parameters && req.body.queryResult.parameters.Hotel
-    ? req.body.result.parameters.Hotel
-    : ''
+  const hotelToSearch = req.body.queryResult.parameters.Hotel;
 
   res.json({
     fullfillmentText: "La keyword in input è" + hotelToSearch,
     source: "fullfillment"
   });
 
-  });
+
+});
 
 
 
 
-app.listen(PORT, function(){
+app.listen(PORT, function () {
   console.log('Server in ascolto sulla porta: ' + PORT);
 });
