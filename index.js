@@ -12,7 +12,7 @@ app.get('/', function(req, res) {
 });
 
 app.get('/prova', function(req, res){
-res.send(req);
+res.send(JSON.stringify(req));
 });
 
 
