@@ -17,14 +17,12 @@ app.post('/fullfillment', function (req, res) {
   const hotelToSearch = req.body.queryResult.parameters.Hotel;
 
   res.json({
-    fullfillmentText: "La keyword in input è" + hotelToSearch,
+    fullfillmentText: "La keyword in input è " + hotelToSearch,
     source: "fullfillment"
   });
 
 
 });
-
-
 
 
 app.listen(PORT, function () {
