@@ -12,15 +12,42 @@ app.get('/', function (req, res) {
   res.send('Hello World!');
 });
 
-app.post('/fullfillment', function (req, res) {
+// app.post('/fullfillment', function (req, res) {
 
-  const hotelToSearch = req.body.queryResult.parameters.Hotel;
+//   var intent = "";
 
-  res.json({
-    fullfillmentText: "La keyword in input è " + hotelToSearch,
-    source: "fullfillment"
+//   switch(intent){
+//     case req.body.queryResult.parameters.Hotel:
+//       const hotelToSearch = req.body.queryResult.parameters.Hotel;
+//       res.json({
+//         fullfillmentText: "La keyword in input è " + hotelToSearch,
+//         source: "fullfillment"
+//       });
+//       break;
+//     case req.body.queryResult.parameters.BeB:
+
+//       const bebToSearch = req.body.queryResult.parameters.BeB;
+//       res.json({
+//         fullfillmentText: "La keyword in input è " + bebToSearch,
+//         source: "fullfillment"
+//       });
+//       break;
+//     default:
+//       res.json({
+//         fullfillmentText: "caso default"
+//       });
+//   }
+
+// });
+
+  app.post('/fullfillment', function (req, res) {
+
+   const hotelToSearch = req.body.queryResult.parameters.Hotel;
+
+   res.json({
+     fullfillmentText: "La keyword in input è " + hotelToSearch,
+     source: "fullfillment"
   });
-
 
 });
 
@@ -28,3 +55,4 @@ app.post('/fullfillment', function (req, res) {
 app.listen(PORT, function () {
   console.log('Server in ascolto sulla porta: ' + PORT);
 });
+
